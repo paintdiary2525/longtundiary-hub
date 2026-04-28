@@ -1,6 +1,46 @@
 {
   "updated": "2026-04-28",
   "feed": "substack-weekly",
-  "_note": "Empty starter — Press will populate on her first run via /press substack.",
-  "weeks": []
+  "weeks": [
+    {
+      "week_label": "Research Digest — สัปดาห์ 19–26 เมษายน 2026",
+      "papers": [
+        {
+          "title": "Deep|NVDA: Rethinking NVIDIA's Moat in the AI Stack",
+          "author": "FundaAI team",
+          "author_url": "https://fundaai.substack.com",
+          "core_thesis": "บทความนี้ dissect CUDA moat ของ NVIDIA ใน 3 layer — ecosystem, closed-source libraries, และ compiler — โดยชี้ว่าทั้ง 3 layer กำลังถูก reprice พร้อมกัน: hyperscalers กำลัง diversify compute sourcing (Google TPU, AWS Trainium, Meta MTIA), Triton ทำให้ cuDNN/cuBLAS ไม่ใช่ \"required path\" อีกต่อไป, และ AI-generated kernels จาก Standard Kernel, doubleAI, และ NVIDIA's own AVO เริ่ม outperform hand-written ones บน specific workloads แล้ว",
+          "key_takeaway": "NVIDIA ยังได้เปรียบจาก hardware system knowledge และ near-term execution cadence แต่ premium ของ $NVDA กำลัง shift จาก \"structural lock-in\" ไปสู่ \"stickiness ที่เกิดจากเวลาและ friction\" — เป็นสัญญาณที่นักลงทุนควรติดตามอย่างต่อเนื่องเมื่อประเมิน multiple ของหุ้น"
+        },
+        {
+          "title": "The CoreWeave Series | Part 2: The TSMC of the Cluster",
+          "author": "Jason's Chips",
+          "author_url": null,
+          "core_thesis": "บทความนี้เสนอ framework ใหม่ว่า CoreWeave ($CRWV) ควรถูกมองเหมือน TSMC ไม่ใช่ commodity GPU rental — \"goodput\" (GPU hours ที่ผลิต useful work จริงๆ) คือ \"yield\" ของ cluster เหมือนที่ known-good-dies คือ yield ของ foundry SemiAnalysis จัดให้ CoreWeave ครอง ClusterMAX Platinum tier รายเดียว โดย hyperscalers มี goodput loss 10.53% vs 6.14% ของ gold-tier neoclouds และ TCO สูงกว่าถึง 1.6x บน RL workloads",
+          "key_takeaway": "ถ้า premise ที่ว่า GPU cloud เป็น commodity ผิด ทั้ง bear case จะพัง — CoreWeave กำลัง \"underearning\" เพราะ pricing ยังไม่สะท้อน goodput value ที่ส่งมอบ และ ROIC จะ inflect ขึ้นเมื่อ buyers เข้าใจ TCO math จริงๆ"
+        },
+        {
+          "title": "The CPU Bottleneck Trade: Who Actually Gets Paid in the Agentic AI Era?",
+          "author": "Damnang (Semiconductor Basics)",
+          "author_url": "https://damnang.substack.com",
+          "core_thesis": "หลัง Intel CEO ประกาศว่า CPU คือ \"orchestration layer\" ของ AI stack และ GPU-to-CPU ratio จะแคบลงจาก 7–8:1 (training era) มาเป็น 1:1+ (agentic AI era) — บทความนี้ deep dive 5 หุ้น (Intel, AMD, NVIDIA, ARM, Qualcomm) ผ่าน ISA analysis และ 6 investment scenarios เพื่อตอบว่าใครจะ convert rising CPU demand ไปเป็น margin ได้จริง",
+          "key_takeaway": "Intel = เดิมพัน foundry optionality (EMIB/Foveros packaging) ไม่ใช่แค่ CPU; AMD = full-stack second platform ถ้า MI450+EPYC attach rate confirm; Qualcomm = asymmetry ที่ถูกที่สุดที่ 15x P/E ถ้า agentic inference explodes — แต่ละ scenario ให้ winner ต่างกัน ต้องเลือก thesis ก่อนค่อยเลือก stock"
+        },
+        {
+          "title": "Research|TPU 8t/8i and Virgo Network: the biggest networking upgrade since TPU v4",
+          "author": "FundaAI team",
+          "author_url": "https://fundaai.substack.com",
+          "core_thesis": "บทความวิเคราะห์ Google TPU 8t/8i และ Virgo Network โดยพบว่านี่คือการ shift จาก compute-constrained ไปสู่ bandwidth-constrained — Virgo fabric ครอบคลุม 130K+ TPUs ด้วย ~47 Pb/s bisection bandwidth, และ TPU 8i ใช้ Boardfly topology ที่ depend บน OCS อย่างเต็มรูปแบบ ทำให้ OCS กลายเป็น structural requirement ไม่ใช่ optional",
+          "key_takeaway": "การย้ายจาก copper-only pod ใน v7 ไปสู่ optical-dependent architecture ใน v8 จะ drive structural uplift ใน optical module demand ประมาณ 2x พร้อม ASP ที่สูงขึ้นเมื่อ bandwidth ขยับจาก 800G ไปสู่ 1.6T–3.2T — ผู้ที่ได้ประโยชน์ตรงๆ ได้แก่ OCS vendors, transceivers, และ lasers เช่น Lumentum และ Coherent"
+        },
+        {
+          "title": "Deep|AGI at the Door: Claude Opus 4.6 Is the ChatGPT Moment for Agents",
+          "author": "FundaAI team",
+          "author_url": "https://fundaai.substack.com",
+          "core_thesis": "บทความ argue ว่า AGI timeline compress มาอยู่ที่ 2–3 ปีแล้ว โดย Claude Opus 4.6 เป็น \"ChatGPT moment for agents\" — มี fourth scaling law ที่ build บน agentic systems และ feedback loops แทน data/parameters แบบเดิม ซึ่ง Anthropic ARR ที่เติบโต 16x+ ใน 14 เดือน (จาก ~$1.8B ไปกว่า $30B) เป็นหลักฐานว่า demand outrun compute แล้ว",
+          "key_takeaway": "Investment implication สำคัญคือ \"intelligence leverage stratification\" — high-end AI จะเป็น scarce resource เหมือน early cloud computing และ capability gap จะ widen ไม่ใช่ narrow; สำหรับ AI infra stack: GPU เป็น entry ticket แต่ systems, memory, networking คือ ceiling ที่ bottleneck จะ shift ลึกลงเรื่อยๆ"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,53 @@
 {
   "updated": "2026-04-28",
   "feed": "tech-news-daily",
-  "_note": "Empty starter — Press will populate on her first run via /press news.",
-  "days": []
+  "days": [
+    {
+      "date": "2026-04-27",
+      "thai_date": "27 เมษายน 2026",
+      "headlines": [
+        {
+          "emoji": "🤝",
+          "ticker": "$QCOM",
+          "blurb": "Ming-Chi Kuo รายงาน OpenAI ร่วม Qualcomm + MediaTek + Luxshare พัฒนา AI smartphone ใหม่ตัด traditional apps ออกทั้งหมด เป้า 300–400 ล้านเครื่อง/ปีถึงปี 2028 — $QCOM พุ่ง +11% แม้ยังไม่ official confirm",
+          "category": "B"
+        },
+        {
+          "emoji": "☁️",
+          "ticker": "$MSFT / $AMZN",
+          "blurb": "Microsoft สิ้นสุด exclusive access กับ OpenAI วันนี้ เปิดทางให้ OpenAI ส่ง API ผ่าน AWS + Google Cloud ได้ทุก cloud — ลด antitrust risk ในสหรัฐ-EU ขณะ Microsoft ยังถือหุ้น OpenAI ~27% และ Azure ยังเป็น primary partner",
+          "category": "B"
+        },
+        {
+          "emoji": "⚖️",
+          "ticker": "$META",
+          "blurb": "จีน (NDRC) สั่ง block ดีล Meta ซื้อ Manus AI $2B ห้ามรั่วไหล AI tech สู่สหรัฐ — ปิดช่อง \"Singapore washing\" cofounders Manus ถูกสั่งห้ามออกนอกประเทศ สัญญาณ escalate AI tech war",
+          "category": "C"
+        },
+        {
+          "emoji": "🚀",
+          "ticker": "$NVDA",
+          "blurb": "NVIDIA ฟื้น market cap $5 ล้านล้านอีกครั้ง หุ้นแตะ ATH $212.65 (+4.45%) เป็นบริษัทสาธารณะเดียวในโลกที่ทำได้ — รอ hyperscaler earnings พุธนี้ยืนยัน datacenter demand ต่อเนื่อง",
+          "category": "A"
+        },
+        {
+          "emoji": "⚖️",
+          "ticker": "$OPENAI",
+          "blurb": "ศาลจัด jury selection 9 คนครบแล้ว คดี Musk ฟ้อง Altman + OpenAI $134B เริ่ม trial วันนี้ที่ Oakland คาดจบ 21 พ.ค. — ผลคดีส่งผลต่อ OpenAI IPO Q4 2026 และ AI governance",
+          "category": "C"
+        }
+      ],
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Axios",
+        "TechCrunch",
+        "The Information",
+        "Fast Company",
+        "Business Standard",
+        "CNN",
+        "NPR"
+      ]
+    }
+  ]
 }
