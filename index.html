@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <title>ลงทุน Diary — Members Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A guided index of every entry in ลงทุน Diary — public videos and members-only deep dives, organized as a journal.">
+  <link rel="icon" href="assets/logo-circle.png">
+  <link rel="stylesheet" href="colors_and_type.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+<!-- =================== NAV =================== -->
+<header class="hub-nav">
+  <a class="hub-brand" href="#top">
+    <img src="assets/logo-circle.png" width="40" height="40" alt="">
+    <span class="hub-brand__name">ลงทุน Diary</span>
+  </a>
+  <nav class="hub-nav__links">
+    <a href="#start-here">Start here</a>
+    <a href="#library">Library</a>
+    <a href="#topics">Topics</a>
+    <a href="#archive">Archive</a>
+  </nav>
+  <div class="hub-nav__cta">
+    <a class="hub-iconlink" href="https://longtundiary.substack.com/" target="_blank" rel="noopener" aria-label="Substack" title="Substack">
+      <i data-lucide="newspaper"></i>
+      <span class="hub-iconlink__text">Substack</span>
+    </a>
+    <a class="hub-iconlink" href="https://x.com/longtundiary" target="_blank" rel="noopener" aria-label="X (Twitter)" title="X">
+      <span class="hub-iconlink__x" aria-hidden="true">𝕏</span>
+      <span class="hub-iconlink__text hub-iconlink__text--sr">X</span>
+    </a>
+    <a class="hub-btn hub-btn--sm hub-btn--primary" href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join membership</a>
+  </div>
+</header>
+
+<main id="top" class="hub-page">
+
+  <!-- =================== HERO =================== -->
+  <section class="hub-hero">
+    <div class="hub-hero__copy">
+      <span class="hub-eyebrow">a small notebook on a desk</span>
+      <h1 class="hub-hero__title">My investing <em>journal</em>.</h1>
+      <p class="hub-hero__sub">
+        บันทึกสำหรับสมาชิก — เริ่มจากตรงไหนก็ได้ เลือกเส้นทางที่เหมาะกับคุณ.
+        A guided index of everything I've recorded, public and members-only.
+      </p>
+      <div class="hub-hero__cta">
+        <a class="hub-btn hub-btn--lg hub-btn--primary" href="#archive" data-flip="#archive">Open the diary →</a>
+        <a class="hub-btn hub-btn--lg hub-btn--ghost" href="#library">Browse the library</a>
+      </div>
+      <div class="hub-hero__meta">
+        <span><i data-lucide="book-open"></i> <span id="meta-entries">—</span> entries</span>
+        <span><i data-lucide="lock"></i> <span id="meta-members">—</span> members-only</span>
+        <span><i data-lucide="library"></i> <span id="meta-series">—</span> series</span>
+      </div>
+    </div>
+    <a class="hub-hero__art hub-hero__art--video" href="https://youtube.com/watch?v=HUhZPSB6LkU" target="_blank" rel="noopener" aria-label="Watch the membership introduction video">
+      <img src="https://i.ytimg.com/vi/HUhZPSB6LkU/maxresdefault.jpg" alt="">
+      <span class="hub-hero__art-play"><i data-lucide="play"></i></span>
+      <span class="hub-hero__art-label">
+        <span class="hub-hero__art-eyebrow">first time here?</span>
+        <span class="hub-hero__art-title">Watch the membership intro →</span>
+      </span>
+    </a>
+  </section>
+
+  <!-- =================== START HERE: 3 PATHS =================== -->
+  <section id="start-here" class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">Start here</h2>
+      <span class="hub-section__sub">three small chapters · pick one</span>
+    </div>
+    <div class="hub-paths" id="paths-grid">
+      <!-- rendered by app.js -->
+    </div>
+  </section>
+
+  <!-- =================== LATEST PAGE =================== -->
+  <section class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">Latest page</h2>
+      <span class="hub-section__sub">freshly penned</span>
+    </div>
+    <div id="latest-card" class="hub-latest"></div>
+  </section>
+
+  <!-- =================== LIBRARY: SERIES SHELF =================== -->
+  <section id="library" class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">The library</h2>
+      <span class="hub-section__sub">notebooks on the shelf</span>
+    </div>
+
+    <h3 class="hub-shelf__hd">Numbered series</h3>
+    <div class="hub-shelf" id="shelf-named"></div>
+
+    <h3 class="hub-shelf__hd">Per-stock sagas</h3>
+    <div class="hub-shelf hub-shelf--compact" id="shelf-sagas"></div>
+
+    <h3 class="hub-shelf__hd">ลงทุนแบบคนเก่งๆ</h3>
+    <p class="hub-shelf__lead">Profiles of investors I admire — Cozyplace, TFBTM, GabGrowth, Dam Investor.</p>
+    <div class="hub-shelf hub-shelf--compact" id="shelf-creators"></div>
+  </section>
+
+  <!-- =================== TOPICS =================== -->
+  <section id="topics" class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">Index tabs</h2>
+      <span class="hub-section__sub">browse by topic</span>
+    </div>
+    <div class="hub-chips" id="topic-chips"></div>
+  </section>
+
+  <!-- =================== MEMBER SHELF =================== -->
+  <section class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">For members</h2>
+      <span class="hub-section__sub">the reserved pages</span>
+    </div>
+    <a id="member-card" class="hub-membercard" href="https://www.youtube.com/playlist?list=PL5jKtKOOoyxH-iZYs0M4cL59whXMtUrkC" target="_blank" rel="noopener">
+      <div class="hub-membercard__icon"><i data-lucide="lock"></i></div>
+      <div class="hub-membercard__body">
+        <h3>All member-only entries</h3>
+        <p>Every Membership-tagged video in one playlist — open it on YouTube to scroll the full reserved library.</p>
+        <span class="hub-membercard__cta">Open the playlist <i data-lucide="arrow-up-right"></i></span>
+      </div>
+    </a>
+  </section>
+
+  <!-- =================== ARCHIVE: ALL ENTRIES =================== -->
+  <section id="archive" class="hub-section">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">The archive</h2>
+      <span class="hub-section__sub">every page · search + filter</span>
+    </div>
+    <div class="hub-filters">
+      <input type="search" id="search-input" class="hub-filter-input" placeholder="Search titles…" aria-label="Search">
+      <select id="level-filter" class="hub-filter-select" aria-label="Filter by level">
+        <option value="">All levels</option>
+        <option value="Beginner">Beginner</option>
+        <option value="General">General</option>
+        <option value="Advanced">Advanced</option>
+      </select>
+      <select id="series-filter" class="hub-filter-select" aria-label="Filter by series">
+        <option value="">All series</option>
+      </select>
+      <label class="hub-filter-check">
+        <input type="checkbox" id="member-filter">
+        <span>Members only</span>
+      </label>
+      <span class="hub-filter-count" id="filter-count"></span>
+    </div>
+    <ul class="hub-archive" id="archive-list"></ul>
+    <div class="hub-archive__more">
+      <button id="show-more" class="hub-btn hub-btn--md">Show more</button>
+    </div>
+  </section>
+</main>
+
+<!-- =================== FOOTER =================== -->
+<footer class="hub-foot">
+  <div class="hub-foot__cols">
+    <div>
+      <span class="hub-foot__brand handletter">ลงทุน Diary</span>
+      <p>A small notebook on a desk — kept honest, kept small.</p>
+    </div>
+    <div>
+      <span class="hub-foot__hd">watch</span>
+      <a href="https://youtube.com/@longtundiary" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join membership</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">read</span>
+      <a href="#">Substack</a>
+      <a href="#">Archive</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">listen</span>
+      <a href="#">Podcast</a>
+    </div>
+  </div>
+  <div class="hub-foot__bar">
+    <img src="assets/logo-circle.png" alt="">
+    <span>© 2026 · a small notebook on a desk.</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script>lucide.createIcons();</script>
+</body>
+</html>

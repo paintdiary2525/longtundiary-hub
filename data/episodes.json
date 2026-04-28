@@ -1,0 +1,3293 @@
+{
+  "episodes": [
+    {
+      "title": "ผมว่ามันถึงเวลาของ CPU ละ",
+      "date": "2026-04-27",
+      "video_id": "BjKBGfjY7B4",
+      "url": "https://youtube.com/watch?v=BjKBGfjY7B4",
+      "series": [],
+      "topics": [
+        "CPU Demand Cycle"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "อัพเดท TSMC NETFLIX และหวยหุ้น - DCA DIARY EP11",
+      "date": "2026-04-26",
+      "video_id": "aXGOnttKHxw",
+      "url": "https://youtube.com/watch?v=aXGOnttKHxw",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Claude code แบบช้าๆ + แจก cowork plugin ตามสัญญา",
+      "date": "2026-04-24",
+      "video_id": "WiDBO1K5sEk",
+      "url": "https://youtube.com/watch?v=WiDBO1K5sEk",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "Claude เปลี่ยนชีวิตผมไปเลย",
+      "date": "2026-04-22",
+      "video_id": "2AAxQhv7644",
+      "url": "https://youtube.com/watch?v=2AAxQhv7644",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เกมของ AI Infrastructure กำลังเปลี่ยนไป (Membership)",
+      "date": "2026-04-19",
+      "video_id": "qyvz3vGdqNc",
+      "url": "https://youtube.com/watch?v=qyvz3vGdqNc",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "Agentic AI / AI Infrastructure"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "บทเรียนจาก Intel ผู้ที่เคยอยู่จุดสูงสุดของซิป - Podcast กับ Paint",
+      "date": "2026-04-18",
+      "video_id": "RlREtyAAjTY",
+      "url": "https://youtube.com/watch?v=RlREtyAAjTY",
+      "series": [
+        "Podcast",
+        "INTC saga"
+      ],
+      "topics": [
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Netflix ร่วงแรงหลังงบ - Reaction Q1'26 (Membership)",
+      "date": "2026-04-17",
+      "video_id": "tABTyhlINJ0",
+      "url": "https://youtube.com/watch?v=tABTyhlINJ0",
+      "series": [
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "หุ้น AMAZON มันยังไงซิ?",
+      "date": "2026-04-15",
+      "video_id": "hEEiV-UVpuk",
+      "url": "https://youtube.com/watch?v=hEEiV-UVpuk",
+      "series": [
+        "AMZN saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ข่าวหุ้นเทคที่น่าสนใจ - (6-10 April 2026)",
+      "date": "2026-04-12",
+      "video_id": "kW9ZttCE6TM",
+      "url": "https://youtube.com/watch?v=kW9ZttCE6TM",
+      "series": [
+        "Tech News Recap"
+      ],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ทำไมหุ้น FOUNDRIES ถึงโหด? - เล่าธุรกิจ TSMC SAMSUNG INTEL",
+      "date": "2026-04-11",
+      "video_id": "LHn0wsxedwM",
+      "url": "https://youtube.com/watch?v=LHn0wsxedwM",
+      "series": [
+        "INTC saga"
+      ],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx",
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมอยากซื้อหุ้นเพิ่มแล้วอะ - ลงทุน Diary EP16",
+      "date": "2026-04-08",
+      "video_id": "HcgFxNVZFHg",
+      "url": "https://youtube.com/watch?v=HcgFxNVZFHg",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลองสร้างเลขาส่วนตัวไปด้วยกัน (Membership)",
+      "date": "2026-04-05",
+      "video_id": "MkvXZhShiR0",
+      "url": "https://youtube.com/watch?v=MkvXZhShiR0",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ข่าวหุ้นเทคเต็มไปหมดเลย",
+      "date": "2026-04-03",
+      "video_id": "teINBL88fNc",
+      "url": "https://youtube.com/watch?v=teINBL88fNc",
+      "series": [
+        "Tech News Recap"
+      ],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "หุ้น ARM มันยังไงซิ? - สรุปงาน ARM Everywhere",
+      "date": "2026-04-01",
+      "video_id": "eArOosCLAt0",
+      "url": "https://youtube.com/watch?v=eArOosCLAt0",
+      "series": [
+        "ARM saga",
+        "Tech News Recap"
+      ],
+      "topics": [
+        "ARM Architecture / CSS Licensing / Royalty Model"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หวยหุ้นวันเดียว 15% - DCA DIARY EP10",
+      "date": "2026-03-29",
+      "video_id": "NMybGauLr2E",
+      "url": "https://youtube.com/watch?v=NMybGauLr2E",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "พอร์ตยังสบายดีกันอยู่มั้ย? มาเล่าแผนผม - ขาดทุน Diary EP3",
+      "date": "2026-03-27",
+      "video_id": "jXSKbQ4-6xU",
+      "url": "https://youtube.com/watch?v=jXSKbQ4-6xU",
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมใช้ CLAUDE COWORK ยังไงบ้าง?",
+      "date": "2026-03-25",
+      "video_id": "d0ErfZoKj8g",
+      "url": "https://youtube.com/watch?v=d0ErfZoKj8g",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หรือ Memory Cycle จะไม่เหมือนเดิม? - (Membership)",
+      "date": "2026-03-22",
+      "video_id": "vEw9QWjbfIs",
+      "url": "https://youtube.com/watch?v=vEw9QWjbfIs",
+      "series": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ทำความรู้จักหุ้น PHOTONICS / SiPh / CPO",
+      "date": "2026-03-21",
+      "video_id": "-zeSDBNs05o",
+      "url": "https://youtube.com/watch?v=-zeSDBNs05o",
+      "series": [],
+      "topics": [
+        "Silicon Photonics / Co-Packaged Optics (CPO)"
+      ],
+      "level": "Advanced",
+      "membership": false
+    },
+    {
+      "title": "ทำความรู้จักหุ้น SEMICONDUCTOR และ SEMICAP",
+      "date": "2026-03-18",
+      "video_id": "y6GDYtcC_ho",
+      "url": "https://youtube.com/watch?v=y6GDYtcC_ho",
+      "series": [],
+      "topics": [
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "level": "Advanced",
+      "membership": false
+    },
+    {
+      "title": "ใช้ Metrics / Ratio ตอนไหน? - Fundamental Analysis EP3",
+      "date": "2026-03-14",
+      "video_id": "0HcvKcHc9C0",
+      "url": "https://youtube.com/watch?v=0HcvKcHc9C0",
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "ผมว่า APPLOVIN เป็นหุ้นขี้โกง",
+      "date": "2026-03-14",
+      "video_id": "qZwy_xHAENU",
+      "url": "https://youtube.com/watch?v=qZwy_xHAENU",
+      "series": [],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "แผนที่ผมจะรวยในวัย 27",
+      "date": "2026-03-11",
+      "video_id": "c4tAvZv91PE",
+      "url": "https://youtube.com/watch?v=c4tAvZv91PE",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หาข้อติงบ ZETA Q4'25",
+      "date": "2026-03-07",
+      "video_id": "4ahxy9yDyOg",
+      "url": "https://youtube.com/watch?v=4ahxy9yDyOg",
+      "series": [
+        "Earnings Reactions",
+        "ZETA saga"
+      ],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "นั่งอ่าน Key Quotes จากงาน MS TMT 2026 (Membership)",
+      "date": "2026-03-06",
+      "video_id": "4N0RodibDeg",
+      "url": "https://youtube.com/watch?v=4N0RodibDeg",
+      "series": [
+        "Tech News Recap"
+      ],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ความโหดของ NVIDIA - Q4'25",
+      "date": "2026-03-04",
+      "video_id": "QKQ_mDCruIA",
+      "url": "https://youtube.com/watch?v=QKQ_mDCruIA",
+      "series": [
+        "Earnings Reactions",
+        "NVDA saga"
+      ],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Trend หุ้นที่ผมสนใจกับหวยหุ้นใหม่ - DCA DIARY EP9",
+      "date": "2026-02-28",
+      "video_id": "0UvMx9OHLgY",
+      "url": "https://youtube.com/watch?v=0UvMx9OHLgY",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมกลับมามอง SYNOPSIS (SNPS)",
+      "date": "2026-02-25",
+      "video_id": "qCZsLLv9oXs",
+      "url": "https://youtube.com/watch?v=qCZsLLv9oXs",
+      "series": [],
+      "topics": [
+        "EDA Software Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "DATA ECOSYSTEM - ย้อนหลัง DISCORD LIVE 24feb 2026",
+      "date": "2026-02-24",
+      "video_id": "qOw4PIG_v3Y",
+      "url": "https://youtube.com/watch?v=qOw4PIG_v3Y",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "บทความเดียวแดงทั้งตลาด - CITRINI 2028 CRISIS",
+      "date": "2026-02-24",
+      "video_id": "gPiLDyyHlOI",
+      "url": "https://youtube.com/watch?v=gPiLDyyHlOI",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "Advanced",
+      "membership": false
+    },
+    {
+      "title": "ส่องพอร์ตคนเก่งๆ - SUPER INVESTOR EP5",
+      "date": "2026-02-21",
+      "video_id": "zUUcijhRk3M",
+      "url": "https://youtube.com/watch?v=zUUcijhRk3M",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "CLOUD CAPEX น่ากลัวจริงหรอ?",
+      "date": "2026-02-18",
+      "video_id": "JSU-nKwvLdw",
+      "url": "https://youtube.com/watch?v=JSU-nKwvLdw",
+      "series": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมขาย SPGI (ไม่ใช่เพราะ AI)",
+      "date": "2026-02-16",
+      "video_id": "el7odf9a3Fo",
+      "url": "https://youtube.com/watch?v=el7odf9a3Fo",
+      "series": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "SaaS แบบไหนที่จะรอด? (Membership)",
+      "date": "2026-02-15",
+      "video_id": "VfkEfYXkCUY",
+      "url": "https://youtube.com/watch?v=VfkEfYXkCUY",
+      "series": [],
+      "topics": [
+        "SaaS Survival / AI Disruption Risk"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมมอง 3 ตัวนี้ยังไง? AMZN GOOGLE ARM - งบ Q4'25",
+      "date": "2026-02-14",
+      "video_id": "PS22EQ7BjWM",
+      "url": "https://youtube.com/watch?v=PS22EQ7BjWM",
+      "series": [
+        "Earnings Reactions",
+        "AMZN saga",
+        "GOOGL saga",
+        "ARM saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "INTEL จะกลับมายัง? ถ้ากลับมาแล้วโทรบอกผมด้วยนะ",
+      "date": "2026-02-11",
+      "video_id": "jn-zXWKKln4",
+      "url": "https://youtube.com/watch?v=jn-zXWKKln4",
+      "series": [
+        "INTC saga"
+      ],
+      "topics": [
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมว่านี่เป็นหนึ่งในไตรมาสที่ดีที่สุดของ UBER - งบ Q4'25",
+      "date": "2026-02-08",
+      "video_id": "UY_iHt0KE-o",
+      "url": "https://youtube.com/watch?v=UY_iHt0KE-o",
+      "series": [
+        "Earnings Reactions",
+        "UBER saga"
+      ],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำความรู้จักหุ้น AI (แบบเข้าใจง่าย)",
+      "date": "2026-02-07",
+      "video_id": "p69O_oplI_A",
+      "url": "https://youtube.com/watch?v=p69O_oplI_A",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "level": "Advanced",
+      "membership": false
+    },
+    {
+      "title": "ผมจะทำไงในวันที่ตลาดแดงหนัก",
+      "date": "2026-02-06",
+      "video_id": "YVrmJn26zyk",
+      "url": "https://youtube.com/watch?v=YVrmJn26zyk",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "REACTION งบ + shopping list ตอนนี้ - Q4'25 Uber Google ARM (Membership)",
+      "date": "2026-02-05",
+      "video_id": "mkYSVyZ3SHQ",
+      "url": "https://youtube.com/watch?v=mkYSVyZ3SHQ",
+      "series": [
+        "Earnings Reactions",
+        "UBER saga",
+        "GOOGL saga",
+        "ARM saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "งบดีแต่ร่วงเฉย ส่องงบ SOFI Q4'25 และสิ่งที่น่าสนใจ",
+      "date": "2026-02-04",
+      "video_id": "q7rECWOZEfg",
+      "url": "https://youtube.com/watch?v=q7rECWOZEfg",
+      "series": [
+        "Earnings Reactions",
+        "SOFI saga"
+      ],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "พอร์ตฉันสีแดง - ขาดทุน Diary EP2",
+      "date": "2026-02-04",
+      "video_id": "1bAnFvN1cdI",
+      "url": "https://youtube.com/watch?v=1bAnFvN1cdI",
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "โอกาสมายัง? เปิด WATCHLIST หุ้นที่ผมสนใจ - ลงทุน Diary EP15",
+      "date": "2026-02-01",
+      "video_id": "s5LlJx-aq_k",
+      "url": "https://youtube.com/watch?v=s5LlJx-aq_k",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ถ้าเอา Technical Analysis มาข่วย? | ลงทุนแบบ TFBTM (Membership)",
+      "date": "2026-01-31",
+      "video_id": "fgXofTO-e4w",
+      "url": "https://youtube.com/watch?v=fgXofTO-e4w",
+      "series": [
+        "ลงทุนแบบคนเก่งๆ — TFBTM"
+      ],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "คุยชิลๆ REACTION งบ MSFT META +ข่าวต่างๆ (Membership)",
+      "date": "2026-01-29",
+      "video_id": "34tS76Z7364",
+      "url": "https://youtube.com/watch?v=34tS76Z7364",
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมจะซื้อที่ยอดดอยให้ทุกคนเอง - DCA DIARY EP8",
+      "date": "2026-01-28",
+      "video_id": "uRSv2CI0piE",
+      "url": "https://youtube.com/watch?v=uRSv2CI0piE",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "งบ Netflix ไม่ดีหรอ? | Q4 2025",
+      "date": "2026-01-25",
+      "video_id": "1sIhOesTnM8",
+      "url": "https://youtube.com/watch?v=1sIhOesTnM8",
+      "series": [
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "MEMBER ช่องได้อะไรบ้าง ฉบับปรับปรุง | Hello Member EP2",
+      "date": "2026-01-24",
+      "video_id": "HUhZPSB6LkU",
+      "url": "https://youtube.com/watch?v=HUhZPSB6LkU",
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "ข่าวหุ้นเทคเต็มไปหมด | 20/01/2026",
+      "date": "2026-01-22",
+      "video_id": "fWwHwBzlB00",
+      "url": "https://youtube.com/watch?v=fWwHwBzlB00",
+      "series": [
+        "Tech News Recap"
+      ],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "chatgpt จะมีโฆษณาแล้วนะ",
+      "date": "2026-01-22",
+      "video_id": "5--nIVR33jQ",
+      "url": "https://youtube.com/watch?v=5--nIVR33jQ",
+      "series": [],
+      "topics": [
+        "AI Search / Search Disruption"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "สิ่งที่น่าสนใจจากงบ TSMC Q4'25 | ดูงบกัน",
+      "date": "2026-01-21",
+      "video_id": "te2KgnAVzf8",
+      "url": "https://youtube.com/watch?v=te2KgnAVzf8",
+      "series": [
+        "Earnings Reactions"
+      ],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "nvidia จองที่ดิน tsmc",
+      "date": "2026-01-19",
+      "video_id": "lvfvqjKORfc",
+      "url": "https://youtube.com/watch?v=lvfvqjKORfc",
+      "series": [
+        "NVDA saga"
+      ],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat",
+        "TSMC / Advanced Foundry / Semiconductor CapEx"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "tsmc q4'25",
+      "date": "2026-01-18",
+      "video_id": null,
+      "url": null,
+      "series": [
+        "Earnings Reactions"
+      ],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น Memory มันยังไงซิ?",
+      "date": "2026-01-17",
+      "video_id": "ItTFhR8um5E",
+      "url": "https://youtube.com/watch?v=ItTFhR8um5E",
+      "series": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "level": "Advanced",
+      "membership": false
+    },
+    {
+      "title": "ทำไมหุ้น Memory มันขึ้นกันเก่งจัง | Membership",
+      "date": "2026-01-16",
+      "video_id": "HA8W8exL-A4",
+      "url": "https://youtube.com/watch?v=HA8W8exL-A4",
+      "series": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมทำยูทูปมา1ปีแล้ว และมันเปลี่ยนชีวิตผมไปเยอะเลย",
+      "date": "2026-01-13",
+      "video_id": "mj0MnSKpCYQ",
+      "url": "https://youtube.com/watch?v=mj0MnSKpCYQ",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ถ้าโดนลดดอกเบี้ยบัตรเครดิต SOFI ผมจะเอาไง?",
+      "date": "2026-01-11",
+      "video_id": "kS_qjrE677c",
+      "url": "https://youtube.com/watch?v=kS_qjrE677c",
+      "series": [
+        "SOFI saga"
+      ],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Cash Flow Statement - FUNDAMENTAL ANALYSIS EP2",
+      "date": "2026-01-11",
+      "video_id": "coMQ4uAORv0",
+      "url": "https://youtube.com/watch?v=coMQ4uAORv0",
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "หรือ AXON จะเป็นลูกรักคนใหม่ของผม?",
+      "date": "2026-01-10",
+      "video_id": "ztDlZS_Jd-o",
+      "url": "https://youtube.com/watch?v=ztDlZS_Jd-o",
+      "series": [],
+      "topics": [
+        "Public Safety Technology / Government SaaS"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมไม่ชอบ",
+      "date": "2026-01-07",
+      "video_id": "8mx_h7odz3E",
+      "url": "https://youtube.com/watch?v=8mx_h7odz3E",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Mindset การเงินของผมในวัย 26 - Podcast กับ Paint | MEMBERSHIP",
+      "date": "2026-01-04",
+      "video_id": "2IwvNnjpKl4",
+      "url": "https://youtube.com/watch?v=2IwvNnjpKl4",
+      "series": [
+        "Podcast"
+      ],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "Beginner",
+      "membership": true
+    },
+    {
+      "title": "ผมลองจัดพอร์ต SUPER GROWTH",
+      "date": "2026-01-04",
+      "video_id": "4RaJi70LouI",
+      "url": "https://youtube.com/watch?v=4RaJi70LouI",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "วิธีใช้ DISCORD ลงทุน Diary V2",
+      "date": "2026-01-03",
+      "video_id": "kof3vTBU4wE",
+      "url": "https://youtube.com/watch?v=kof3vTBU4wE",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "พอร์ตผมเกิน 2 ล้านบาทแล้ว! - ลงทุน Diary EP14",
+      "date": "2025-12-31",
+      "video_id": "VWu9KSAna8w",
+      "url": "https://youtube.com/watch?v=VWu9KSAna8w",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมเอาไงกับ NETFLIX? - DCA DIARY EP7",
+      "date": "2025-12-28",
+      "video_id": "6xyt9EHxz0s",
+      "url": "https://youtube.com/watch?v=6xyt9EHxz0s",
+      "series": [
+        "DCA Diary",
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เลือกหุ้นก็เหมือนเลือกแฟน - ลงทุน Diary",
+      "date": "2025-12-26",
+      "video_id": "32cRA4qxDsM",
+      "url": "https://youtube.com/watch?v=32cRA4qxDsM",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "บทเรียนการลงทุนของผมในปี 2025 - PODCAST กับ PAINT",
+      "date": "2025-12-24",
+      "video_id": "XABjdWSpdAM",
+      "url": "https://youtube.com/watch?v=XABjdWSpdAM",
+      "series": [
+        "Podcast"
+      ],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หาไอเดียทำ SCORING SYSTEM (GABGROWTH) | MEMBERSHIP",
+      "date": "2025-12-20",
+      "video_id": "pfUyGPYqsc0",
+      "url": "https://youtube.com/watch?v=pfUyGPYqsc0",
+      "series": [
+        "ลงทุนแบบคนเก่งๆ — GabGrowth"
+      ],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมเริ่มสนใจ REDDIT",
+      "date": "2025-12-20",
+      "video_id": "BHplXUcZqNU",
+      "url": "https://youtube.com/watch?v=BHplXUcZqNU",
+      "series": [],
+      "topics": [
+        "Social Media / User-Generated Content Platforms"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หรือ TESLA จะมาฆ่า UBER แล้ว?",
+      "date": "2025-12-17",
+      "video_id": "9uPqQ5r583k",
+      "url": "https://youtube.com/watch?v=9uPqQ5r583k",
+      "series": [
+        "UBER saga"
+      ],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เราต้องคุยกันเรื่อง ZETA",
+      "date": "2025-12-14",
+      "video_id": "wEW4B_nu-0E",
+      "url": "https://youtube.com/watch?v=wEW4B_nu-0E",
+      "series": [
+        "ZETA saga"
+      ],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมขายหุ้น + มาอัพเดทข่าวเต็มไปหมด - ลงทุน Diary EP13",
+      "date": "2025-12-10",
+      "video_id": "njHe37r4jc4",
+      "url": "https://youtube.com/watch?v=njHe37r4jc4",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เรียนไปด้วยกัน (Financial Statement) - FUNDAMENTAL ANALYSIS EP1",
+      "date": "2025-12-07",
+      "video_id": "2-fcXKe9WII",
+      "url": "https://youtube.com/watch?v=2-fcXKe9WII",
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "พี่ๆ ต้องใจเย็นกับหุ้น GOOGLE กันหน่อยนะ",
+      "date": "2025-12-06",
+      "video_id": "QDzvI2xoFQw",
+      "url": "https://youtube.com/watch?v=QDzvI2xoFQw",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ถ้าผมเลือกได้แค่ 1 ETF",
+      "date": "2025-12-03",
+      "video_id": "9SsFoxW5HB4",
+      "url": "https://youtube.com/watch?v=9SsFoxW5HB4",
+      "series": [],
+      "topics": [
+        "Passive Investing / ETF Strategy"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "DCA หุ้นรายตัวไม่ได้ง่ายอย่างที่คิด - DCA Diary EP6",
+      "date": "2025-11-30",
+      "video_id": "d2_Nj81b--g",
+      "url": "https://youtube.com/watch?v=d2_Nj81b--g",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น NVIDIA มันยังไงซิ",
+      "date": "2025-11-27",
+      "video_id": "Dx4Vlm0gVUw",
+      "url": "https://youtube.com/watch?v=Dx4Vlm0gVUw",
+      "series": [
+        "NVDA saga"
+      ],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมใช้อะไร RESEARCH หุ้นบ้าง?",
+      "date": "2025-11-26",
+      "video_id": "9tivBWHGQvU",
+      "url": "https://youtube.com/watch?v=9tivBWHGQvU",
+      "series": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ถ้าผมต้องซื้อหุ้นตอนนี้ - EP2",
+      "date": "2025-11-23",
+      "video_id": "3MF8pJL-DQY",
+      "url": "https://youtube.com/watch?v=3MF8pJL-DQY",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เจาะลึกหุ้น ALIBABA (Secret Investor) | Membership",
+      "date": "2025-11-22",
+      "video_id": "hX-Kk-yStmg",
+      "url": "https://youtube.com/watch?v=hX-Kk-yStmg",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "พอร์ตผมแดงหนัก - ขาดทุน Diary EP1",
+      "date": "2025-11-21",
+      "video_id": "2WqLvbMp6bE",
+      "url": "https://youtube.com/watch?v=2WqLvbMp6bE",
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ส่องพอร์ตสุดโหดของผู้เขียน 7 Powers - Super Investor EP4.5",
+      "date": "2025-11-19",
+      "video_id": "gqJOl2Dcaks",
+      "url": "https://youtube.com/watch?v=gqJOl2Dcaks",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework",
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ส่องพอร์ต Super Investors EP4",
+      "date": "2025-11-16",
+      "video_id": "p29wKnrfdrQ",
+      "url": "https://youtube.com/watch?v=p29wKnrfdrQ",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "คุยชิลๆ: PORTFOLIO STRUCTURE ของผมตอนนี้ | membership",
+      "date": "2025-11-15",
+      "video_id": "o6yDdBm35O8",
+      "url": "https://youtube.com/watch?v=o6yDdBm35O8",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ดูจุดเข้า+อัพเดทพอร์ตของผม - ลงทุน Diary EP12",
+      "date": "2025-11-13",
+      "video_id": "_2aZGu5VzUo",
+      "url": "https://youtube.com/watch?v=_2aZGu5VzUo",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ราคาจะขึ้นวันไหนครับพี่",
+      "date": "2025-11-11",
+      "video_id": "RGrKr2N7g_8",
+      "url": "https://youtube.com/watch?v=RGrKr2N7g_8",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ส่องงบ UBER TOAST SHOPIFY | Q3 2025",
+      "date": "2025-11-09",
+      "video_id": "luGR7wMyxA4",
+      "url": "https://youtube.com/watch?v=luGR7wMyxA4",
+      "series": [
+        "Earnings Reactions",
+        "UBER saga"
+      ],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing",
+        "Toast / Vertical SaaS / Restaurant Technology"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "รอซื้อหรือขายหุ้นให้ได้ตังด้วย SELL OPTIONS",
+      "date": "2025-11-07",
+      "video_id": "UN0yh7-1hSM",
+      "url": "https://youtube.com/watch?v=UN0yh7-1hSM",
+      "series": [],
+      "topics": [
+        "Options"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "สิ่งที่น่าสนใจจากงบ SOFI | Q3 2025",
+      "date": "2025-11-05",
+      "video_id": "-L19IekBtlI",
+      "url": "https://youtube.com/watch?v=-L19IekBtlI",
+      "series": [
+        "Earnings Reactions",
+        "SOFI saga"
+      ],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "สิ่งที่น่าสนใจจากงบ AMAZON + GOOGLE | Q3 2025",
+      "date": "2025-10-31",
+      "video_id": "OpQ9h_SkOKc",
+      "url": "https://youtube.com/watch?v=OpQ9h_SkOKc",
+      "series": [
+        "Earnings Reactions",
+        "AMZN saga",
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "REACTION งบ GOOGLE + SOFI | Membership",
+      "date": "2025-10-30",
+      "video_id": "kHa5p4aXf1Y",
+      "url": "https://youtube.com/watch?v=kHa5p4aXf1Y",
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga",
+        "SOFI saga"
+      ],
+      "topics": [
+        "Google / Alphabet",
+        "Consumer Finance / Fintech"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมคิดน้อยไปหน่อย + ดูงบ NETFLIX - DCA DIARY EP5",
+      "date": "2025-10-29",
+      "video_id": "xXJj7ea_mhg",
+      "url": "https://youtube.com/watch?v=xXJj7ea_mhg",
+      "series": [
+        "DCA Diary",
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ส่องอนาคตหุ้น CLOUD",
+      "date": "2025-10-28",
+      "video_id": "yNnx9AOGbgc",
+      "url": "https://youtube.com/watch?v=yNnx9AOGbgc",
+      "series": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เป็น Member แต่ดูคลิปไม่ได้?",
+      "date": "2025-10-26",
+      "video_id": "08P21JcgI8A",
+      "url": "https://youtube.com/watch?v=08P21JcgI8A",
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมผมชอบหุ้น RUBRIK",
+      "date": "2025-10-26",
+      "video_id": "ZiU1wl6Xn3Q",
+      "url": "https://youtube.com/watch?v=ZiU1wl6Xn3Q",
+      "series": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience",
+        "Data Protection / Backup Recovery"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "จดบันทึกคลิป AI Bubble BY COZIPLACE | Membership",
+      "date": "2025-10-23",
+      "video_id": "3hmyPC-Gqjk",
+      "url": "https://youtube.com/watch?v=3hmyPC-Gqjk",
+      "series": [
+        "ลงทุนแบบคนเก่งๆ — Cozyplace"
+      ],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมเกือบซื้อหุ้น MELI",
+      "date": "2025-10-22",
+      "video_id": "_KjagPTMiok",
+      "url": "https://youtube.com/watch?v=_KjagPTMiok",
+      "series": [],
+      "topics": [
+        "MercadoLibre / MELI",
+        "E-commerce / Marketplace"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำความรู้จัก OPTIONS",
+      "date": "2025-10-19",
+      "video_id": "V3GGbgli1tw",
+      "url": "https://youtube.com/watch?v=V3GGbgli1tw",
+      "series": [],
+      "topics": [
+        "Options"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "ส่องงบ TSMC + ASML (BUBBLE ยัง?)",
+      "date": "2025-10-17",
+      "video_id": "TEHPOBHvWm4",
+      "url": "https://youtube.com/watch?v=TEHPOBHvWm4",
+      "series": [
+        "Earnings Reactions"
+      ],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx",
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลงทุนแบบ Sir Chris Hohn",
+      "date": "2025-10-15",
+      "video_id": "9JCbpPK7nWg",
+      "url": "https://youtube.com/watch?v=9JCbpPK7nWg",
+      "series": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมใช้ AI ยังไงบ้าง (Ver ลงทุน part2)",
+      "date": "2025-10-12",
+      "video_id": "8y5rMzaxJdg",
+      "url": "https://youtube.com/watch?v=8y5rMzaxJdg",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "การ DCA ดีจริงหรอ?",
+      "date": "2025-10-09",
+      "video_id": "cb6oC_MHD-k",
+      "url": "https://youtube.com/watch?v=cb6oC_MHD-k",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมซื้อหุ้นใหม่เข้าพอร์ต - ลงทุน Diary EP11",
+      "date": "2025-10-07",
+      "video_id": "nH7uzYjtHLM",
+      "url": "https://youtube.com/watch?v=nH7uzYjtHLM",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมเลิกดู Buffett Indicator แล้ว",
+      "date": "2025-10-05",
+      "video_id": "ClM69Z-Fjfg",
+      "url": "https://youtube.com/watch?v=ClM69Z-Fjfg",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลงทุนแบบพี่โจ๊ก COZIPLACE | Membership",
+      "date": "2025-10-03",
+      "video_id": "TFwqSgopF5g",
+      "url": "https://youtube.com/watch?v=TFwqSgopF5g",
+      "series": [
+        "ลงทุนแบบคนเก่งๆ — Cozyplace"
+      ],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมว่า AI มันเพิ่งเริ่มต้น",
+      "date": "2025-09-30",
+      "video_id": "lKhauVuhNiI",
+      "url": "https://youtube.com/watch?v=lKhauVuhNiI",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมอยากได้หุ้น AI เพิ่ม - DCA Diary EP4",
+      "date": "2025-09-27",
+      "video_id": "CuaPRcfbbFQ",
+      "url": "https://youtube.com/watch?v=CuaPRcfbbFQ",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมผมคิดว่า AV จะมาช่วย UBER | Membership",
+      "date": "2025-09-25",
+      "video_id": "Nfj6onNGzOo",
+      "url": "https://youtube.com/watch?v=Nfj6onNGzOo",
+      "series": [
+        "UBER saga"
+      ],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมมองอนาคตหุ้น SOFI ยังไง",
+      "date": "2025-09-24",
+      "video_id": "myWYn6CGXv0",
+      "url": "https://youtube.com/watch?v=myWYn6CGXv0",
+      "series": [
+        "SOFI saga"
+      ],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "จัดอันดับหุ้นในพอร์ตผม",
+      "date": "2025-09-21",
+      "video_id": "N4yMsIHZJxw",
+      "url": "https://youtube.com/watch?v=N4yMsIHZJxw",
+      "series": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ส่องอนาคตจากงาน GOLDMAN SACHS COMMUNACOPIA | Membership",
+      "date": "2025-09-18",
+      "video_id": "lw9ifOhXTj4",
+      "url": "https://youtube.com/watch?v=lw9ifOhXTj4",
+      "series": [
+        "Tech News Recap"
+      ],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "หุ้น Synopsis ใน29นาที",
+      "date": "2025-09-16",
+      "video_id": "RMu0bLTZFp8",
+      "url": "https://youtube.com/watch?v=RMu0bLTZFp8",
+      "series": [],
+      "topics": [
+        "EDA Software Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมผมสนใจหุ้น ZETA",
+      "date": "2025-09-13",
+      "video_id": "b6Cfy1fDuAk",
+      "url": "https://youtube.com/watch?v=b6Cfy1fDuAk",
+      "series": [
+        "ZETA saga"
+      ],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Discord ลงทุน Diary ใช้ยังไง?",
+      "date": "2025-09-11",
+      "video_id": "aO1WVBgbH4c",
+      "url": "https://youtube.com/watch?v=aO1WVBgbH4c",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "Amazon ลูกรักผมกลับมาแล้ว",
+      "date": "2025-09-10",
+      "video_id": "7usJlghVRz0",
+      "url": "https://youtube.com/watch?v=7usJlghVRz0",
+      "series": [
+        "AMZN saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ANTHROPIC จะมาช่วย AWS ได้ยังไง (สรุป SEMIANALYSIS) | Membership",
+      "date": "2025-09-08",
+      "video_id": "D_unKB2zKbc",
+      "url": "https://youtube.com/watch?v=D_unKB2zKbc",
+      "series": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Agentic AI / AI Infrastructure"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ใช้ notebooklm กันเถอะ มันฟรีและดี 😂 เดี๋ยวนี้ research อะไรผมเอามาแปะๆ ไว้เป็น project ดีฝุดๆ",
+      "date": "2025-09-06",
+      "video_id": "rCVmoB6HJLE",
+      "url": "https://youtube.com/watch?v=rCVmoB6HJLE",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "NVIDIA vs AMD ศึกเจ้าพ่อปะทะเจ้าแม่ (แบบภาษาคน)",
+      "date": "2025-09-06",
+      "video_id": "tMmvGjdpFig",
+      "url": "https://youtube.com/watch?v=tMmvGjdpFig",
+      "series": [
+        "NVDA saga"
+      ],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "GOOGLE รอดยัง? มาดูข่าวตัดสิน MONOPOLY กัน",
+      "date": "2025-09-03",
+      "video_id": "Rrek4gsWAbk",
+      "url": "https://youtube.com/watch?v=Rrek4gsWAbk",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet",
+        "Regulatory Risk / Antitrust"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "แชร์วิธี Research ใหม่ของผม | Membership",
+      "date": "2025-09-02",
+      "video_id": "jK5AKCPGYF0",
+      "url": "https://youtube.com/watch?v=jK5AKCPGYF0",
+      "series": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ทำไมผมมีหุ้น 7 นางฟ้า",
+      "date": "2025-08-31",
+      "video_id": "hG8Hgqbtt2M",
+      "url": "https://youtube.com/watch?v=hG8Hgqbtt2M",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมมีหุ้นใหม่เข้าพอร์ต - DCA Diary EP3",
+      "date": "2025-08-27",
+      "video_id": "HrmvCfv_xos",
+      "url": "https://youtube.com/watch?v=HrmvCfv_xos",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เราผ่อนส้มตำกันทำไมผมงง - เล่าธุรกิจ BNPL",
+      "date": "2025-08-25",
+      "video_id": "J87MoS5X4SE",
+      "url": "https://youtube.com/watch?v=J87MoS5X4SE",
+      "series": [],
+      "topics": [
+        "BNPL / Buy Now Pay Later"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "จดหมายรักจาก Bill Ackman | Membership",
+      "date": "2025-08-24",
+      "video_id": "YpkOo7C1Scc",
+      "url": "https://youtube.com/watch?v=YpkOo7C1Scc",
+      "series": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "พลังที่ทุกธุรกิจควรมี - สรุป 7powers (member content)",
+      "date": "2025-08-23",
+      "video_id": "VIot0HlfY90",
+      "url": "https://youtube.com/watch?v=VIot0HlfY90",
+      "series": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน? - Super investors EP3",
+      "date": "2025-08-19",
+      "video_id": "iTyEMiQDu5k",
+      "url": "https://youtube.com/watch?v=iTyEMiQDu5k",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น LUXURY ยังดีอยู่มั้ย? (Secret Investors) | Membership",
+      "date": "2025-08-18",
+      "video_id": "ins8j0rnwoo",
+      "url": "https://youtube.com/watch?v=ins8j0rnwoo",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "อัพเดทพอร์ตและงบ Q2 - ลงทุน Diary EP10",
+      "date": "2025-08-17",
+      "video_id": "4t0odSvn5vM",
+      "url": "https://youtube.com/watch?v=4t0odSvn5vM",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น FICO ขี้โกงกว่าที่ผมคิด",
+      "date": "2025-08-13",
+      "video_id": "N4lCPDhzhB8",
+      "url": "https://youtube.com/watch?v=N4lCPDhzhB8",
+      "series": [],
+      "topics": [
+        "FICO / Credit Scoring"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "GenAI จะเปลี่ยนโลกการลงทุนอย่างไร? - MS Research | Membership",
+      "date": "2025-08-10",
+      "video_id": "4Z1TdjhMVgg",
+      "url": "https://youtube.com/watch?v=4Z1TdjhMVgg",
+      "series": [],
+      "topics": [
+        "AI Investment Landscape / GenAI",
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ถ้าผมต้องซื้อหุ้นตอนนี้",
+      "date": "2025-08-09",
+      "video_id": "pyo-MQ8_XBk",
+      "url": "https://youtube.com/watch?v=pyo-MQ8_XBk",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หรือ AMAZON จะไม่ใช่ลูกรักของผมแล้ว",
+      "date": "2025-08-04",
+      "video_id": "Tvq5_f8gIoU",
+      "url": "https://youtube.com/watch?v=Tvq5_f8gIoU",
+      "series": [
+        "AMZN saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ดูงบ MSFT + META Q2 (Reaction)",
+      "date": "2025-07-31",
+      "video_id": "Q-hYF39cn38",
+      "url": "https://youtube.com/watch?v=Q-hYF39cn38",
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "สรุปงบ GOOGLE Q2 ดีมั้ย",
+      "date": "2025-07-30",
+      "video_id": "faGT5YWidu8",
+      "url": "https://youtube.com/watch?v=faGT5YWidu8",
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "DCA เดือนละ 10,000 เดือนแรกก็ดอยแล้ว - DCA Diary EP2",
+      "date": "2025-07-28",
+      "video_id": "y1VBdJG7VL4",
+      "url": "https://youtube.com/watch?v=y1VBdJG7VL4",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ดูงบ GOOGLE กัน (REACTION)",
+      "date": "2025-07-24",
+      "video_id": "nWZyTW0i-M4",
+      "url": "https://youtube.com/watch?v=nWZyTW0i-M4",
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เราต้องคุยกันเรื่อง NETFLIX  (งบและอนาคต)",
+      "date": "2025-07-23",
+      "video_id": "qlCM_cA-TRI",
+      "url": "https://youtube.com/watch?v=qlCM_cA-TRI",
+      "series": [
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลงทุนแบบ The Dam Investor | Membership",
+      "date": "2025-07-21",
+      "video_id": "0w2vXVeiyi4",
+      "url": "https://youtube.com/watch?v=0w2vXVeiyi4",
+      "series": [
+        "ลงทุนแบบคนเก่งๆ — Dam Investor"
+      ],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "เรียนนอกดีจริงหรอ? - ตอบ COMMENTS EP6 (ฉลอง 20k sub)",
+      "date": "2025-07-20",
+      "video_id": "VkTkQ0N5lPY",
+      "url": "https://youtube.com/watch?v=VkTkQ0N5lPY",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่แพ้ตลาดดของผม (S&P500)",
+      "date": "2025-07-15",
+      "video_id": "HCs2nNJc5t8",
+      "url": "https://youtube.com/watch?v=HCs2nNJc5t8",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "อัพเดทพอร์ตช่วง ATH และการจัดการเงินสด - ลงทุน DIARY EP9",
+      "date": "2025-07-11",
+      "video_id": "TzWyS__3pRM",
+      "url": "https://youtube.com/watch?v=TzWyS__3pRM",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "pe ของ s&p500 สูง แล้วไง? #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "date": "2025-07-10",
+      "video_id": "52wRWBhXVF0",
+      "url": "https://youtube.com/watch?v=52wRWBhXVF0",
+      "series": [],
+      "topics": [
+        "Stock Valuation / Extreme Multiples"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ซื้อหุ้นที่ all time high ดีหรือปล่าว? #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "date": "2025-07-09",
+      "video_id": "Gh84SowzIhs",
+      "url": "https://youtube.com/watch?v=Gh84SowzIhs",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมสนใจหุ้น TOAST #TOST",
+      "date": "2025-07-06",
+      "video_id": "2VjpoPV_iOE",
+      "url": "https://youtube.com/watch?v=2VjpoPV_iOE",
+      "series": [],
+      "topics": [
+        "Toast / Vertical SaaS / Restaurant Technology"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "นักลงทุนเก่งๆ ลงทุนยังไงกัน EP0 - Joseph Carlson | Membership",
+      "date": "2025-07-05",
+      "video_id": "3UWEBqHoL3M",
+      "url": "https://youtube.com/watch?v=3UWEBqHoL3M",
+      "series": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "DCA เดือนละ 10000 ผมลงทุนอะไร? - DCA Diary EP1",
+      "date": "2025-06-30",
+      "video_id": "Ek18v_8YmTw",
+      "url": "https://youtube.com/watch?v=Ek18v_8YmTw",
+      "series": [
+        "DCA Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "เพื่อนผมเคยทำงานที่ S&P Global | Membership",
+      "date": "2025-06-27",
+      "video_id": "g8uuJ1PB8sE",
+      "url": "https://youtube.com/watch?v=g8uuJ1PB8sE",
+      "series": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมซื้อหุ้นเพิ่มครับ - ลงทุน Diary ep8",
+      "date": "2025-06-26",
+      "video_id": "3pwMht16rWU",
+      "url": "https://youtube.com/watch?v=3pwMht16rWU",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep5 #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "date": "2025-06-25",
+      "video_id": "3q4umDYrrzA",
+      "url": "https://youtube.com/watch?v=3q4umDYrrzA",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "Stablecoin มาแล้ว visa ผมเอาไงดี?",
+      "date": "2025-06-23",
+      "video_id": "kZc4KDvfWe4",
+      "url": "https://youtube.com/watch?v=kZc4KDvfWe4",
+      "series": [],
+      "topics": [
+        "Stablecoin / Crypto Regulatory Environment",
+        "Consumer Finance / Payment Networks"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Dev Kantesaria เลือกหุ้นยังไง? (AI Podcast) | Membership",
+      "date": "2025-06-22",
+      "video_id": "Ekj7flpaGbs",
+      "url": "https://youtube.com/watch?v=Ekj7flpaGbs",
+      "series": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "อัพเดทงบ ctrip (secret investor)",
+      "date": "2025-06-21",
+      "video_id": "tPOPKVD-Tbc",
+      "url": "https://youtube.com/watch?v=tPOPKVD-Tbc",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลองให้ AI รีวิวพอร์ตผม (ดีกว่าที่คิดนะ)",
+      "date": "2025-06-20",
+      "video_id": "TCjvGxuBsTc",
+      "url": "https://youtube.com/watch?v=TCjvGxuBsTc",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ซื้อประกันให้พอร์ต - OPTIONS | Membership",
+      "date": "2025-06-15",
+      "video_id": "U4qoJp6LwuI",
+      "url": "https://youtube.com/watch?v=U4qoJp6LwuI",
+      "series": [],
+      "topics": [
+        "Options"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ซื้อหุ้นคืนทำไม #ลงทุน #ลงทุนหุ้นอเมริกา #asml #การเงิน",
+      "date": "2025-06-14",
+      "video_id": "nLulDjrg6Yc",
+      "url": "https://youtube.com/watch?v=nLulDjrg6Yc",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมอยากได้แต่ !! (ยังไม่กล้าซื้อ)",
+      "date": "2025-06-13",
+      "video_id": "GOlt3XqVYmo",
+      "url": "https://youtube.com/watch?v=GOlt3XqVYmo",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมไม่ชอบหุ้นปันผล #ลงทุน",
+      "date": "2025-06-12",
+      "video_id": "6gWE-kqRNhs",
+      "url": "https://youtube.com/watch?v=6gWE-kqRNhs",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมไม่ชอบหุ้นปันผล - ตอบ COMMENTS EP5",
+      "date": "2025-06-10",
+      "video_id": "-Mj95UPxyEk",
+      "url": "https://youtube.com/watch?v=-Mj95UPxyEk",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ออมหุ้นหรือ btc ดีครับ? #ลงทุน",
+      "date": "2025-06-08",
+      "video_id": "NOcxaHvxfsM",
+      "url": "https://youtube.com/watch?v=NOcxaHvxfsM",
+      "series": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมผมถือ BTC",
+      "date": "2025-06-07",
+      "video_id": "qd8sZQrJ4t8",
+      "url": "https://youtube.com/watch?v=qd8sZQrJ4t8",
+      "series": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ถ้าต้องเลือก google กับ meta คุณจะเลือกอะไรกันครับ? #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "date": "2025-06-06",
+      "video_id": "_aXQ83EwjyA",
+      "url": "https://youtube.com/watch?v=_aXQ83EwjyA",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Lidar vs Tesla (ใครจะเป็นผู้ชนะ?) | Membership",
+      "date": "2025-06-06",
+      "video_id": "dcL90qWIs5c",
+      "url": "https://youtube.com/watch?v=dcL90qWIs5c",
+      "series": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "จัดอันดับหุ้น 7 นางฟ้าตามความชอบของผม (ขำๆ นะ)",
+      "date": "2025-06-05",
+      "video_id": "nheTlSTHKrw",
+      "url": "https://youtube.com/watch?v=nheTlSTHKrw",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมคิดว่าขี้โกง Ep4",
+      "date": "2025-06-02",
+      "video_id": "IeUvyqTGggo",
+      "url": "https://youtube.com/watch?v=IeUvyqTGggo",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมว่าผมชอบ netflix มากกว่าเดิมอีกครับ เพราะ ai #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #nflx",
+      "date": "2025-05-30",
+      "video_id": "Wv-8e2V-4Vg",
+      "url": "https://youtube.com/watch?v=Wv-8e2V-4Vg",
+      "series": [
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "รถขับเองได้ควรพาร์ทเนอร์กับ uber มั้ย #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #uber ￼",
+      "date": "2025-05-29",
+      "video_id": "wqa_NBPAa0w",
+      "url": "https://youtube.com/watch?v=wqa_NBPAa0w",
+      "series": [
+        "UBER saga"
+      ],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep3 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "date": "2025-05-28",
+      "video_id": "AL5dB7q-gW0",
+      "url": "https://youtube.com/watch?v=AL5dB7q-gW0",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "Uber เนื้อหาต่อจากคลิปหลัก (CEO + Analyst) | Membership",
+      "date": "2025-05-27",
+      "video_id": "tRLICyhU-jE",
+      "url": "https://youtube.com/watch?v=tRLICyhU-jE",
+      "series": [
+        "UBER saga"
+      ],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "หรือ UBER จะเป็นลูกรักคนใหม่ของผม #uber",
+      "date": "2025-05-27",
+      "video_id": "SZAzcc7q53U",
+      "url": "https://youtube.com/watch?v=SZAzcc7q53U",
+      "series": [
+        "UBER saga"
+      ],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep2 #asml #หุ้นต่างประเทศ #ลงทุน #การเงิน ไม่ใช่คำแนะนำการลงทุนนะ",
+      "date": "2025-05-27",
+      "video_id": "6-OLq_U5PHk",
+      "url": "https://youtube.com/watch?v=6-OLq_U5PHk",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "รอขายหุ้น ให้ได้ตัง - OPTIONS | Membership",
+      "date": "2025-05-26",
+      "video_id": "xu5XF0zA5jM",
+      "url": "https://youtube.com/watch?v=xu5XF0zA5jM",
+      "series": [],
+      "topics": [
+        "Options"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ลงทุน diary RECAP Ep1-7 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "date": "2025-05-24",
+      "video_id": "LTxv8d3OzMw",
+      "url": "https://youtube.com/watch?v=LTxv8d3OzMw",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep1 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #visa #หุ้นขี้โกง #ลงทุนdiary",
+      "date": "2025-05-23",
+      "video_id": "RZbZWkWBgMU",
+      "url": "https://youtube.com/watch?v=RZbZWkWBgMU",
+      "series": [],
+      "topics": [
+        "Consumer Finance / Payment Networks"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Google กำลัง disrupt ตัวเองอยู่หรือปล่าว?",
+      "date": "2025-05-22",
+      "video_id": "f56cYu22kq0",
+      "url": "https://youtube.com/watch?v=f56cYu22kq0",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet",
+        "AI Search / Search Disruption"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Google กำลัง disrupt ตัวเองอยู่หรือปล่าว?",
+      "date": "2025-05-22",
+      "video_id": "f56cYu22kq0",
+      "url": "https://youtube.com/watch?v=f56cYu22kq0",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet",
+        "AI Search / Search Disruption"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน? - Super investors EP2",
+      "date": "2025-05-20",
+      "video_id": "kribrkcxt9M",
+      "url": "https://youtube.com/watch?v=kribrkcxt9M",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมใช้ Ai ยังไงบ้าง (Ver ลงทุน)",
+      "date": "2025-05-18",
+      "video_id": "5CEx8b6jS70",
+      "url": "https://youtube.com/watch?v=5CEx8b6jS70",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "สิ่งที่รถขับเองขาดไม่ได้ - เจาะลึกหุ้น Robosense (Secret Investors) | Membership",
+      "date": "2025-05-18",
+      "video_id": "5j6yRQjEpes",
+      "url": "https://youtube.com/watch?v=5j6yRQjEpes",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "AI จะทำเงินยังไง  (AI podcast) | Membership",
+      "date": "2025-05-15",
+      "video_id": "gWop3Qe_YOE",
+      "url": "https://youtube.com/watch?v=gWop3Qe_YOE",
+      "series": [
+        "How I AI"
+      ],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "เกิดอะไรขึ้นกับ UNH ? - สรุปบทความ (Ai Podcast) | Membership",
+      "date": "2025-05-12",
+      "video_id": "xx3hIhbd9yk",
+      "url": "https://youtube.com/watch?v=xx3hIhbd9yk",
+      "series": [],
+      "topics": [],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมปรับพอร์ต ขายหุ้น? - ลงทุน Diary EP7",
+      "date": "2025-05-11",
+      "video_id": "l5DHQf2FIgQ",
+      "url": "https://youtube.com/watch?v=l5DHQf2FIgQ",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมหุ้น Google ร่วง 7% สรุปประเด็นน่าสนใจ #google #aapl",
+      "date": "2025-05-08",
+      "video_id": "Y77-zkss6t0",
+      "url": "https://youtube.com/watch?v=Y77-zkss6t0",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet",
+        "AI Search / Search Disruption"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Reaction งบ MSFT META AAPL | Membership",
+      "date": "2025-05-05",
+      "video_id": "fTZ5X0_sr-g",
+      "url": "https://youtube.com/watch?v=fTZ5X0_sr-g",
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Apple / AAPL"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "งบดีแต่ราคาไม่ไป ทำไมนะ?",
+      "date": "2025-05-04",
+      "video_id": "zNFSu7ygmzc",
+      "url": "https://youtube.com/watch?v=zNFSu7ygmzc",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำความรู้จัก SEMICONDUCTOR / SEMICAP | Membership",
+      "date": "2025-05-04",
+      "video_id": "QzrbUQA3c2s",
+      "url": "https://youtube.com/watch?v=QzrbUQA3c2s",
+      "series": [],
+      "topics": [
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "level": "Beginner",
+      "membership": true
+    },
+    {
+      "title": "หุ้นถูกหรือแพง?",
+      "date": "2025-04-30",
+      "video_id": "VglLxQbfOSw",
+      "url": "https://youtube.com/watch?v=VglLxQbfOSw",
+      "series": [],
+      "topics": [
+        "Stock Valuation / Extreme Multiples"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมว่าหุ้น NETFLIX ดีกว่าที่คิด",
+      "date": "2025-04-24",
+      "video_id": "28sggpWnGBE",
+      "url": "https://youtube.com/watch?v=28sggpWnGBE",
+      "series": [
+        "NFLX saga"
+      ],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "huawei vs nvidia | Membership",
+      "date": "2025-04-22",
+      "video_id": "UCtWzkJXi18",
+      "url": "https://youtube.com/watch?v=UCtWzkJXi18",
+      "series": [
+        "NVDA saga"
+      ],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "เจาะลึกหุ้น Xiaomi (secret investor) | Membership",
+      "date": "2025-04-20",
+      "video_id": "HCy2-2Ysf64",
+      "url": "https://youtube.com/watch?v=HCy2-2Ysf64",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "จัดอันดับหุ้นตายยาก (ขำๆ นะ)",
+      "date": "2025-04-17",
+      "video_id": "6Bky9qzmRyo",
+      "url": "https://youtube.com/watch?v=6Bky9qzmRyo",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นที่ดี สำหรับผม",
+      "date": "2025-04-15",
+      "video_id": "YNMOhS_x3jY",
+      "url": "https://youtube.com/watch?v=YNMOhS_x3jY",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เดาใจ Trump ต่อ 10/4/2025 #ลงทุน",
+      "date": "2025-04-10",
+      "video_id": "nMPJidhIJC4",
+      "url": "https://youtube.com/watch?v=nMPJidhIJC4",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ข้อเสีย S&P Global #spgi",
+      "date": "2025-04-09",
+      "video_id": "e9bZLCC3DUg",
+      "url": "https://youtube.com/watch?v=e9bZLCC3DUg",
+      "series": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เดาใจ TRUMP - ลงทุน Diary EP 6.5 | Membership",
+      "date": "2025-04-08",
+      "video_id": "l0ab-o0cA2w",
+      "url": "https://youtube.com/watch?v=l0ab-o0cA2w",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": null,
+      "membership": true
+    },
+    {
+      "title": "เชื่อม discord กับ youtube for members",
+      "date": "2025-04-08",
+      "video_id": "SuylLe4mZ3Q",
+      "url": "https://youtube.com/watch?v=SuylLe4mZ3Q",
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมว่านี่คือโอกาส - ลงทุน Diary EP6",
+      "date": "2025-04-07",
+      "video_id": "0v0UCbyIMDU",
+      "url": "https://youtube.com/watch?v=0v0UCbyIMDU",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เจาะลึกหุ้น Trip (Secret Investor) | Membership",
+      "date": "2025-04-02",
+      "video_id": "ISkYzIOXqNM",
+      "url": "https://youtube.com/watch?v=ISkYzIOXqNM",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมว่า Palantir เป็นหุ้นขี้โกง #pltr",
+      "date": "2025-03-31",
+      "video_id": "zo8Fr9Jd1Ck",
+      "url": "https://youtube.com/watch?v=zo8Fr9Jd1Ck",
+      "series": [],
+      "topics": [
+        "Palantir / PLTR",
+        "Enterprise AI Middleware"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น cloud อาจไม่ได้ดีอย่างที่คิด | Membership",
+      "date": "2025-03-26",
+      "video_id": "imHLUgG2H-0",
+      "url": "https://youtube.com/watch?v=imHLUgG2H-0",
+      "series": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "ผมยังชอบหุ้น GOOGLE อยู่",
+      "date": "2025-03-25",
+      "video_id": "WTSm0TqI-XI",
+      "url": "https://youtube.com/watch?v=WTSm0TqI-XI",
+      "series": [
+        "GOOGL saga"
+      ],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Hello MEMBER! - Update ตลาด + ข่าวนิดหน่อย (Membership)",
+      "date": "2025-03-21",
+      "video_id": null,
+      "url": null,
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "General",
+      "membership": true
+    },
+    {
+      "title": "ถ้าเลือกหุ้นได้แค่ 5 ตัว ไปอีก 30ปี",
+      "date": "2025-03-20",
+      "video_id": "IKCGoPFa4QE",
+      "url": "https://youtube.com/watch?v=IKCGoPFa4QE",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Member Intro short ver",
+      "date": "2025-03-19",
+      "video_id": "D10mf4Iy3Zg",
+      "url": "https://youtube.com/watch?v=D10mf4Iy3Zg",
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Member ช่องลงทุน Diary จะได้อะไรบ้าง?",
+      "date": "2025-03-19",
+      "video_id": "NnqMefoXFBw",
+      "url": "https://youtube.com/watch?v=NnqMefoXFBw",
+      "series": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เจาะลึกหุ้น LUCKIN COFFEE (Secret Investor) | Membership",
+      "date": "2025-03-19",
+      "video_id": "Hd1l3lnkfiY",
+      "url": "https://youtube.com/watch?v=Hd1l3lnkfiY",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "เจาะลึกหุ้น TESLA (Secret investor) | Membership",
+      "date": "2025-03-19",
+      "video_id": "Z-yt4hqmpoM",
+      "url": "https://youtube.com/watch?v=Z-yt4hqmpoM",
+      "series": [
+        "Secret Investor"
+      ],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "กว่าจะเป็นคลิป Cyber Security | Membership",
+      "date": "2025-03-19",
+      "video_id": "SKOPD9UI3Fw",
+      "url": "https://youtube.com/watch?v=SKOPD9UI3Fw",
+      "series": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "level": "Advanced",
+      "membership": true
+    },
+    {
+      "title": "CRWD vs PANW - ผู้ชนะในโลก Cyber Security (PART2)",
+      "date": "2025-03-17",
+      "video_id": "tUdJV8VPjks",
+      "url": "https://youtube.com/watch?v=tUdJV8VPjks",
+      "series": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้น Cyber Security ใกล้ตัวกว่าที่คิดนะ (PART1)",
+      "date": "2025-03-16",
+      "video_id": "FZXEI7d3UMQ",
+      "url": "https://youtube.com/watch?v=FZXEI7d3UMQ",
+      "series": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมขาดทุน แต่ผมดีใจนะ - ลงทุน Diary EP5",
+      "date": "2025-03-13",
+      "video_id": "-UNoMYxSF6g",
+      "url": "https://youtube.com/watch?v=-UNoMYxSF6g",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ความเชื่อมั่นสำคัญมากต่อตลาดหุ้น #ลงทุน",
+      "date": "2025-03-13",
+      "video_id": "NlLnfguiQXg",
+      "url": "https://youtube.com/watch?v=NlLnfguiQXg",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Tariff กระทบมั้ย ไปหุ้นประเทศอื่นดีมั้ย - ตอบ COMMENTS EP4",
+      "date": "2025-03-12",
+      "video_id": "sZ6KGeughS0",
+      "url": "https://youtube.com/watch?v=sZ6KGeughS0",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมสนใจหุ้น ARM",
+      "date": "2025-03-09",
+      "video_id": "LDfE84pG4uU",
+      "url": "https://youtube.com/watch?v=LDfE84pG4uU",
+      "series": [
+        "ARM saga"
+      ],
+      "topics": [
+        "ARM Architecture / CSS Licensing / Royalty Model"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ลงทุน Diary is live!",
+      "date": "2025-03-08",
+      "video_id": "6DXC667qt2A",
+      "url": "https://youtube.com/watch?v=6DXC667qt2A",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมรักหุ้นตัวนี้ AMAZON #amzn",
+      "date": "2025-03-08",
+      "video_id": "KUr55rDFr54",
+      "url": "https://youtube.com/watch?v=KUr55rDFr54",
+      "series": [
+        "AMZN saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมหุ้นมากกว่าทอง btc #ลงทุน #ลงทุนหุ้นอเมริกา #ทอง",
+      "date": "2025-03-05",
+      "video_id": "emzcTl_pht0",
+      "url": "https://youtube.com/watch?v=emzcTl_pht0",
+      "series": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผม research หุ้นยังไง (แบบคร่าวๆ) - ตอบ COMMENTS EP3",
+      "date": "2025-03-05",
+      "video_id": "g4q_Hi1us7A",
+      "url": "https://youtube.com/watch?v=g4q_Hi1us7A",
+      "series": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "COSTCO VS WALMART ผมเลือกตัวไหน",
+      "date": "2025-03-03",
+      "video_id": "3N5X54PdrRs",
+      "url": "https://youtube.com/watch?v=3N5X54PdrRs",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมหาหุ้นแบบไหน",
+      "date": "2025-03-03",
+      "video_id": "UN3IXriM0qg",
+      "url": "https://youtube.com/watch?v=UN3IXriM0qg",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมสนใจหุ้น SOFI",
+      "date": "2025-03-01",
+      "video_id": "OYjo6e06bxg",
+      "url": "https://youtube.com/watch?v=OYjo6e06bxg",
+      "series": [
+        "SOFI saga"
+      ],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมไม่สนใจ Tesla แล้วหรอ? - ตอบ Comments EP2",
+      "date": "2025-02-28",
+      "video_id": "jf20Hz9ca5g",
+      "url": "https://youtube.com/watch?v=jf20Hz9ca5g",
+      "series": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมรอซื้อหุ้นตัวไหนอยู่ - ลงทุน Diary EP4",
+      "date": "2025-02-27",
+      "video_id": "qXURbiKmPhM",
+      "url": "https://youtube.com/watch?v=qXURbiKmPhM",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมไม่ชอบหุ้นยา - ตอบ COMMENT EP1",
+      "date": "2025-02-25",
+      "video_id": "6ynPvetevCA",
+      "url": "https://youtube.com/watch?v=6ynPvetevCA",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "Crypto โดน hack อีกละ #bybit",
+      "date": "2025-02-24",
+      "video_id": "TyvYDH5nFpI",
+      "url": "https://youtube.com/watch?v=TyvYDH5nFpI",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมซื้อ S&P Global ครับ #SPGI",
+      "date": "2025-02-24",
+      "video_id": "LR33DTxpNGQ",
+      "url": "https://youtube.com/watch?v=LR33DTxpNGQ",
+      "series": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน",
+      "date": "2025-02-21",
+      "video_id": "9WV2FPZ9VeU",
+      "url": "https://youtube.com/watch?v=9WV2FPZ9VeU",
+      "series": [
+        "Super Investor"
+      ],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "Amazon เป็นหุ้น ai #amzn",
+      "date": "2025-02-20",
+      "video_id": "Wfa7WPUwDfY",
+      "url": "https://youtube.com/watch?v=Wfa7WPUwDfY",
+      "series": [
+        "AMZN saga"
+      ],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "คําศัพท์การลงทุน แบบภาษาคน",
+      "date": "2025-02-20",
+      "video_id": "ddm093DvzGU",
+      "url": "https://youtube.com/watch?v=ddm093DvzGU",
+      "series": [],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมจะซื้อแต่หุ้นขี้โกง",
+      "date": "2025-02-19",
+      "video_id": "2bMZHF6QgwI",
+      "url": "https://youtube.com/watch?v=2bMZHF6QgwI",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ทำไมทุกคนกำลังขาย #apple",
+      "date": "2025-02-17",
+      "video_id": "2nzmEBE8Idw",
+      "url": "https://youtube.com/watch?v=2nzmEBE8Idw",
+      "series": [],
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมพลาดครับ #paypal - ลงทุน Diary EP3",
+      "date": "2025-02-15",
+      "video_id": "RklYb4YxQmw",
+      "url": "https://youtube.com/watch?v=RklYb4YxQmw",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ผมถือทองยังไง (ให้มันทำงาน)",
+      "date": "2025-02-14",
+      "video_id": "AjN9j9Zz3S8",
+      "url": "https://youtube.com/watch?v=AjN9j9Zz3S8",
+      "series": [],
+      "topics": [
+        "Cash Management / Yield Optimization"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เงินเฟ้อมันน่ากลัวกว่าที่คิด",
+      "date": "2025-02-12",
+      "video_id": "iEd3-NW2tK0",
+      "url": "https://youtube.com/watch?v=iEd3-NW2tK0",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "tariff อาจไม่ได้น่ากลัวอย่างที่คิด #investing #trading #tariff",
+      "date": "2025-02-12",
+      "video_id": "BaT8nv-3umI",
+      "url": "https://youtube.com/watch?v=BaT8nv-3umI",
+      "series": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "หุ้นเทค Cloud ร่วง แต่ผมชอบ",
+      "date": "2025-02-08",
+      "video_id": "cNTLdfKxCVs",
+      "url": "https://youtube.com/watch?v=cNTLdfKxCVs",
+      "series": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "SET ลบ 100 กว่าจุดในสองอาทิตย์ ตัวไหนยังรอด?",
+      "date": "2025-02-06",
+      "video_id": "TgZDmHIhN64",
+      "url": "https://youtube.com/watch?v=TgZDmHIhN64",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "อย่าทิ้งหุ้นไทยนะ",
+      "date": "2025-02-04",
+      "video_id": "40UXptpPTik",
+      "url": "https://youtube.com/watch?v=40UXptpPTik",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมถืออะไรในพอร์ตอเมริกาบ้าง - ลงทุน Diary EP2",
+      "date": "2025-02-02",
+      "video_id": "a1KdP-livpo",
+      "url": "https://youtube.com/watch?v=a1KdP-livpo",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ดูก่อนเป็น trader",
+      "date": "2025-01-30",
+      "video_id": "3cLavMdgPGc",
+      "url": "https://youtube.com/watch?v=3cLavMdgPGc",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "จัดพอร์ตลงทุน กับแผนปี 2025 ของผม - ลงทุน Diary EP1",
+      "date": "2025-01-27",
+      "video_id": "eaz9lNSC7so",
+      "url": "https://youtube.com/watch?v=eaz9lNSC7so",
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "level": "Beginner",
+      "membership": false
+    },
+    {
+      "title": "ผมลงทุนหุ้นเมกายังไง",
+      "date": "2025-01-25",
+      "video_id": "pRZeWwQyOSg",
+      "url": "https://youtube.com/watch?v=pRZeWwQyOSg",
+      "series": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "กว่าจะตั้งท่าสวยๆ ได้ พี่รีบลงจังอะ - Diary S50H25 23Jan",
+      "date": "2025-01-23",
+      "video_id": "Lsbo9k1g554",
+      "url": "https://youtube.com/watch?v=Lsbo9k1g554",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "อาจจะเป็นจุดเปลี่ยนหรือปล่าว - Diary S50H25 22 Jan",
+      "date": "2025-01-22",
+      "video_id": "BHz4hhThVCQ",
+      "url": "https://youtube.com/watch?v=BHz4hhThVCQ",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "หุ้นน่าสนใจ KBANK VGI - 22 Jan 2025",
+      "date": "2025-01-22",
+      "video_id": "skQEtoTs2fk",
+      "url": "https://youtube.com/watch?v=skQEtoTs2fk",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมจะเริ่มลงทุนหุ้นอเมริกา ที่ยอดดอยนี้",
+      "date": "2025-01-22",
+      "video_id": "3qAZ0zeK0pc",
+      "url": "https://youtube.com/watch?v=3qAZ0zeK0pc",
+      "series": [],
+      "topics": [],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "เลิกหาหุ้นถูก #trading #set #เทรด",
+      "date": "2025-01-21",
+      "video_id": "UKi-MVetP-Q",
+      "url": "https://youtube.com/watch?v=UKi-MVetP-Q",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ตลาดยังคงไม่ไปไหน - Diary trade S50H25 21 Jan",
+      "date": "2025-01-21",
+      "video_id": "qgIDKVt97vA",
+      "url": "https://youtube.com/watch?v=qgIDKVt97vA",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "SET รอทรัมป์กับเขาด้วยหรอ - Diary trade S50H25 16Jan",
+      "date": "2025-01-20",
+      "video_id": "GhwSZMnNJi4",
+      "url": "https://youtube.com/watch?v=GhwSZMnNJi4",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ตลาดเริ่มมีทรง หรือปล่าว - Diary trade S50H25 16Jan",
+      "date": "2025-01-16",
+      "video_id": "SZhYCsbhvTk",
+      "url": "https://youtube.com/watch?v=SZhYCsbhvTk",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "ผมถือเงินสดยังไง (ให้มันทำงาน)",
+      "date": "2025-01-16",
+      "video_id": "Jl2i0a4PTf0",
+      "url": "https://youtube.com/watch?v=Jl2i0a4PTf0",
+      "series": [],
+      "topics": [
+        "Cash Management / Yield Optimization"
+      ],
+      "level": "General",
+      "membership": false
+    },
+    {
+      "title": "ตลาดไทยไม่เคยง่าย - Diary trade S50H25 15Jan",
+      "date": "2025-01-15",
+      "video_id": "gwTtYflstXE",
+      "url": "https://youtube.com/watch?v=gwTtYflstXE",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "คุณโทนี่หลอกผม - Diary trade S50H25 14Jan",
+      "date": "2025-01-14",
+      "video_id": "dyWbtK7ZbH4",
+      "url": "https://youtube.com/watch?v=dyWbtK7ZbH4",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "โวแรงพรีอย่างต่ำ - S50H25 13 Jan",
+      "date": "2025-01-13",
+      "video_id": "VXRZDBZ7Qrw",
+      "url": "https://youtube.com/watch?v=VXRZDBZ7Qrw",
+      "series": [],
+      "topics": [],
+      "level": null,
+      "membership": false
+    },
+    {
+      "title": "เรื่มเทรด options series S50H25 1-10 Jan",
+      "date": "2025-01-13",
+      "video_id": "FBeTNgS_D88",
+      "url": "https://youtube.com/watch?v=FBeTNgS_D88",
+      "series": [],
+      "topics": [
+        "Options"
+      ],
+      "level": null,
+      "membership": false
+    }
+  ],
+  "count": 254,
+  "source": "VIDEO_DATE_INDEX.md",
+  "raw": "2026-04-28_videos.json"
+}

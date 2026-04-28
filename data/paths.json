@@ -1,0 +1,49 @@
+{
+  "beginner": {
+    "id": "beginner",
+    "label": "Beginner",
+    "subtitle": "เพิ่งเริ่มลงทุน",
+    "blurb": "Start at page one — what each part of investing actually means.",
+    "entries": [
+      { "type": "video", "video_id": "HUhZPSB6LkU", "first_watch": true, "note": "Start here" },
+      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "title": "Fundamental Analysis", "subtitle": "EP1 + EP2 + EP3 (a 3-page chapter)" },
+      { "type": "video", "video_id": "VIot0HlfY90" },
+      { "type": "video", "video_id": "WiDBO1K5sEk" },
+      { "type": "video", "video_id": "8mx_h7odz3E" },
+      { "type": "video", "video_id": "o6yDdBm35O8" },
+      { "type": "video", "video_id": "RGrKr2N7g_8" }
+    ]
+  },
+  "general": {
+    "id": "general",
+    "label": "General",
+    "subtitle": "อยากตามหุ้นเทค",
+    "blurb": "For the steady reader — earnings, theses, the everyday journal.",
+    "entries": [
+      { "type": "video", "video_id": "2AAxQhv7644" },
+      { "type": "video", "video_id": "d0ErfZoKj8g" },
+      { "type": "video", "video_id": "hEEiV-UVpuk" },
+      { "type": "video", "video_id": "LHn0wsxedwM" },
+      { "type": "video", "video_id": "QKQ_mDCruIA" },
+      { "type": "video", "video_id": "UY_iHt0KE-o" },
+      { "type": "video", "video_id": "LDfE84pG4uU" },
+      { "type": "video", "video_id": "p69O_oplI_A" },
+      { "type": "video", "video_id": "8mx_h7odz3E" }
+    ]
+  },
+  "advanced": {
+    "id": "advanced",
+    "label": "Advanced",
+    "subtitle": "อยากเจาะลึก",
+    "blurb": "Members-only deep dives — numbers, frameworks, contrarian takes.",
+    "entries": [
+      { "type": "video", "video_id": "qyvz3vGdqNc" },
+      { "type": "video", "video_id": "VfkEfYXkCUY" },
+      { "type": "video", "video_id": "fgXofTO-e4w" },
+      { "type": "video", "video_id": "vEw9QWjbfIs" },
+      { "type": "video", "video_id": "TFwqSgopF5g" },
+      { "type": "video", "video_id": "0w2vXVeiyi4" },
+      { "type": "video", "video_id": "3UWEBqHoL3M" }
+    ]
+  }
+}

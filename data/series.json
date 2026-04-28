@@ -1,0 +1,49 @@
+{
+  "named_series": [
+    { "id": "longtun-diary", "name": "ลงทุน Diary", "subtitle": "the main journal", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxFYWRqiGiTAKiQsez2h2yC9", "icon": "book-open" },
+    { "id": "dca-diary", "name": "DCA Diary", "subtitle": "monthly entries", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxG-BUj7eT4ywDIs5hJ6F6oF", "icon": "calendar-days" },
+    { "id": "kuad-thun", "name": "ขาดทุน Diary", "subtitle": "lessons from losses", "playlist": null, "icon": "trending-down" },
+    { "id": "fundamental", "name": "Fundamental Analysis", "subtitle": "the foundations", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "icon": "graduation-cap" },
+    { "id": "how-i-ai", "name": "How I AI", "subtitle": "tools, workflows, AI thesis", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxH42NfkN18nOr8ayxUn1vnQ", "icon": "sparkles" },
+    { "id": "earnings", "name": "Earnings Reactions", "subtitle": "every quarter", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxFDcD7VxzWaJ5T4ybMBKgdl", "icon": "bar-chart-3" },
+    { "id": "tech-news", "name": "Tech News Recap", "subtitle": "weekly + event recaps", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxGSl30j0bwuPM9awegIs1t1", "icon": "newspaper" },
+    { "id": "podcast", "name": "Podcast", "subtitle": "long-form, slow-paced", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxG82BUfqmZHmiKdU91ZBVwU", "icon": "headphones" },
+    { "id": "secret-investor", "name": "Secret Investor", "subtitle": "lesser-known deep dives", "playlist": null, "icon": "eye" },
+    { "id": "super-investor", "name": "Super Investor", "subtitle": "what the greats hold", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxHepPRjbutA2qwOt3zkmZgq", "icon": "crown" }
+  ],
+  "stock_sagas": [
+    { "id": "googl-saga", "name": "GOOGL saga", "ticker": "GOOGL", "count": 13 },
+    { "id": "uber-saga", "name": "UBER saga", "ticker": "UBER", "count": 8 },
+    { "id": "amzn-saga", "name": "AMZN saga", "ticker": "AMZN", "count": 7 },
+    { "id": "nflx-saga", "name": "NFLX saga", "ticker": "NFLX", "count": 7 },
+    { "id": "sofi-saga", "name": "SOFI saga", "ticker": "SOFI", "count": 6 },
+    { "id": "nvda-saga", "name": "NVDA saga", "ticker": "NVDA", "count": 5 },
+    { "id": "arm-saga", "name": "ARM saga", "ticker": "ARM", "count": 4 },
+    { "id": "intc-saga", "name": "INTC saga", "ticker": "INTC", "count": 3 },
+    { "id": "msft-saga", "name": "MSFT saga", "ticker": "MSFT", "count": 3 },
+    { "id": "zeta-saga", "name": "ZETA saga", "ticker": "ZETA", "count": 3 }
+  ],
+  "longtun_baeb_kuen_keng": {
+    "id": "longtun-baeb",
+    "name": "ลงทุนแบบคนเก่งๆ",
+    "subtitle": "creator profiles — what they hold, why",
+    "sub_series": [
+      { "id": "tfbtm", "name": "TFBTM", "count": 1 },
+      { "id": "cozyplace", "name": "Cozyplace", "count": 2 },
+      { "id": "gabgrowth", "name": "GabGrowth", "count": 1 },
+      { "id": "dam-investor", "name": "Dam Investor", "count": 1 }
+    ]
+  },
+  "topic_playlists": {
+    "ai-semi": {
+      "label": "AI Infrastructure + Semiconductor",
+      "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxEyxVvXR1fYOAgHbOKU6gys",
+      "applies_to_topics": ["AI Infrastructure", "Semiconductor", "Semiconductor Capital Equipment / ASML / Semicap"]
+    }
+  },
+  "member_browse": {
+    "label": "All member-only entries",
+    "subtitle": "the reserved pages of the journal",
+    "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxH-iZYs0M4cL59whXMtUrkC"
+  }
+}
