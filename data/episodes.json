@@ -27,7 +27,7 @@
       "membership": false
     },
     {
-      "title": "Claude code แบบช้าๆ + แจก cowork plugin ตามสัญญา",
+      "title": "Claude code แบบช้าๆ + แจก cowork plugin ตามสัญญา (Membership)",
       "date": "2026-04-24",
       "video_id": "WiDBO1K5sEk",
       "url": "https://youtube.com/watch?v=WiDBO1K5sEk",
@@ -38,7 +38,7 @@
         "AI Workflow / Prompt Engineering / Local AI Agents"
       ],
       "level": "Beginner",
-      "membership": false
+      "membership": true
     },
     {
       "title": "Claude เปลี่ยนชีวิตผมไปเลย",

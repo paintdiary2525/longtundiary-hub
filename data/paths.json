@@ -20,15 +20,13 @@
     "subtitle": "อยากตามหุ้นเทค",
     "blurb": "For the steady reader — earnings, theses, the everyday journal.",
     "entries": [
-      { "type": "video", "video_id": "2AAxQhv7644" },
-      { "type": "video", "video_id": "d0ErfZoKj8g" },
+      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxH42NfkN18nOr8ayxUn1vnQ", "title": "How I AI", "subtitle": "tools, workflows, AI thesis (playlist)" },
       { "type": "video", "video_id": "hEEiV-UVpuk" },
       { "type": "video", "video_id": "LHn0wsxedwM" },
       { "type": "video", "video_id": "QKQ_mDCruIA" },
-      { "type": "series", "series_name": "ลงทุนแบบคนเก่งๆ", "label": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — series" },
+      { "type": "series", "series_name": "ลงทุนแบบคนเก่งๆ", "label": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — series", "membership": true },
       { "type": "video", "video_id": "LDfE84pG4uU" },
-      { "type": "video", "video_id": "p69O_oplI_A" },
-      { "type": "video", "video_id": "8mx_h7odz3E" }
+      { "type": "video", "video_id": "p69O_oplI_A" }
     ]
   },
   "advanced": {
