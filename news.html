@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <title>Tech News — ลงทุน Diary</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Daily tech news for the ลงทุน Diary community — fresh in the last 24 hours, verified at the source.">
+  <link rel="icon" href="assets/logo-circle.png">
+  <link rel="stylesheet" href="colors_and_type.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="page-styles.css">
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+<header class="hub-nav">
+  <a class="hub-brand" href="/">
+    <img src="assets/logo-circle.png" width="40" height="40" alt="">
+    <span class="hub-brand__name">ลงทุน Diary</span>
+  </a>
+  <nav class="hub-nav__links">
+    <a href="/">Home</a>
+    <a href="/news.html" aria-current="page">News</a>
+    <a href="/substack.html">Substack</a>
+    <a href="/#library">Library</a>
+    <a href="/#archive">Archive</a>
+  </nav>
+  <div class="hub-nav__cta">
+    <a class="hub-iconlink" href="https://longtundiary.substack.com/" target="_blank" rel="noopener" aria-label="Substack" title="Substack">
+      <i data-lucide="newspaper"></i><span class="hub-iconlink__text">Substack</span>
+    </a>
+    <a class="hub-iconlink" href="https://x.com/longtundiary" target="_blank" rel="noopener" aria-label="X" title="X">
+      <span class="hub-iconlink__x" aria-hidden="true">𝕏</span>
+      <span class="hub-iconlink__text hub-iconlink__text--sr">X</span>
+    </a>
+    <a class="hub-btn hub-btn--sm hub-btn--primary" href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join membership</a>
+  </div>
+</header>
+
+<main class="hub-page">
+
+  <section class="hub-page-hero">
+    <span class="hub-eyebrow">today's tech news</span>
+    <h1 class="hub-page-hero__title">Tech <em>News.</em></h1>
+    <p class="hub-page-hero__sub" id="news-meta">โหลด news ล่าสุด …</p>
+  </section>
+
+  <section class="hub-section hub-section--first" id="news-feed">
+    <!-- rendered by news-app.js -->
+  </section>
+
+  <section class="hub-section hub-section--quiet">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">About this page</h2>
+      <span class="hub-section__sub">โปร่งใสไว้ก่อน</span>
+    </div>
+    <p class="hub-prose">
+      ข่าวทั้งหมดในหน้านี้ scan จาก primary sources (Bloomberg / Reuters / WSJ / CNBC / The Information / FT) และ verify timestamp ทุกชิ้น
+      ก่อน publish — ไม่มีข่าวเก่าเกิน 24 ชั่วโมง
+      สำหรับ market wrap แบบที่ hedge fund อ่าน ตอนเช้าทุกวัน — มีให้สมาชิก Billionaire ที่
+      <a href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Discord ของช่อง</a>.
+    </p>
+  </section>
+</main>
+
+<footer class="hub-foot">
+  <div class="hub-foot__cols">
+    <div>
+      <span class="hub-foot__brand handletter">ลงทุน Diary</span>
+      <p>A small notebook on a desk — kept honest, kept small.</p>
+    </div>
+    <div>
+      <span class="hub-foot__hd">watch</span>
+      <a href="https://youtube.com/@longtundiary" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join membership</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">read</span>
+      <a href="https://longtundiary.substack.com/" target="_blank" rel="noopener">Substack</a>
+      <a href="/substack.html">Weekly picks</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">listen</span>
+      <a href="/#library">Podcast</a>
+    </div>
+  </div>
+  <div class="hub-foot__bar">
+    <img src="assets/logo-circle.png" alt="">
+    <span>© 2026 · a small notebook on a desk.</span>
+  </div>
+</footer>
+
+<script src="news-app.js"></script>
+<script>lucide.createIcons();</script>
+</body>
+</html>
