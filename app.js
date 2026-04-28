@@ -162,22 +162,6 @@
     sagaShelf.appendChild(a);
   });
 
-  // ---------- Library: ลงทุนแบบคนเก่งๆ sub-series ----------
-  const creatorShelf = $("#shelf-creators");
-  series.longtun_baeb_kuen_keng.sub_series.forEach(s => {
-    const fullName = `ลงทุนแบบคนเก่งๆ — ${s.name}`;
-    const a = document.createElement("a");
-    a.className = "hub-book hub-book--no-playlist";
-    a.href = `#archive?series=${encodeURIComponent(fullName)}`;
-    a.dataset.series = fullName;
-    a.innerHTML = `
-      <span class="hub-book__icon"><i data-lucide="user-round"></i></span>
-      <span class="hub-book__name">${escapeHtml(s.name)}</span>
-      <span class="hub-book__count">${s.count} entr${s.count === 1 ? "y" : "ies"}</span>
-    `;
-    creatorShelf.appendChild(a);
-  });
-
   // ---------- Topic chips ----------
   const topicCounts = new Map();
   for (const e of episodes) {

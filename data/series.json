@@ -9,7 +9,8 @@
     { "id": "tech-news", "name": "Tech News Recap", "subtitle": "weekly + event recaps", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxGSl30j0bwuPM9awegIs1t1", "icon": "newspaper" },
     { "id": "podcast", "name": "Podcast", "subtitle": "long-form, slow-paced", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxG82BUfqmZHmiKdU91ZBVwU", "icon": "headphones" },
     { "id": "secret-investor", "name": "Secret Investor", "subtitle": "lesser-known deep dives", "playlist": null, "icon": "eye" },
-    { "id": "super-investor", "name": "Super Investor", "subtitle": "what the greats hold", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxHepPRjbutA2qwOt3zkmZgq", "icon": "crown" }
+    { "id": "super-investor", "name": "Super Investor", "subtitle": "what the greats hold", "playlist": "https://www.youtube.com/playlist?list=PL5jKtKOOoyxHepPRjbutA2qwOt3zkmZgq", "icon": "crown" },
+    { "id": "longtun-baeb-kuen-keng", "name": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — Cozyplace, TFBTM, Dam Investor, Joseph Carlson…", "playlist": null, "icon": "user-round" }
   ],
   "stock_sagas": [
     { "id": "googl-saga", "name": "GOOGL saga", "ticker": "GOOGL", "count": 13 },
@@ -23,17 +24,6 @@
     { "id": "msft-saga", "name": "MSFT saga", "ticker": "MSFT", "count": 3 },
     { "id": "zeta-saga", "name": "ZETA saga", "ticker": "ZETA", "count": 3 }
   ],
-  "longtun_baeb_kuen_keng": {
-    "id": "longtun-baeb",
-    "name": "ลงทุนแบบคนเก่งๆ",
-    "subtitle": "creator profiles — what they hold, why",
-    "sub_series": [
-      { "id": "tfbtm", "name": "TFBTM", "count": 1 },
-      { "id": "cozyplace", "name": "Cozyplace", "count": 2 },
-      { "id": "gabgrowth", "name": "GabGrowth", "count": 1 },
-      { "id": "dam-investor", "name": "Dam Investor", "count": 1 }
-    ]
-  },
   "topic_playlists": {
     "ai-semi": {
       "label": "AI Infrastructure + Semiconductor",

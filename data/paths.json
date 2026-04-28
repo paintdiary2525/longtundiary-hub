@@ -25,7 +25,7 @@
       { "type": "video", "video_id": "hEEiV-UVpuk" },
       { "type": "video", "video_id": "LHn0wsxedwM" },
       { "type": "video", "video_id": "QKQ_mDCruIA" },
-      { "type": "video", "video_id": "UY_iHt0KE-o" },
+      { "type": "series", "series_name": "ลงทุนแบบคนเก่งๆ", "label": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — series" },
       { "type": "video", "video_id": "LDfE84pG4uU" },
       { "type": "video", "video_id": "p69O_oplI_A" },
       { "type": "video", "video_id": "8mx_h7odz3E" }
@@ -41,9 +41,7 @@
       { "type": "video", "video_id": "VfkEfYXkCUY" },
       { "type": "video", "video_id": "fgXofTO-e4w" },
       { "type": "video", "video_id": "vEw9QWjbfIs" },
-      { "type": "video", "video_id": "TFwqSgopF5g" },
-      { "type": "video", "video_id": "0w2vXVeiyi4" },
-      { "type": "video", "video_id": "3UWEBqHoL3M" }
+      { "type": "series", "series_name": "Secret Investor", "label": "Secret Investor", "subtitle": "lesser-known deep dives — series", "membership": true }
     ]
   }
 }

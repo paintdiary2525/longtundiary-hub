@@ -32,6 +32,22 @@ def normalize_title(t: str) -> str:
     return t.replace("\\|", "|").strip()
 
 
+def lookup_variants(title: str):
+    """Yield title variants to try when matching against YouTube's actual title.
+
+    Paint adds Membership markers in the index that may not exist in the raw
+    YouTube title. Strip them so the lookup still resolves.
+    """
+    yield title
+    # Common membership suffixes in the index
+    suffixes = [" | Membership", " | MEMBERSHIP", " | membership",
+                " (Membership)", " (MEMBERSHIP)", " (membership)",
+                " - (Membership)", " - (MEMBERSHIP)"]
+    for sfx in suffixes:
+        if title.endswith(sfx):
+            yield title[: -len(sfx)].rstrip()
+
+
 def main() -> None:
     if not INDEX_PATH.exists():
         raise SystemExit(f"Could not find {INDEX_PATH}. Set LTD_OS_ROOT env var to your LTD OS path.")
@@ -71,7 +87,11 @@ def main() -> None:
             continue
         norm_title = normalize_title(title)
         membership = "Membership" in title or "MEMBERSHIP" in title or "membership" in title
-        video_id = title_to_id.get(norm_title)
+        video_id = None
+        for variant in lookup_variants(norm_title):
+            if variant in title_to_id:
+                video_id = title_to_id[variant]
+                break
         episodes.append(
             {
                 "title": norm_title,

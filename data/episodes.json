@@ -591,7 +591,7 @@
       "video_id": "fgXofTO-e4w",
       "url": "https://youtube.com/watch?v=fgXofTO-e4w",
       "series": [
-        "ลงทุนแบบคนเก่งๆ — TFBTM"
+        "ลงทุนแบบคนเก่งๆ"
       ],
       "topics": [
         "Portfolio Strategy / Sell Discipline / Behavioral Finance"
@@ -907,7 +907,7 @@
       "video_id": "pfUyGPYqsc0",
       "url": "https://youtube.com/watch?v=pfUyGPYqsc0",
       "series": [
-        "ลงทุนแบบคนเก่งๆ — GabGrowth"
+        "ลงทุนแบบคนเก่งๆ"
       ],
       "topics": [
         "Stock Research Methodology / AI Research Tools"
@@ -1293,7 +1293,7 @@
       "video_id": "3hmyPC-Gqjk",
       "url": "https://youtube.com/watch?v=3hmyPC-Gqjk",
       "series": [
-        "ลงทุนแบบคนเก่งๆ — Cozyplace"
+        "ลงทุนแบบคนเก่งๆ"
       ],
       "topics": [
         "AI Bubble / Market Risk / Macro"
@@ -1342,16 +1342,18 @@
       "membership": false
     },
     {
-      "title": "ลงทุนแบบ Sir Chris Hohn",
+      "title": "ลงทุนแบบ Sir Chris Hohn | Membership",
       "date": "2025-10-15",
       "video_id": "9JCbpPK7nWg",
       "url": "https://youtube.com/watch?v=9JCbpPK7nWg",
-      "series": [],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
       "topics": [
         "7 Powers / Investment Philosophy Framework"
       ],
-      "level": "General",
-      "membership": false
+      "level": "Advanced",
+      "membership": true
     },
     {
       "title": "ผมใช้ AI ยังไงบ้าง (Ver ลงทุน part2)",
@@ -1411,7 +1413,7 @@
       "video_id": "TFwqSgopF5g",
       "url": "https://youtube.com/watch?v=TFwqSgopF5g",
       "series": [
-        "ลงทุนแบบคนเก่งๆ — Cozyplace"
+        "ลงทุนแบบคนเก่งๆ"
       ],
       "topics": [
         "7 Powers / Investment Philosophy Framework"
@@ -1854,7 +1856,7 @@
       "video_id": "0w2vXVeiyi4",
       "url": "https://youtube.com/watch?v=0w2vXVeiyi4",
       "series": [
-        "ลงทุนแบบคนเก่งๆ — Dam Investor"
+        "ลงทุนแบบคนเก่งๆ"
       ],
       "topics": [
         "7 Powers / Investment Philosophy Framework"
@@ -1939,7 +1941,9 @@
       "date": "2025-07-05",
       "video_id": "3UWEBqHoL3M",
       "url": "https://youtube.com/watch?v=3UWEBqHoL3M",
-      "series": [],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
       "topics": [
         "7 Powers / Investment Philosophy Framework"
       ],
@@ -2653,8 +2657,8 @@
     {
       "title": "Hello MEMBER! - Update ตลาด + ข่าวนิดหน่อย (Membership)",
       "date": "2025-03-21",
-      "video_id": null,
-      "url": null,
+      "video_id": "lYRXgIQVjec",
+      "url": "https://youtube.com/watch?v=lYRXgIQVjec",
       "series": [],
       "topics": [
         "Membership Content"
