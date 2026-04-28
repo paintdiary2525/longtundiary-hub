@@ -84,7 +84,7 @@
           ${entry.type === "playlist"
             ? `<span class="hub-path__item-icon" title="Playlist"><i data-lucide="list"></i></span>`
             : isMember
-              ? `<span class="hub-stamp">RESERVED</span>`
+              ? `<span class="hub-stamp">MEMBER</span>`
               : `<span class="hub-path__item-icon"><i data-lucide="play"></i></span>`
           }
         </a>
@@ -103,7 +103,7 @@
         <img src="${ytThumb(latest.video_id)}" alt="" loading="lazy">
       </a>
       <div class="hub-latest__body">
-        ${latest.membership ? `<span class="hub-stamp hub-stamp--lg">RESERVED</span> ` : ""}
+        ${latest.membership ? `<span class="hub-stamp hub-stamp--lg">MEMBER</span> ` : ""}
         <h3>${escapeHtml(latest.title)}</h3>
         ${latest.series.length ? `<p>Series · ${latest.series.map(escapeHtml).join(" · ")}</p>` : ""}
         <a class="hub-membercard__cta" href="${latest.url}" target="_blank" rel="noopener">Open on YouTube <i data-lucide="arrow-up-right"></i></a>
@@ -242,7 +242,7 @@
       li.innerHTML = `
         <a class="hub-archive__row" href="${e.url || "#"}" ${e.url ? 'target="_blank" rel="noopener"' : ""}>
           <span class="hub-archive__date">${fmtDate(e.date)}</span>
-          <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">RESERVED</span>' : ""}${escapeHtml(e.title)}</span>
+          <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">MEMBER</span>' : ""}${escapeHtml(e.title)}</span>
           <span class="hub-archive__series">${e.series.map(s => `<span>${escapeHtml(s)}</span>`).join(" · ")}</span>
           ${e.level ? `<span class="hub-archive__level hub-archive__level--${e.level}">${e.level}</span>` : `<span></span>`}
         </a>
@@ -283,7 +283,7 @@
         li.innerHTML = `
           <a class="hub-archive__row" href="${e.url || "#"}" target="_blank" rel="noopener">
             <span class="hub-archive__date">${fmtDate(e.date)}</span>
-            <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">RESERVED</span>' : ""}${escapeHtml(e.title)}</span>
+            <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">MEMBER</span>' : ""}${escapeHtml(e.title)}</span>
             <span class="hub-archive__series">${e.series.map(s => `<span>${escapeHtml(s)}</span>`).join(" · ")}</span>
             ${e.level ? `<span class="hub-archive__level hub-archive__level--${e.level}">${e.level}</span>` : `<span></span>`}
           </a>
