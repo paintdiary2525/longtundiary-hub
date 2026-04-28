@@ -1,0 +1,8 @@
+name = "longtundiary-hub"
+compatibility_date = "2026-04-28"
+
+# Serve everything in the repo as static assets.
+# No Worker script needed — pure static site.
+[assets]
+directory = "./"
+not_found_handling = "single-page-application"
