@@ -132,10 +132,9 @@
 }
 .substack-paper__section-hd {
   display: inline-flex; align-items: center; gap: 8px;
-  font-family: var(--font-mono); font-weight: 600; font-size: 12px;
+  font-family: var(--font-body); font-weight: 700; font-size: 15px;
   color: var(--forest-900);
-  text-transform: uppercase; letter-spacing: 0.08em;
-  margin: 0 0 4px;
+  margin: 0 0 6px;
 }
 .substack-paper__body {
   font-size: 15px; line-height: 1.65; color: var(--fg-2);
