@@ -5,7 +5,7 @@
     return String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
   }
 
-  const DISCORD_FORUM = "https://discord.com/channels/1349288840195477504/1459860887837081674";
+  const DISCORD_FORUM = "https://discord.gg/wUba6Kw7SY";
 
   let data;
   try {
