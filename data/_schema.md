@@ -6,7 +6,7 @@ Reference for Press (and humans editing JSON by hand).
 
 ```json
 {
-  "updated": "YYYY-MM-DD",
+  "updated": "YYYY-MM-DDTHH:MM:SS+07:00",
   "feed": "tech-news-daily",
   "days": [
     {
@@ -35,7 +35,7 @@ Notes:
 
 ```json
 {
-  "updated": "YYYY-MM-DD",
+  "updated": "YYYY-MM-DDTHH:MM:SS+07:00",
   "feed": "substack-weekly",
   "weeks": [
     {

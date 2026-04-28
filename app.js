@@ -60,10 +60,18 @@
       let sub = "";
       let isMember = false;
       let isFirst = !!entry.first_watch;
+      let isExternal = true;
       if (entry.type === "playlist") {
         title = entry.title;
         sub = entry.subtitle || "";
         href = `https://www.youtube.com/playlist?list=${entry.playlist_id}`;
+        isMember = !!entry.membership;
+      } else if (entry.type === "series") {
+        title = entry.label || entry.series_name;
+        sub = entry.subtitle || "series";
+        href = `/#archive?series=${encodeURIComponent(entry.series_name)}`;
+        isExternal = false;
+        isMember = !!entry.membership;
       } else {
         const ep = byId.get(entry.video_id);
         if (ep) {
@@ -77,16 +85,18 @@
       }
       const itemClasses = ["hub-path__item"];
       if (isFirst) itemClasses.push("hub-path__item--first");
+      const linkAttrs = isExternal ? 'target="_blank" rel="noopener"' : '';
+      const trailingIcon = entry.type === "playlist"
+        ? `<span class="hub-path__item-icon" title="Playlist"><i data-lucide="list"></i></span>`
+        : entry.type === "series"
+          ? `<span class="hub-path__item-icon" title="Series"><i data-lucide="layers"></i></span>`
+          : `<span class="hub-path__item-icon"><i data-lucide="play"></i></span>`;
+      const memberStamp = isMember ? `<span class="hub-stamp">MEMBER</span>` : "";
       li.innerHTML = `
-        <a class="${itemClasses.join(" ")}" href="${href}" target="_blank" rel="noopener">
+        <a class="${itemClasses.join(" ")}" href="${href}" ${linkAttrs}>
           <span class="hub-path__num">${i + 1}</span>
           <span class="hub-path__txt">${escapeHtml(title)}${sub ? `<small>${escapeHtml(sub)}</small>` : ""}</span>
-          ${entry.type === "playlist"
-            ? `<span class="hub-path__item-icon" title="Playlist"><i data-lucide="list"></i></span>`
-            : isMember
-              ? `<span class="hub-stamp">MEMBER</span>`
-              : `<span class="hub-path__item-icon"><i data-lucide="play"></i></span>`
-          }
+          ${memberStamp || trailingIcon}
         </a>
       `;
       list.appendChild(li);

@@ -6,7 +6,7 @@
     "blurb": "Start at page one — what each part of investing actually means.",
     "entries": [
       { "type": "video", "video_id": "HUhZPSB6LkU", "first_watch": true, "note": "Start here" },
-      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "title": "Fundamental Analysis", "subtitle": "EP1 + EP2 + EP3 (a 3-page chapter)" },
+      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "title": "Fundamental Analysis", "subtitle": "EP1 + EP2 + EP3 (a 3-page chapter)", "membership": true },
       { "type": "video", "video_id": "VIot0HlfY90" },
       { "type": "video", "video_id": "WiDBO1K5sEk" },
       { "type": "video", "video_id": "8mx_h7odz3E" },

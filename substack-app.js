@@ -1,6 +1,18 @@
 (async function () {
   const $ = (s) => document.querySelector(s);
 
+  function fmtThaiDate(iso) {
+    const months = ["มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"];
+    const [y,m,d] = iso.slice(0, 10).split("-");
+    return `${+d} ${months[+m-1]} ${+y}`;
+  }
+  function fmtLastEdited(iso) {
+    const datePart = fmtThaiDate(iso);
+    if (!iso.includes("T")) return `Last edited: ${datePart}`;
+    const d = new Date(iso);
+    const time = d.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Bangkok", hour12: false });
+    return `Last edited: ${datePart}, ${time}`;
+  }
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
   }
@@ -25,7 +37,7 @@
     return;
   }
 
-  $("#substack-meta").textContent = `อัปเดตล่าสุด ${escapeHtml(data.updated || "")} · ${weeks.length} สัปดาห์`;
+  $("#substack-meta").textContent = `${fmtLastEdited(data.updated)} · ${weeks.length} week${weeks.length === 1 ? "" : "s"}`;
 
   const html = weeks.map(week => {
     const papers = (week.papers || []).map((p, i) => {
