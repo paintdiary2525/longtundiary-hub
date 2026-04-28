@@ -15,7 +15,7 @@
         {
           "title": "The CoreWeave Series | Part 2: The TSMC of the Cluster",
           "author": "Jason's Chips",
-          "author_url": null,
+          "author_url": "https://jasonschips.substack.com/",
           "core_thesis": "บทความนี้เสนอ framework ใหม่ว่า CoreWeave ($CRWV) ควรถูกมองเหมือน TSMC ไม่ใช่ commodity GPU rental — \"goodput\" (GPU hours ที่ผลิต useful work จริงๆ) คือ \"yield\" ของ cluster เหมือนที่ known-good-dies คือ yield ของ foundry SemiAnalysis จัดให้ CoreWeave ครอง ClusterMAX Platinum tier รายเดียว โดย hyperscalers มี goodput loss 10.53% vs 6.14% ของ gold-tier neoclouds และ TCO สูงกว่าถึง 1.6x บน RL workloads",
           "key_takeaway": "ถ้า premise ที่ว่า GPU cloud เป็น commodity ผิด ทั้ง bear case จะพัง — CoreWeave กำลัง \"underearning\" เพราะ pricing ยังไม่สะท้อน goodput value ที่ส่งมอบ และ ROIC จะ inflect ขึ้นเมื่อ buyers เข้าใจ TCO math จริงๆ"
         },
