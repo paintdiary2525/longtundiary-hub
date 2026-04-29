@@ -5,12 +5,11 @@
     "subtitle": "เพิ่งเริ่มลงทุน",
     "blurb": "Start at page one — what each part of investing actually means.",
     "entries": [
-      { "type": "video", "video_id": "HUhZPSB6LkU", "first_watch": true, "note": "Start here" },
-      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "title": "Fundamental Analysis", "subtitle": "EP1 + EP2 + EP3 (a 3-page chapter)", "membership": true },
+      { "type": "playlist", "playlist_id": "PL5jKtKOOoyxEHUKlpo29RtUs-S0Eh7dPG", "title": "Fundamental Analysis", "subtitle": "EP1 + EP2 + EP3 (a 3-page chapter)", "first_watch": true, "membership": true },
+      { "type": "series", "series_name": "ลงทุนแบบคนเก่งๆ", "label": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — series", "membership": true },
+      { "type": "video", "video_id": "2IwvNnjpKl4" },
       { "type": "video", "video_id": "VIot0HlfY90" },
-      { "type": "video", "video_id": "WiDBO1K5sEk" },
       { "type": "video", "video_id": "8mx_h7odz3E" },
-      { "type": "video", "video_id": "o6yDdBm35O8" },
       { "type": "video", "video_id": "RGrKr2N7g_8" }
     ]
   },
@@ -21,10 +20,11 @@
     "blurb": "For the steady reader — earnings, theses, the everyday journal.",
     "entries": [
       { "type": "playlist", "playlist_id": "PL5jKtKOOoyxH42NfkN18nOr8ayxUn1vnQ", "title": "How I AI", "subtitle": "tools, workflows, AI thesis (playlist)" },
+      { "type": "video", "video_id": "WiDBO1K5sEk" },
+      { "type": "video", "video_id": "o6yDdBm35O8" },
       { "type": "video", "video_id": "hEEiV-UVpuk" },
       { "type": "video", "video_id": "LHn0wsxedwM" },
       { "type": "video", "video_id": "QKQ_mDCruIA" },
-      { "type": "series", "series_name": "ลงทุนแบบคนเก่งๆ", "label": "ลงทุนแบบคนเก่งๆ", "subtitle": "creator profiles — series", "membership": true },
       { "type": "video", "video_id": "LDfE84pG4uU" },
       { "type": "video", "video_id": "p69O_oplI_A" }
     ]
@@ -39,6 +39,8 @@
       { "type": "video", "video_id": "VfkEfYXkCUY" },
       { "type": "video", "video_id": "fgXofTO-e4w" },
       { "type": "video", "video_id": "vEw9QWjbfIs" },
+      { "type": "video", "video_id": "y6GDYtcC_ho" },
+      { "type": "video", "video_id": "-zeSDBNs05o" },
       { "type": "series", "series_name": "Secret Investor", "label": "Secret Investor", "subtitle": "lesser-known deep dives — series", "membership": true }
     ]
   }
