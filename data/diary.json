@@ -1,0 +1,5592 @@
+{
+  "updated": "2026-04-29T14:03:17+07:00",
+  "feed": "diary",
+  "entries": [
+    {
+      "id": "insight-2026-04-29_fundaai-msft-1q26-copilot-azure-anthropic",
+      "title": "FundaAI MSFT 1Q26 — Copilot stickiness vs Claude superiority",
+      "summary_thai": "Copilot ติดเพราะ stack-bundling switching cost (identity + permissions + compliance + TCO) สูงกว่า raw capability gap ของ Claude-Code. Microsoft retain enterprise แม้ Anthropic เก่งกว่า. Anthropic เข้าสู่ tri-anchor (AWS+Google+Azure)",
+      "type": "insight",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "NVDA"
+      ],
+      "topics": [
+        "SaaS",
+        "Hyperscalers",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "134e7675f550"
+    },
+    {
+      "id": "insight-2026-04-29_photoncap-nvidia-rubin-nvl8-multi-foundry",
+      "title": "NVIDIA Rubin platform = ครั้งแรกที่ single-foundry monoculture จบลง",
+      "summary_thai": "Vera Rubin platform ของ NVIDIA spread ข้าม TSMC + Samsung + Intel พร้อมกัน + ใช้ ARM Vera ใน training rack แต่ x86 Xeon ใน inference rack. Workload bifurcation → chip → foundry → system bifurcation cascade. NVIDIA ขยับเป็น standard-licensor ที่ NVLink fabric",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "INTC",
+        "TSM",
+        "AVGO",
+        "AMD"
+      ],
+      "topics": [
+        "Custom Silicon",
+        "Foundry",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "7e88d137a555"
+    },
+    {
+      "id": "thesis-C10-neocloud-compression",
+      "title": "C10 — Neocloud valuation compression: equipment lessor priced as growth platform",
+      "summary_thai": "Neocloud (CoreWeave, Nebius, IREN) ราคาเหมือน growth platform แต่จริงๆ คือ equipment lessor. GPU spot pricing เริ่มสูงกว่า hyperscaler break-even — bound downside ลงไปก่อน. Candidate",
+      "type": "thesis",
+      "tickers": [
+        "CRWV",
+        "NBIS",
+        "IREN",
+        "MSFT"
+      ],
+      "topics": [
+        "Cloud",
+        "Valuation",
+        "Neocloud"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C12-cyber-resilience",
+      "title": "C12 — Physics-grounded cyber resilience ทนกว่า telemetry-grounded prevention",
+      "summary_thai": "Physics-grounded resilience (immutable backup, recovery) ทน AI-era attacks ได้ดีกว่า telemetry-grounded prevention. Rubrik + CrowdStrike position ดีถ้า playbook นี้ confirm — Candidate",
+      "type": "thesis",
+      "tickers": [
+        "CRWD",
+        "RBRK",
+        "PANW"
+      ],
+      "topics": [
+        "Cybersecurity"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C14-china-3d-dram",
+      "title": "C14 — China's 3D DRAM pivot อาจ bypass equipment embargo",
+      "summary_thai": "CXMT 3D DRAM pivot อาจ bypass US equipment embargo. ถ้าสำเร็จ — DRAM oligopoly แตก, มี implication กับ HBM supply chain — Candidate",
+      "type": "thesis",
+      "tickers": [
+        "MU"
+      ],
+      "topics": [
+        "Memory",
+        "China",
+        "Semiconductor"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C15-corning-fiber",
+      "title": "C15 — Corning fiber = AI infra play, glass substrate = free optionality",
+      "summary_thai": "Corning fiber กำลัง re-rate เป็น AI infra play. Glass substrates สำหรับ advanced packaging = free optionality บน thesis เดียวกัน — Candidate",
+      "type": "thesis",
+      "tickers": [
+        "GLW"
+      ],
+      "topics": [
+        "Photonics",
+        "Substrates"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C7-human-peer-content",
+      "title": "C7 — Human interaction as scarcity: authentic peer content เป็น defensible moat",
+      "summary_thai": "Human-generated peer content (Reddit, Stack Overflow) กลายเป็น scarcity ใน AI era. Defensible moat ถ้า platform คุม authenticity ได้ — Candidate (ยังต้องเทสกับ AI commoditization)",
+      "type": "thesis",
+      "tickers": [
+        "RDDT"
+      ],
+      "topics": [
+        "Social",
+        "Data Moat"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C8-ai-data-licensing-overrated",
+      "title": "C8 — AI data licensing overrated เป็น revenue thesis",
+      "summary_thai": "AI data licensing ที่ analyst เคย hype overrated. Revenue ที่ scale ต่ำกว่าคาด, terms ไม่ favorable. Bear thesis ที่กำลัง validate — Candidate (low confidence)",
+      "type": "thesis",
+      "tickers": [
+        "RDDT",
+        "SSTK",
+        "GETY"
+      ],
+      "topics": [
+        "AI",
+        "Licensing"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-C9-public-safety-saas",
+      "title": "C9 — Government / public safety SaaS hardware-bundled cloud lock-in underpriced",
+      "summary_thai": "Public safety SaaS (Axon, Motorola Solutions) hardware-bundled cloud lock-in ถูก underpriced. Switching cost สูงมาก — Candidate",
+      "type": "thesis",
+      "tickers": [
+        "AXON",
+        "MSI"
+      ],
+      "topics": [
+        "SaaS",
+        "Government"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T1-optical-interconnect",
+      "title": "T1 — Optical Interconnect คือ TSMC-style chokepoint ตัวต่อไป",
+      "summary_thai": "Networking กลายเป็นคอขวดของ AI buildout. CPO + optics + switches เป็น choke point แบบ TSMC ที่ AVGO/Marvell/optics vendors เก็บ value ได้ทน — Confirmed (30+ sources)",
+      "type": "thesis",
+      "tickers": [
+        "AVGO",
+        "MRVL",
+        "AAOI",
+        "COHR",
+        "LITE"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Photonics",
+        "Networking"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T10-uber-network-density",
+      "title": "T10 — Uber network density flywheel เป็น AV-proof platform moat",
+      "summary_thai": "Uber network density (riders + drivers + merchants) สร้าง flywheel ที่ AV ตัวเดียวมาแทนไม่ได้. Tesla/Waymo ต้อง partner ไม่ใช่ disrupt — Strengthening",
+      "type": "thesis",
+      "tickers": [
+        "UBER",
+        "TSLA"
+      ],
+      "topics": [
+        "AV",
+        "Platform"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T11-toast-vertical-saas",
+      "title": "T11 — Toast's vertical SaaS flywheel ในร้านอาหาร",
+      "summary_thai": "Toast vertical SaaS flywheel (POS + payments + payroll + capital) ในร้านอาหาร — repeat playbook ของ Shopify ใน vertical อื่น. Developing — ยังต้องดู unit economics ผ่าน down cycle",
+      "type": "thesis",
+      "tickers": [
+        "TOST",
+        "SQ",
+        "SHOP",
+        "UBER"
+      ],
+      "topics": [
+        "SaaS",
+        "Vertical SaaS"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T12-bottleneck-migration",
+      "title": "T12 — Bottleneck migration เป็น repeatable investment framework",
+      "summary_thai": "Bottleneck ของ AI ขยับจาก compute → memory → network → power → utilities. Framework ใช้ตามได้แม้ outside silicon. Forward-prediction tool ที่ confirmed ใน 27+ sources",
+      "type": "thesis",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "CDNS",
+        "SNPS"
+      ],
+      "topics": [
+        "Framework",
+        "Investment"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T13-hbm-structural",
+      "title": "T13 — HBM/DRAM re-rating จาก cyclical commodity เป็น structural AI infra",
+      "summary_thai": "HBM/DRAM กำลัง re-rate จาก cyclical commodity เป็น structural AI infra. Multi-tier KV-cache hierarchy ดึง mid-tier DRAM + SSD เข้ามาเป็น beneficiary — Confirmed (28+ sources, basket-style ดีกว่า single vendor)",
+      "type": "thesis",
+      "tickers": [
+        "MU",
+        "RMBS"
+      ],
+      "topics": [
+        "Memory",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T14-shopify-rails",
+      "title": "T14 — Shopify backend rails เก็บ value แม้ AI agent shop แทนคน",
+      "summary_thai": "AI agents shop แทนคน — แต่ backend rails (payment, fulfillment, merchant relationship) ยังเก็บ value. Shopify ใน position ที่ดีกว่า front-end discovery brands — Strengthening",
+      "type": "thesis",
+      "tickers": [
+        "SHOP",
+        "AMZN",
+        "META",
+        "GOOGL"
+      ],
+      "topics": [
+        "E-commerce",
+        "AI Commerce"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T15-advanced-packaging",
+      "title": "T15 — Advanced packaging คือ foundry ใหม่",
+      "summary_thai": "Advanced packaging (CoWoS, hybrid bonding, OCP) เป็น foundry ใหม่ที่ yield compounding สร้าง TSMC-style lock-in ที่ packaging layer. Multi-anchor platform ทำให้ packaging โหลด structural — Strengthening",
+      "type": "thesis",
+      "tickers": [
+        "TSM",
+        "INTC",
+        "BESI",
+        "AMAT"
+      ],
+      "topics": [
+        "Semiconductor",
+        "Advanced Packaging"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T2-zeta-identity-graph",
+      "title": "T2 — ZETA's deterministic identity graph เป็น compounding data moat",
+      "summary_thai": "ZETA's deterministic identity graph (vs. probabilistic) สร้าง data moat ที่ทบต้น scale + first-party data ทำให้คู่แข่ง replicate ยาก — Strengthening (ยังไม่ Confirmed)",
+      "type": "thesis",
+      "tickers": [
+        "ZETA",
+        "APP"
+      ],
+      "topics": [
+        "SaaS",
+        "Data Moat"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T3-arm-cpu-multiplier",
+      "title": "T3 — Agentic AI สร้าง structural CPU demand multiplier ให้ ARM",
+      "summary_thai": "Agentic AI ใช้ CPU เพิ่มแบบ structural ไม่ใช่แค่ GPU — CPU multiplier confirmed. ARM-vs-x86 capture ยัง Strengthening — workload-track เริ่มแยก ARM (training) กับ x86 (inference) ชัดขึ้น",
+      "type": "thesis",
+      "tickers": [
+        "ARM",
+        "INTC",
+        "AMD",
+        "NVDA"
+      ],
+      "topics": [
+        "Agentic AI",
+        "CPU"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T4-tsmc-concentration",
+      "title": "T4 — TSMC concentration risk เป็น shared single point of failure",
+      "summary_thai": "TSMC concentration risk ถูก shared ทั่ว AI supply chain. หน่วยของ diversification คือ platform ไม่ใช่ die. Multi-anchor (TSMC+Samsung+Intel) เริ่มเป็น norm — Confirmed (43+ sources)",
+      "type": "thesis",
+      "tickers": [
+        "TSM",
+        "INTC"
+      ],
+      "topics": [
+        "Semiconductor",
+        "Foundry"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T5-vertical-integration",
+      "title": "T5 — Vertical integration ใน AI infra คือ moat ใหม่",
+      "summary_thai": "Vertical integration ทุก layer (silicon → system → cloud → model → app) คือ moat ใหม่ของ AI infra. Hyperscalers ที่ orchestrate ทุก layer ชนะ. NVIDIA + Big 3 cloud + Broadcom เป็น winners — Confirmed (45+ sources)",
+      "type": "thesis",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "AVGO"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Vertical Integration",
+        "Cloud"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T6-amzn-custom-silicon",
+      "title": "T6 — Amazon's custom silicon strategy สร้าง Nvidia-independent AI cloud",
+      "summary_thai": "Amazon Trainium + Inferentia building Nvidia-independent AI cloud. Multi-anchor framing แทน single-vendor. Governance-on-spend risk ที่ OpenAI commitment เป็น variable ใหม่ — Strengthening (ยังไม่ Confirmed)",
+      "type": "thesis",
+      "tickers": [
+        "AMZN",
+        "NVDA",
+        "AVGO"
+      ],
+      "topics": [
+        "Custom Silicon",
+        "Cloud",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T7-embedded-fintech",
+      "title": "T7 — Embedded fintech ใน closed ecosystem ชนะ standalone",
+      "summary_thai": "Fintech ที่ embed อยู่ใน closed ecosystem (super app, bank, marketplace) ชนะ standalone — distribution + data = compounding edge. SoFi, MELI, Sea Limited เป็น playbook — Strengthening",
+      "type": "thesis",
+      "tickers": [
+        "SOFI",
+        "MELI",
+        "SE",
+        "V"
+      ],
+      "topics": [
+        "Fintech"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T8-saas-nrr-leading",
+      "title": "T8 — AI disruption ของ SaaS อ่านจาก NRR ก่อน",
+      "summary_thai": "NRR (net retention rate) เป็น leading indicator ของ AI disruption ใน SaaS. Stack-bundling switching cost > raw capability gap — Microsoft Copilot ชนะ Claude-Code ในตลาด enterprise — Strengthening",
+      "type": "thesis",
+      "tickers": [
+        "CRWD",
+        "PANW",
+        "ZETA",
+        "PLTR",
+        "RBRK",
+        "MSFT"
+      ],
+      "topics": [
+        "SaaS",
+        "AI Disruption Risk"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "thesis-T9-google-self-disrupt",
+      "title": "T9 — Google AI self-disruption คือ moat-deepening event",
+      "summary_thai": "Google self-disrupt ตัวเองด้วย AI = moat deepening, ไม่ใช่ moat erosion. TPU + Search + YouTube + Cloud ทำงานร่วมกัน. Cloud Next '26 ปลด ambiguity — Confirmed (promote QU#9 2026-04-29)",
+      "type": "thesis",
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Cloud",
+        "Hyperscalers"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": null
+    },
+    {
+      "id": "xpost-2026-04-29_meta-embedded-ai-lab",
+      "title": "META rank ไม่ติด top 3 = กลยุทธ์ที่ถูก ไม่ใช่ยอมแพ้",
+      "summary_thai": "Intelligence ของ frontier model ไม่ใช่เลขเดียว — แตกเป็น reasoning, coding, social, shopping ฯลฯ. Model rank 4-5 รวม แต่ rank 1 บน social + shopping (ที่ Meta มี data) = ชนะตลาดที่ Meta หาเงินจริง. OpenAI/Google fine-tune ไม่ได้เพราะไม่มี data",
+      "type": "xpost",
+      "tickers": [
+        "META"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Social"
+      ],
+      "date": "2026-04-29",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-28_fundaai-deepseek-v4-non-nvidia-cooptimization",
+      "title": "DeepSeek V4 = โมเดลแรกที่ออกแบบเพื่อไม่พึ่ง NVIDIA",
+      "summary_thai": "DeepSeek V4 เป็นโมเดลแรกที่ออกแบบ architecture (CSA/HCA/SWA + MegaMoE fused kernel + low MoE activation) ให้ workload เป็น GEMM-friendly สำหรับ non-NVIDIA accelerator. ครั้งแรกที่มี evidence ระดับ technical mechanism ของ inference-first co-design",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "META"
+      ],
+      "topics": [
+        "Custom Silicon",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-28",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "95b2c541d8cd"
+    },
+    {
+      "id": "insight-2026-04-28_thetranscript-final-bite-intel-skhynix-googl-tpu-credit",
+      "title": "Q1'26 earnings round-up — TPU เริ่มขายให้ HFT, SK Hynix CFO ยืนยัน supply ขาด",
+      "summary_thai": "Kurian เปิดว่า TPU เริ่มมี external buyer segment ใหม่คือ financial services / HFT — แทน x86 numerical workloads. SK Hynix CFO ยืนยันว่า memory supply ขาด demand structurally เพราะ clean room ใช้เวลาสร้างนานกว่า capex commitment cycle",
+      "type": "insight",
+      "tickers": [
+        "INTC",
+        "GOOGL",
+        "NVDA",
+        "SOFI"
+      ],
+      "topics": [
+        "Custom Silicon",
+        "Memory",
+        "CPU"
+      ],
+      "date": "2026-04-28",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "ca8d7ad5ec3b"
+    },
+    {
+      "id": "xpost-2026-04-28_arteris-fabric-ip",
+      "title": "AIP — fabric IP สายไฟในชิป ที่ EDA duopoly story ลืมพูดถึง",
+      "summary_thai": "ARM vs RISC-V + SNPS vs CDNS ดังกัน — แต่มี layer ที่คนไม่พูด: fabric IP สายไฟในชิปเชื่อม CPU+NPU+accelerator. SNPS/CDNS ขาย interface IP (ทางออก). AIP ขายแค่ fabric IP — กิน royalty ทุก architecture เพราะไม่ผูกกับใคร",
+      "type": "xpost",
+      "tickers": [
+        "AIP",
+        "ARM",
+        "SNPS",
+        "CDNS"
+      ],
+      "topics": [
+        "Semiconductor",
+        "IP"
+      ],
+      "date": "2026-04-28",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-27_investorscompass-weekly-corning-sivers-hyperscaler-capex",
+      "title": "Corning AI fiber 3-wave revenue architecture (scale-out → scale-up → scale-across)",
+      "summary_thai": "Corning AI data center revenue เข้ามาเป็น 3 คลื่นต่อกันไม่ทับซ้อน — scale-out fiber วันนี้, scale-up fiber ใน package ปลาย decade, scale-across fiber ข้าม region หลังปี 2030. โครงสร้างนี้ทำให้ Corning เป็น durable infra compounder",
+      "type": "insight",
+      "tickers": [
+        "GLW",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META"
+      ],
+      "topics": [
+        "Photonics",
+        "Hyperscalers",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-27",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "788e583d1f3d"
+    },
+    {
+      "id": "insight-2026-04-27_nvda-moat-chart-aware",
+      "title": "SaaS moat-collapse shape — workflow stairsteps vs code-complexity binary",
+      "summary_thai": "Chart-aware pass ของ NVDA moat — ที่ใหม่จริงๆ คือ pattern ของการ collapse ของ SaaS: lightweight (MNDY) collapse ก่อน → enterprise SaaS (CRM/NOW) ถือต่ออีกไตรมาส → code-complexity moat (IBM) repricing ทีเดียวเป็น binary event",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "CRM",
+        "IBM"
+      ],
+      "topics": [
+        "SaaS",
+        "Custom Silicon",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-27",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "ea0fab911074"
+    },
+    {
+      "id": "insight-2026-04-27_photoncap-iii-v-deposition-ai-optical",
+      "title": "Materials-first pattern — every compute cycle เริ่มที่ deposition equipment ก่อน device",
+      "summary_thai": "ทุก major computing cycle (DRAM, RF GaAs/GaN, EV SiC/GaN, AI optical InP) เริ่มจาก leading-edge signal ที่ materials/deposition layer ก่อน device. III-V deposition stack 5 ขั้น (MOCVD/MBE + ICP-RIE + ICPCVD + ALD + IBE) แต่ละขั้นเป็น near-monopoly slot",
+      "type": "insight",
+      "tickers": [
+        "AMAT",
+        "KLAC",
+        "COHR",
+        "LITE"
+      ],
+      "topics": [
+        "Photonics",
+        "Semiconductor",
+        "Advanced Packaging"
+      ],
+      "date": "2026-04-27",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "4e1933da6dfb"
+    },
+    {
+      "id": "insight-2026-04-27_tmtb-doug-olaughlin-semianalysis-ama",
+      "title": "Doug O'Laughlin AMA — front-end wafer (ไม่ใช่ CoWoS) คือ packaging bottleneck ของจริง",
+      "summary_thai": "Doug O'Laughlin ชี้ว่า bottleneck ที่แท้จริงของ AI buildout ย้ายออกจาก CoWoS ไปอยู่ที่ front-end wafer + cleanroom + turbines + lasers. NVDA arc คล้าย AAPL: share ลงจากจุดสูงสุด แต่ EPS ยังเดิน. TSMC N3-and-below = world's biggest story. Power semis = vibe trade ไม่ใช่ bottleneck จริง",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "TSM",
+        "AMZN",
+        "GOOGL",
+        "AVGO"
+      ],
+      "topics": [
+        "Semiconductor",
+        "AI Infrastructure",
+        "Foundry"
+      ],
+      "date": "2026-04-27",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "f5ec79d989d8"
+    },
+    {
+      "id": "xpost-2026-04-27_snps-cdns-eda-fork",
+      "title": "SNPS + CDNS — NVIDIA ใช้ทั้งสอง ไม่ใช่ hedge",
+      "summary_thai": "NVIDIA ลงทุนใน SNPS + เลือก CDNS launch partner AgentStack — ไม่ใช่ hedge. SNPS = ออกแบบ chip ส่วนแรก (digital + IP + multiphysics). CDNS = ส่วนหลัง (analog + layout + agent orchestration). NVIDIA ต้องใช้ครบทั้งสอง",
+      "type": "xpost",
+      "tickers": [
+        "SNPS",
+        "CDNS",
+        "NVDA"
+      ],
+      "topics": [
+        "Semiconductor",
+        "EDA"
+      ],
+      "date": "2026-04-27",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "video-BjKBGfjY7B4",
+      "title": "ผมว่ามันถึงเวลาของ CPU ละ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "CPU Demand Cycle"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-27",
+      "linked_video_id": "BjKBGfjY7B4",
+      "external_url": "https://youtube.com/watch?v=BjKBGfjY7B4",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-26_damnang-arteris-noc-cpu-npu-second-order",
+      "title": "Arteris NoC IP — second-order CPU bet ที่เป็น architecture-neutral",
+      "summary_thai": "Arteris ขาย Network-on-Chip IP layer ที่ไม่มีในอะตอม KB เดิม — เป็น second-order play จาก heterogeneous compute (CPU + NPU + accelerator). โมเดล per-design royalty ต่างจาก ARM ที่เก็บ per-chip. Architecture-neutral = ไม่ต้องเดิมพัน ISA เดียว",
+      "type": "insight",
+      "tickers": [
+        "AIP",
+        "AMD",
+        "ARM",
+        "CDNS"
+      ],
+      "topics": [
+        "IP",
+        "Custom Silicon",
+        "CPU"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "5140eff35345"
+    },
+    {
+      "id": "insight-2026-04-26_damnang-cadence-custom-silicon-platform",
+      "title": "Cadence ไม่ใช่ EDA แล้ว — กำลังเปลี่ยนเป็น vertically integrated chip-design platform",
+      "summary_thai": "Cadence ซื้อ design house (Invecas, Intrinsix, Apex) + วาง AI agent stack (Cerebrus, ChipStack, AgentStack) + ขยาย IP portfolio = transition จาก tool supplier เป็น chip design platform. AI productivity ทำให้ design service business มี margin เป็น scalable แทน people-bound",
+      "type": "insight",
+      "tickers": [
+        "CDNS",
+        "SNPS",
+        "NVDA"
+      ],
+      "topics": [
+        "EDA",
+        "Custom Silicon",
+        "Vertical Integration"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "c1b61be9450c"
+    },
+    {
+      "id": "insight-2026-04-26_damnang-cpu-bottleneck-trade",
+      "title": "ISA = monetization lens — x86 / ARM / RISC-V ดูดเงินคนละแบบ",
+      "summary_thai": "ISA ไม่ใช่แค่ technical taxonomy — มันบอกว่าใครกินเงิน. x86 → Intel/AMD socket margin (ดูโอโพลี). ARM → hyperscaler/NVIDIA chip ASP, ARM Holdings ได้แค่ royalty (share winner ≠ margin winner). RISC-V → ใครซื้อชิปก็ได้เลยไม่มี IP tax. Intel triple-asset ยัง unique",
+      "type": "insight",
+      "tickers": [
+        "INTC",
+        "AMD",
+        "NVDA",
+        "ARM",
+        "MU"
+      ],
+      "topics": [
+        "CPU",
+        "IP",
+        "Custom Silicon"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "e1f5936d942a"
+    },
+    {
+      "id": "insight-2026-04-26_synopsys-vs-cadence-strategic-fork",
+      "title": "Synopsys vs Cadence — Visa/Mastercard pair-trade frame พังไปแล้ว",
+      "summary_thai": "EDA duopoly ยังอยู่ที่ tool layer แต่โมเดลธุรกิจแยกออกแล้ว: Synopsys เป็น horizontal multiphysics+IP fortress ขายให้ hyperscaler, Cadence เป็น vertically integrated chip-design platform ขายให้ defense/auto/sovereign AI. AI-in-EDA = table stakes ไม่ใช่ tiebreaker",
+      "type": "insight",
+      "tickers": [
+        "SNPS",
+        "CDNS",
+        "NVDA"
+      ],
+      "topics": [
+        "EDA",
+        "Vertical Integration"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "e058d8e26773"
+    },
+    {
+      "id": "insight-2026-04-26_uncoveralpha-amzn-meta-ai-laggards-flip",
+      "title": "Left for Dead: AMZN + META AI laggards เตรียมหัวเราะที่หลัง",
+      "summary_thai": "AMZN + META ที่โดน market โทษว่าตามไม่ทัน AI กำลังจะกลับมาได้ — Trainium ramp + Anthropic anchor + circular capital flow ที่ unique กับ AWS, META engagement-graph + closed-model + multi-vendor portfolio. การเล่น AI infra ไม่ใช่ NVIDIA-only trade",
+      "type": "insight",
+      "tickers": [
+        "AMZN",
+        "META",
+        "GOOGL",
+        "NVDA",
+        "AVGO"
+      ],
+      "topics": [
+        "Hyperscalers",
+        "Custom Silicon",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "e5dd5a8dea19"
+    },
+    {
+      "id": "insight-2026-04-26_uncoveralpha-q1-2026-cloud-channel-checks",
+      "title": "Cloud is on fire — channel checks ยืนยัน AWS re-acceleration + GPU deficit เป็น physical supply constraint",
+      "summary_thai": "Channel-check + alternative data (job listings + MCP server share + Copilot dissatisfaction) ยืนยันว่า cloud demand เร่งจริง. AWS re-acceleration, GCP เร็วสุด, Azure capacity-constrained. GPU deficit = physical supply constraint ไม่ใช่ pricing",
+      "type": "insight",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "GOOGL",
+        "NVDA"
+      ],
+      "topics": [
+        "Hyperscalers",
+        "Cloud",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "9a7a683d169c"
+    },
+    {
+      "id": "xpost-2026-04-26_t-glass-nitto-boseki",
+      "title": "T-Glass / Nitto Boseki — AI supply chain geography",
+      "summary_thai": "CoWoS ไม่ใช่คอขวดที่ลึกที่สุด: GPU → CoWoS → ABF substrate → T-Glass (Nitto Boseki, ญี่ปุ่น). Pattern: Memory=เกาหลี, Foundry=ไต้หวัน, T-Glass=ญี่ปุ่น — แต่ละ layer ของ AI supply chain หยุดที่ประเทศต่างกัน",
+      "type": "xpost",
+      "tickers": [
+        "TSM"
+      ],
+      "topics": [
+        "Advanced Packaging",
+        "Semiconductor"
+      ],
+      "date": "2026-04-26",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "video-aXGOnttKHxw",
+      "title": "อัพเดท TSMC NETFLIX และหวยหุ้น - DCA DIARY EP11",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-26",
+      "linked_video_id": "aXGOnttKHxw",
+      "external_url": "https://youtube.com/watch?v=aXGOnttKHxw",
+      "source_hash": null
+    },
+    {
+      "id": "xpost-2026-04-25_intel-packaging-reframe",
+      "title": "INTC Q1'26 — demand 'starts with B' พลิกโจทย์เป็น supply problem",
+      "summary_thai": "INTC bear case 3 ปี = \"demand problem\" ตอน Q1'26 CFO บอก demand \"starts with B\" (billions). โจทย์พลิก: \"หาคนซื้อ\" → \"ผลิตให้ทัน\". Supply-constrained = เปิดทางขึ้นราคา + advanced packaging โต + ASIC แข่ง AVGO ได้",
+      "type": "xpost",
+      "tickers": [
+        "INTC",
+        "AVGO"
+      ],
+      "topics": [
+        "Semiconductor",
+        "Advanced Packaging"
+      ],
+      "date": "2026-04-25",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-24_apptopia-uber-nflx",
+      "title": "Apptopia panel data — Uber Trips + Netflix engagement = externally observable แล้ว",
+      "summary_thai": "Mobile-session data จาก app-panel reconstruct Uber Trips ที่ระดับ absolute + YoY ได้เลย. Netflix proprietary engagement metric ที่อ้างว่า unique ก็ replicate ได้ด้วย panel — proprietary framing เป็น presentation choice ไม่ใช่ information moat. Surprise quarter น้อยลง",
+      "type": "insight",
+      "tickers": [
+        "UBER",
+        "NFLX"
+      ],
+      "topics": [
+        "Network Effects",
+        "Streaming"
+      ],
+      "date": "2026-04-24",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "fdf2158a1e8a"
+    },
+    {
+      "id": "insight-2026-04-24_dylan-patel-iltb",
+      "title": "Dylan Patel ILTB — token spend แทน salary, ไม่มี natural ceiling",
+      "summary_thai": "ใน sophisticated knowledge-work firm token spend วิ่งเป็น % ของ salary expense — เป็น direct substitute ของ engineer-hour ไม่ใช่ SaaS line item ที่ bounded. แปลว่า inference spend ไม่มี ceiling จนถึง headcount-replacement economics. Anthropic ยังถูก compute constrained",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "GOOGL",
+        "MU"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Agentic AI",
+        "Hyperscalers"
+      ],
+      "date": "2026-04-24",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "4e14af3c1d25"
+    },
+    {
+      "id": "insight-2026-04-24_intc-q126-earnings",
+      "title": "Intel Q1'26 — LTA shift + Xeon 6 ใน DGX Rubin NVL8 + Lip-Bu Tan CPU control plane",
+      "summary_thai": "Intel Q1'26 เปลี่ยน customer commitment regime จาก quarterly PO เป็น Long-Term Agreement = supply visibility ใหม่. Xeon 6 ชนะ design slot ใน DGX Rubin NVL8 = แรกในรอบหลายปีที่ Intel เข้า platform ของ NVIDIA. Lip-Bu Tan ยืนยัน CPU เป็น orchestration layer ของ AI era",
+      "type": "insight",
+      "tickers": [
+        "INTC",
+        "NVDA",
+        "GOOGL",
+        "TSM",
+        "AMD"
+      ],
+      "topics": [
+        "CPU",
+        "Foundry",
+        "Custom Silicon"
+      ],
+      "date": "2026-04-24",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "32e8ed308db7"
+    },
+    {
+      "id": "insight-2026-04-24_nvda-moat-ai-stack",
+      "title": "Deep NVDA — moat ย้ายขึ้นไปอยู่ที่ hardware-system layer แล้ว",
+      "summary_thai": "CUDA moat แบ่งได้ 3 ชั้น แต่ที่สำคัญที่สุดตอนนี้คือ hardware-system integration (rack, NVLink, CPO, OCP standards) ไม่ใช่ kernel libraries. Lock-in เปลี่ยนจาก 'irreplaceable' เป็น 'replaceable แต่ switching cost ยังสูง'. Super-buyer concentration = network-effect bypass แล้ว",
+      "type": "insight",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "GOOGL",
+        "AMZN"
+      ],
+      "topics": [
+        "AI Infrastructure",
+        "Custom Silicon",
+        "Hyperscalers"
+      ],
+      "date": "2026-04-24",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "b9c7307db92c"
+    },
+    {
+      "id": "xpost-2026-04-24_cpu-efficiency-immunity",
+      "title": "CPU Efficiency Immunity — ไม่มี DeepSeek moment เหมือน GPU",
+      "summary_thai": "GPU efficiency ทบกัน (quantization × distillation × sparse attention) = DeepSeek moment. CPU work ของ agent (HTTP, DB query, bash) ย่อไม่ได้ — operational เพี้ยน 1% พังทั้งระบบ. CPU efficiency โตแบบเส้นตรง, ไม่ทบ. INTC + ARM ได้ประโยชน์",
+      "type": "xpost",
+      "tickers": [
+        "INTC",
+        "ARM"
+      ],
+      "topics": [
+        "CPU",
+        "Agentic AI"
+      ],
+      "date": "2026-04-24",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "video-WiDBO1K5sEk",
+      "title": "Claude code แบบช้าๆ + แจก cowork plugin ตามสัญญา (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "Beginner",
+      "membership": true,
+      "date": "2026-04-24",
+      "linked_video_id": "WiDBO1K5sEk",
+      "external_url": "https://youtube.com/watch?v=WiDBO1K5sEk",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-23_damnang-inp-bottleneck-optical-interconnect",
+      "title": "InP คือ real bottleneck ของ optical cycle — MOCVD = earliest-layer signal",
+      "summary_thai": "MOCVD equipment layer (Aixtron + Veeco duopoly) นั่งสูงกว่า InP substrate และเป็น earliest observable signal ของ shortage cycle ทุกครั้ง. InP ใช้ร่วมกันกับ AI/6G/quantum/LiDAR/medical/military — fastest-growing market กดดันทั้ง chain. CPO thermal forces lasers เป็น ELS",
+      "type": "insight",
+      "tickers": [
+        "COHR",
+        "LITE"
+      ],
+      "topics": [
+        "Photonics",
+        "Semiconductor",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-23",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "94dd67d3d05c"
+    },
+    {
+      "id": "insight-2026-04-23_fundaai-tpu-8t-virgo-network-optics",
+      "title": "TPU 8t/8i + Virgo Network — Google validate optics scale-out thesis เอง",
+      "summary_thai": "Google publish architecture ของ TPU 8t (training) + 8i (inference) + Virgo Network = first-party validation ของ optics scale-out thesis ที่ buyside พูดมานาน. Boardfly topology บีบ hop count, OCS เป็น load-bearing ไม่ใช่ option. Compute-to-bandwidth constraint ย้ายแล้ว",
+      "type": "insight",
+      "tickers": [
+        "GOOGL",
+        "AVGO",
+        "MRVL",
+        "COHR",
+        "LITE"
+      ],
+      "topics": [
+        "Custom Silicon",
+        "Photonics",
+        "Hyperscalers"
+      ],
+      "date": "2026-04-23",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "7ea5f223301b"
+    },
+    {
+      "id": "insight-2026-04-23_jasonschips-cpu-better-story-agentic",
+      "title": "CPU เป็น better story กว่า photonics — S-curve positioning + structural immunity ต่อ efficiency cycle",
+      "summary_thai": "CPU อยู่ S-curve ต้นที่ AI infra ทุกตัวยังไม่อยู่ — มี structural immunity ต่อ efficiency-compounding cycle ที่ reshape GPU demand เพราะ CPU ทำงาน orchestration/control plane ไม่ใช่ raw matmul. Terminal bottleneck framing — branchy workload ชอบ SMT มากกว่า single-thread",
+      "type": "insight",
+      "tickers": [
+        "INTC",
+        "ARM",
+        "AMD",
+        "NVDA",
+        "TSM"
+      ],
+      "topics": [
+        "CPU",
+        "Agentic AI",
+        "Foundry"
+      ],
+      "date": "2026-04-23",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "ee3f00d5c302"
+    },
+    {
+      "id": "xpost-2026-04-23_cyber-survivors-ai-era",
+      "title": "RBRK มีที่ยืนของตัวเอง — เกมขยับจากกันโดน → ฟื้นเร็วแค่ไหน",
+      "summary_thai": "ถ้า AI agent เขียน + รัน ransomware เร็วกว่าคนตอบโต้ทัน — สิ่งที่เหลือคือ backup ที่เขียนทับ/ลบไม่ได้. เกมขยับจาก \"กันไม่ให้โดน\" → \"โดนแล้วฟื้นเร็วแค่ไหน\". RBRK ไม่ต้องแย่ง TAM กับ CRWD/PANW",
+      "type": "xpost",
+      "tickers": [
+        "RBRK",
+        "CRWD",
+        "PANW"
+      ],
+      "topics": [
+        "Cybersecurity"
+      ],
+      "date": "2026-04-23",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "xpost-2026-04-22_agentic-scaling-law",
+      "title": "Scaling Law ตัวที่ 4 = agent — tokens คือวัตถุดิบ ไม่ใช่ค่าไฟ",
+      "summary_thai": "Scaling law ตัวที่ 4 เปิดแล้ว = agent รันงานเอง เก็บ data จากการลองผิดลองถูก แล้วเอามาเทรนต่อ. Data ชุดนี้ไม่มีในอินเทอร์เน็ต. Tokens = วัตถุดิบ ไม่ใช่ค่าไฟ — compute demand ของ NVDA ไม่ตันแบบที่กลัวกัน",
+      "type": "xpost",
+      "tickers": [
+        "NVDA"
+      ],
+      "topics": [
+        "Agentic AI",
+        "AI Infrastructure"
+      ],
+      "date": "2026-04-22",
+      "linked_video_id": null,
+      "external_url": "https://x.com/longtundiary",
+      "source_hash": null
+    },
+    {
+      "id": "video-2AAxQhv7644",
+      "title": "Claude เปลี่ยนชีวิตผมไปเลย",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-22",
+      "linked_video_id": "2AAxQhv7644",
+      "external_url": "https://youtube.com/watch?v=2AAxQhv7644",
+      "source_hash": null
+    },
+    {
+      "id": "insight-2026-04-21_tmtb-fundaai-ama-filtered",
+      "title": "FundaAI AMA — CPU pricing power, CoWoS bind ถึง 2027, ABF substrate, SiPho shortage",
+      "summary_thai": "CPU supply ขาดทำให้ Intel/AMD ขึ้นราคาได้จริง — pricing power ระดับ structural ไม่ใช่ cyclical. Memory interface เป็น toll road บน server CPU ทุกตัว. CoWoS capacity bind ถึง 2027. Anthropic compute under-provisioned = positioning risk. Hyperscaler capex regime กลายเป็น binary",
+      "type": "insight",
+      "tickers": [
+        "RMBS",
+        "TSM",
+        "AMD",
+        "GOOGL",
+        "AMZN"
+      ],
+      "topics": [
+        "CPU",
+        "Memory",
+        "Advanced Packaging"
+      ],
+      "date": "2026-04-21",
+      "linked_video_id": null,
+      "external_url": null,
+      "source_hash": "02377027b396"
+    },
+    {
+      "id": "video-qyvz3vGdqNc",
+      "title": "เกมของ AI Infrastructure กำลังเปลี่ยนไป (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Agentic AI / AI Infrastructure"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-04-19",
+      "linked_video_id": "qyvz3vGdqNc",
+      "external_url": "https://youtube.com/watch?v=qyvz3vGdqNc",
+      "source_hash": null
+    },
+    {
+      "id": "video-RlREtyAAjTY",
+      "title": "บทเรียนจาก Intel ผู้ที่เคยอยู่จุดสูงสุดของซิป - Podcast กับ Paint",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "series": [
+        "Podcast",
+        "INTC saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-18",
+      "linked_video_id": "RlREtyAAjTY",
+      "external_url": "https://youtube.com/watch?v=RlREtyAAjTY",
+      "source_hash": null
+    },
+    {
+      "id": "video-tABTyhlINJ0",
+      "title": "Netflix ร่วงแรงหลังงบ - Reaction Q1'26 (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-04-17",
+      "linked_video_id": "tABTyhlINJ0",
+      "external_url": "https://youtube.com/watch?v=tABTyhlINJ0",
+      "source_hash": null
+    },
+    {
+      "id": "video-hEEiV-UVpuk",
+      "title": "หุ้น AMAZON มันยังไงซิ?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "AMZN saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-15",
+      "linked_video_id": "hEEiV-UVpuk",
+      "external_url": "https://youtube.com/watch?v=hEEiV-UVpuk",
+      "source_hash": null
+    },
+    {
+      "id": "video-kW9ZttCE6TM",
+      "title": "ข่าวหุ้นเทคที่น่าสนใจ - (6-10 April 2026)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [
+        "Tech News Recap"
+      ],
+      "level": null,
+      "membership": false,
+      "date": "2026-04-12",
+      "linked_video_id": "kW9ZttCE6TM",
+      "external_url": "https://youtube.com/watch?v=kW9ZttCE6TM",
+      "source_hash": null
+    },
+    {
+      "id": "video-LHn0wsxedwM",
+      "title": "ทำไมหุ้น FOUNDRIES ถึงโหด? - เล่าธุรกิจ TSMC SAMSUNG INTEL",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx",
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "series": [
+        "INTC saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-11",
+      "linked_video_id": "LHn0wsxedwM",
+      "external_url": "https://youtube.com/watch?v=LHn0wsxedwM",
+      "source_hash": null
+    },
+    {
+      "id": "video-HcgFxNVZFHg",
+      "title": "ผมอยากซื้อหุ้นเพิ่มแล้วอะ - ลงทุน Diary EP16",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-08",
+      "linked_video_id": "HcgFxNVZFHg",
+      "external_url": "https://youtube.com/watch?v=HcgFxNVZFHg",
+      "source_hash": null
+    },
+    {
+      "id": "video-MkvXZhShiR0",
+      "title": "ลองสร้างเลขาส่วนตัวไปด้วยกัน (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-04-05",
+      "linked_video_id": "MkvXZhShiR0",
+      "external_url": "https://youtube.com/watch?v=MkvXZhShiR0",
+      "source_hash": null
+    },
+    {
+      "id": "video-teINBL88fNc",
+      "title": "ข่าวหุ้นเทคเต็มไปหมดเลย",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [
+        "Tech News Recap"
+      ],
+      "level": null,
+      "membership": false,
+      "date": "2026-04-03",
+      "linked_video_id": "teINBL88fNc",
+      "external_url": "https://youtube.com/watch?v=teINBL88fNc",
+      "source_hash": null
+    },
+    {
+      "id": "video-eArOosCLAt0",
+      "title": "หุ้น ARM มันยังไงซิ? - สรุปงาน ARM Everywhere",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "ARM Architecture / CSS Licensing / Royalty Model"
+      ],
+      "series": [
+        "ARM saga",
+        "Tech News Recap"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-04-01",
+      "linked_video_id": "eArOosCLAt0",
+      "external_url": "https://youtube.com/watch?v=eArOosCLAt0",
+      "source_hash": null
+    },
+    {
+      "id": "video-NMybGauLr2E",
+      "title": "หวยหุ้นวันเดียว 15% - DCA DIARY EP10",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-29",
+      "linked_video_id": "NMybGauLr2E",
+      "external_url": "https://youtube.com/watch?v=NMybGauLr2E",
+      "source_hash": null
+    },
+    {
+      "id": "video-jXSKbQ4-6xU",
+      "title": "พอร์ตยังสบายดีกันอยู่มั้ย? มาเล่าแผนผม - ขาดทุน Diary EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-27",
+      "linked_video_id": "jXSKbQ4-6xU",
+      "external_url": "https://youtube.com/watch?v=jXSKbQ4-6xU",
+      "source_hash": null
+    },
+    {
+      "id": "video-d0ErfZoKj8g",
+      "title": "ผมใช้ CLAUDE COWORK ยังไงบ้าง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Workflow / Prompt Engineering / Local AI Agents"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-25",
+      "linked_video_id": "d0ErfZoKj8g",
+      "external_url": "https://youtube.com/watch?v=d0ErfZoKj8g",
+      "source_hash": null
+    },
+    {
+      "id": "video-vEw9QWjbfIs",
+      "title": "หรือ Memory Cycle จะไม่เหมือนเดิม? - (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-03-22",
+      "linked_video_id": "vEw9QWjbfIs",
+      "external_url": "https://youtube.com/watch?v=vEw9QWjbfIs",
+      "source_hash": null
+    },
+    {
+      "id": "video--zeSDBNs05o",
+      "title": "ทำความรู้จักหุ้น PHOTONICS / SiPh / CPO",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Silicon Photonics / Co-Packaged Optics (CPO)"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": false,
+      "date": "2026-03-21",
+      "linked_video_id": "-zeSDBNs05o",
+      "external_url": "https://youtube.com/watch?v=-zeSDBNs05o",
+      "source_hash": null
+    },
+    {
+      "id": "video-y6GDYtcC_ho",
+      "title": "ทำความรู้จักหุ้น SEMICONDUCTOR และ SEMICAP",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": false,
+      "date": "2026-03-18",
+      "linked_video_id": "y6GDYtcC_ho",
+      "external_url": "https://youtube.com/watch?v=y6GDYtcC_ho",
+      "source_hash": null
+    },
+    {
+      "id": "video-0HcvKcHc9C0",
+      "title": "ใช้ Metrics / Ratio ตอนไหน? - Fundamental Analysis EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2026-03-14",
+      "linked_video_id": "0HcvKcHc9C0",
+      "external_url": "https://youtube.com/watch?v=0HcvKcHc9C0",
+      "source_hash": null
+    },
+    {
+      "id": "video-qZwy_xHAENU",
+      "title": "ผมว่า APPLOVIN เป็นหุ้นขี้โกง",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-14",
+      "linked_video_id": "qZwy_xHAENU",
+      "external_url": "https://youtube.com/watch?v=qZwy_xHAENU",
+      "source_hash": null
+    },
+    {
+      "id": "video-c4tAvZv91PE",
+      "title": "แผนที่ผมจะรวยในวัย 27",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-11",
+      "linked_video_id": "c4tAvZv91PE",
+      "external_url": "https://youtube.com/watch?v=c4tAvZv91PE",
+      "source_hash": null
+    },
+    {
+      "id": "video-4ahxy9yDyOg",
+      "title": "หาข้อติงบ ZETA Q4'25",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "ZETA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-07",
+      "linked_video_id": "4ahxy9yDyOg",
+      "external_url": "https://youtube.com/watch?v=4ahxy9yDyOg",
+      "source_hash": null
+    },
+    {
+      "id": "video-4N0RodibDeg",
+      "title": "นั่งอ่าน Key Quotes จากงาน MS TMT 2026 (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "series": [
+        "Tech News Recap"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-03-06",
+      "linked_video_id": "4N0RodibDeg",
+      "external_url": "https://youtube.com/watch?v=4N0RodibDeg",
+      "source_hash": null
+    },
+    {
+      "id": "video-QKQ_mDCruIA",
+      "title": "ความโหดของ NVIDIA - Q4'25",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "NVDA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-03-04",
+      "linked_video_id": "QKQ_mDCruIA",
+      "external_url": "https://youtube.com/watch?v=QKQ_mDCruIA",
+      "source_hash": null
+    },
+    {
+      "id": "video-0UvMx9OHLgY",
+      "title": "Trend หุ้นที่ผมสนใจกับหวยหุ้นใหม่ - DCA DIARY EP9",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-28",
+      "linked_video_id": "0UvMx9OHLgY",
+      "external_url": "https://youtube.com/watch?v=0UvMx9OHLgY",
+      "source_hash": null
+    },
+    {
+      "id": "video-qCZsLLv9oXs",
+      "title": "ผมกลับมามอง SYNOPSIS (SNPS)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "EDA Software Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-25",
+      "linked_video_id": "qCZsLLv9oXs",
+      "external_url": "https://youtube.com/watch?v=qCZsLLv9oXs",
+      "source_hash": null
+    },
+    {
+      "id": "video-qOw4PIG_v3Y",
+      "title": "DATA ECOSYSTEM - ย้อนหลัง DISCORD LIVE 24feb 2026",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2026-02-24",
+      "linked_video_id": "qOw4PIG_v3Y",
+      "external_url": "https://youtube.com/watch?v=qOw4PIG_v3Y",
+      "source_hash": null
+    },
+    {
+      "id": "video-gPiLDyyHlOI",
+      "title": "บทความเดียวแดงทั้งตลาด - CITRINI 2028 CRISIS",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": false,
+      "date": "2026-02-24",
+      "linked_video_id": "gPiLDyyHlOI",
+      "external_url": "https://youtube.com/watch?v=gPiLDyyHlOI",
+      "source_hash": null
+    },
+    {
+      "id": "video-zUUcijhRk3M",
+      "title": "ส่องพอร์ตคนเก่งๆ - SUPER INVESTOR EP5",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-21",
+      "linked_video_id": "zUUcijhRk3M",
+      "external_url": "https://youtube.com/watch?v=zUUcijhRk3M",
+      "source_hash": null
+    },
+    {
+      "id": "video-JSU-nKwvLdw",
+      "title": "CLOUD CAPEX น่ากลัวจริงหรอ?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-18",
+      "linked_video_id": "JSU-nKwvLdw",
+      "external_url": "https://youtube.com/watch?v=JSU-nKwvLdw",
+      "source_hash": null
+    },
+    {
+      "id": "video-el7odf9a3Fo",
+      "title": "ผมขาย SPGI (ไม่ใช่เพราะ AI)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-16",
+      "linked_video_id": "el7odf9a3Fo",
+      "external_url": "https://youtube.com/watch?v=el7odf9a3Fo",
+      "source_hash": null
+    },
+    {
+      "id": "video-VfkEfYXkCUY",
+      "title": "SaaS แบบไหนที่จะรอด? (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "SaaS Survival / AI Disruption Risk"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-02-15",
+      "linked_video_id": "VfkEfYXkCUY",
+      "external_url": "https://youtube.com/watch?v=VfkEfYXkCUY",
+      "source_hash": null
+    },
+    {
+      "id": "video-PS22EQ7BjWM",
+      "title": "ผมมอง 3 ตัวนี้ยังไง? AMZN GOOGLE ARM - งบ Q4'25",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "AMZN saga",
+        "GOOGL saga",
+        "ARM saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-14",
+      "linked_video_id": "PS22EQ7BjWM",
+      "external_url": "https://youtube.com/watch?v=PS22EQ7BjWM",
+      "source_hash": null
+    },
+    {
+      "id": "video-jn-zXWKKln4",
+      "title": "INTEL จะกลับมายัง? ถ้ากลับมาแล้วโทรบอกผมด้วยนะ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Intel Turnaround / IDM Foundry Strategy"
+      ],
+      "series": [
+        "INTC saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-11",
+      "linked_video_id": "jn-zXWKKln4",
+      "external_url": "https://youtube.com/watch?v=jn-zXWKKln4",
+      "source_hash": null
+    },
+    {
+      "id": "video-UY_iHt0KE-o",
+      "title": "ผมว่านี่เป็นหนึ่งในไตรมาสที่ดีที่สุดของ UBER - งบ Q4'25",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "UBER saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-08",
+      "linked_video_id": "UY_iHt0KE-o",
+      "external_url": "https://youtube.com/watch?v=UY_iHt0KE-o",
+      "source_hash": null
+    },
+    {
+      "id": "video-p69O_oplI_A",
+      "title": "ทำความรู้จักหุ้น AI (แบบเข้าใจง่าย)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "Advanced",
+      "membership": false,
+      "date": "2026-02-07",
+      "linked_video_id": "p69O_oplI_A",
+      "external_url": "https://youtube.com/watch?v=p69O_oplI_A",
+      "source_hash": null
+    },
+    {
+      "id": "video-YVrmJn26zyk",
+      "title": "ผมจะทำไงในวันที่ตลาดแดงหนัก",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-06",
+      "linked_video_id": "YVrmJn26zyk",
+      "external_url": "https://youtube.com/watch?v=YVrmJn26zyk",
+      "source_hash": null
+    },
+    {
+      "id": "video-mkYSVyZ3SHQ",
+      "title": "REACTION งบ + shopping list ตอนนี้ - Q4'25 Uber Google ARM (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "UBER saga",
+        "GOOGL saga",
+        "ARM saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-02-05",
+      "linked_video_id": "mkYSVyZ3SHQ",
+      "external_url": "https://youtube.com/watch?v=mkYSVyZ3SHQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-q7rECWOZEfg",
+      "title": "งบดีแต่ร่วงเฉย ส่องงบ SOFI Q4'25 และสิ่งที่น่าสนใจ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "SOFI saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-04",
+      "linked_video_id": "q7rECWOZEfg",
+      "external_url": "https://youtube.com/watch?v=q7rECWOZEfg",
+      "source_hash": null
+    },
+    {
+      "id": "video-1bAnFvN1cdI",
+      "title": "พอร์ตฉันสีแดง - ขาดทุน Diary EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-04",
+      "linked_video_id": "1bAnFvN1cdI",
+      "external_url": "https://youtube.com/watch?v=1bAnFvN1cdI",
+      "source_hash": null
+    },
+    {
+      "id": "video-s5LlJx-aq_k",
+      "title": "โอกาสมายัง? เปิด WATCHLIST หุ้นที่ผมสนใจ - ลงทุน Diary EP15",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-02-01",
+      "linked_video_id": "s5LlJx-aq_k",
+      "external_url": "https://youtube.com/watch?v=s5LlJx-aq_k",
+      "source_hash": null
+    },
+    {
+      "id": "video-fgXofTO-e4w",
+      "title": "ถ้าเอา Technical Analysis มาข่วย? | ลงทุนแบบ TFBTM (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-01-31",
+      "linked_video_id": "fgXofTO-e4w",
+      "external_url": "https://youtube.com/watch?v=fgXofTO-e4w",
+      "source_hash": null
+    },
+    {
+      "id": "video-34tS76Z7364",
+      "title": "คุยชิลๆ REACTION งบ MSFT META +ข่าวต่างๆ (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-01-29",
+      "linked_video_id": "34tS76Z7364",
+      "external_url": "https://youtube.com/watch?v=34tS76Z7364",
+      "source_hash": null
+    },
+    {
+      "id": "video-uRSv2CI0piE",
+      "title": "ผมจะซื้อที่ยอดดอยให้ทุกคนเอง - DCA DIARY EP8",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-28",
+      "linked_video_id": "uRSv2CI0piE",
+      "external_url": "https://youtube.com/watch?v=uRSv2CI0piE",
+      "source_hash": null
+    },
+    {
+      "id": "video-1sIhOesTnM8",
+      "title": "งบ Netflix ไม่ดีหรอ? | Q4 2025",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-25",
+      "linked_video_id": "1sIhOesTnM8",
+      "external_url": "https://youtube.com/watch?v=1sIhOesTnM8",
+      "source_hash": null
+    },
+    {
+      "id": "video-HUhZPSB6LkU",
+      "title": "MEMBER ช่องได้อะไรบ้าง ฉบับปรับปรุง | Hello Member EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2026-01-24",
+      "linked_video_id": "HUhZPSB6LkU",
+      "external_url": "https://youtube.com/watch?v=HUhZPSB6LkU",
+      "source_hash": null
+    },
+    {
+      "id": "video-fWwHwBzlB00",
+      "title": "ข่าวหุ้นเทคเต็มไปหมด | 20/01/2026",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [
+        "Tech News Recap"
+      ],
+      "level": null,
+      "membership": false,
+      "date": "2026-01-22",
+      "linked_video_id": "fWwHwBzlB00",
+      "external_url": "https://youtube.com/watch?v=fWwHwBzlB00",
+      "source_hash": null
+    },
+    {
+      "id": "video-5--nIVR33jQ",
+      "title": "chatgpt จะมีโฆษณาแล้วนะ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Search / Search Disruption"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-22",
+      "linked_video_id": "5--nIVR33jQ",
+      "external_url": "https://youtube.com/watch?v=5--nIVR33jQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-te2KgnAVzf8",
+      "title": "สิ่งที่น่าสนใจจากงบ TSMC Q4'25 | ดูงบกัน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx"
+      ],
+      "series": [
+        "Earnings Reactions"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-21",
+      "linked_video_id": "te2KgnAVzf8",
+      "external_url": "https://youtube.com/watch?v=te2KgnAVzf8",
+      "source_hash": null
+    },
+    {
+      "id": "video-lvfvqjKORfc",
+      "title": "nvidia จองที่ดิน tsmc",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat",
+        "TSMC / Advanced Foundry / Semiconductor CapEx"
+      ],
+      "series": [
+        "NVDA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-19",
+      "linked_video_id": "lvfvqjKORfc",
+      "external_url": "https://youtube.com/watch?v=lvfvqjKORfc",
+      "source_hash": null
+    },
+    {
+      "id": "video-ItTFhR8um5E",
+      "title": "หุ้น Memory มันยังไงซิ?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": false,
+      "date": "2026-01-17",
+      "linked_video_id": "ItTFhR8um5E",
+      "external_url": "https://youtube.com/watch?v=ItTFhR8um5E",
+      "source_hash": null
+    },
+    {
+      "id": "video-HA8W8exL-A4",
+      "title": "ทำไมหุ้น Memory มันขึ้นกันเก่งจัง | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Memory Cycle / HBM / DRAM"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2026-01-16",
+      "linked_video_id": "HA8W8exL-A4",
+      "external_url": "https://youtube.com/watch?v=HA8W8exL-A4",
+      "source_hash": null
+    },
+    {
+      "id": "video-mj0MnSKpCYQ",
+      "title": "ผมทำยูทูปมา1ปีแล้ว และมันเปลี่ยนชีวิตผมไปเยอะเลย",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2026-01-13",
+      "linked_video_id": "mj0MnSKpCYQ",
+      "external_url": "https://youtube.com/watch?v=mj0MnSKpCYQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-kS_qjrE677c",
+      "title": "ถ้าโดนลดดอกเบี้ยบัตรเครดิต SOFI ผมจะเอาไง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "SOFI saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-11",
+      "linked_video_id": "kS_qjrE677c",
+      "external_url": "https://youtube.com/watch?v=kS_qjrE677c",
+      "source_hash": null
+    },
+    {
+      "id": "video-coMQ4uAORv0",
+      "title": "Cash Flow Statement - FUNDAMENTAL ANALYSIS EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2026-01-11",
+      "linked_video_id": "coMQ4uAORv0",
+      "external_url": "https://youtube.com/watch?v=coMQ4uAORv0",
+      "source_hash": null
+    },
+    {
+      "id": "video-ztDlZS_Jd-o",
+      "title": "หรือ AXON จะเป็นลูกรักคนใหม่ของผม?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Public Safety Technology / Government SaaS"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-10",
+      "linked_video_id": "ztDlZS_Jd-o",
+      "external_url": "https://youtube.com/watch?v=ztDlZS_Jd-o",
+      "source_hash": null
+    },
+    {
+      "id": "video-8mx_h7odz3E",
+      "title": "หุ้นที่ผมไม่ชอบ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-07",
+      "linked_video_id": "8mx_h7odz3E",
+      "external_url": "https://youtube.com/watch?v=8mx_h7odz3E",
+      "source_hash": null
+    },
+    {
+      "id": "video-2IwvNnjpKl4",
+      "title": "Mindset การเงินของผมในวัย 26 - Podcast กับ Paint | MEMBERSHIP",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [
+        "Podcast"
+      ],
+      "level": "Beginner",
+      "membership": true,
+      "date": "2026-01-04",
+      "linked_video_id": "2IwvNnjpKl4",
+      "external_url": "https://youtube.com/watch?v=2IwvNnjpKl4",
+      "source_hash": null
+    },
+    {
+      "id": "video-4RaJi70LouI",
+      "title": "ผมลองจัดพอร์ต SUPER GROWTH",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2026-01-04",
+      "linked_video_id": "4RaJi70LouI",
+      "external_url": "https://youtube.com/watch?v=4RaJi70LouI",
+      "source_hash": null
+    },
+    {
+      "id": "video-kof3vTBU4wE",
+      "title": "วิธีใช้ DISCORD ลงทุน Diary V2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2026-01-03",
+      "linked_video_id": "kof3vTBU4wE",
+      "external_url": "https://youtube.com/watch?v=kof3vTBU4wE",
+      "source_hash": null
+    },
+    {
+      "id": "video-VWu9KSAna8w",
+      "title": "พอร์ตผมเกิน 2 ล้านบาทแล้ว! - ลงทุน Diary EP14",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-31",
+      "linked_video_id": "VWu9KSAna8w",
+      "external_url": "https://youtube.com/watch?v=VWu9KSAna8w",
+      "source_hash": null
+    },
+    {
+      "id": "video-6xyt9EHxz0s",
+      "title": "ผมเอาไงกับ NETFLIX? - DCA DIARY EP7",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "DCA Diary",
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-28",
+      "linked_video_id": "6xyt9EHxz0s",
+      "external_url": "https://youtube.com/watch?v=6xyt9EHxz0s",
+      "source_hash": null
+    },
+    {
+      "id": "video-32cRA4qxDsM",
+      "title": "เลือกหุ้นก็เหมือนเลือกแฟน - ลงทุน Diary",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-26",
+      "linked_video_id": "32cRA4qxDsM",
+      "external_url": "https://youtube.com/watch?v=32cRA4qxDsM",
+      "source_hash": null
+    },
+    {
+      "id": "video-XABjdWSpdAM",
+      "title": "บทเรียนการลงทุนของผมในปี 2025 - PODCAST กับ PAINT",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [
+        "Podcast"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-24",
+      "linked_video_id": "XABjdWSpdAM",
+      "external_url": "https://youtube.com/watch?v=XABjdWSpdAM",
+      "source_hash": null
+    },
+    {
+      "id": "video-pfUyGPYqsc0",
+      "title": "หาไอเดียทำ SCORING SYSTEM (GABGROWTH) | MEMBERSHIP",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-12-20",
+      "linked_video_id": "pfUyGPYqsc0",
+      "external_url": "https://youtube.com/watch?v=pfUyGPYqsc0",
+      "source_hash": null
+    },
+    {
+      "id": "video-BHplXUcZqNU",
+      "title": "ผมเริ่มสนใจ REDDIT",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Social Media / User-Generated Content Platforms"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-20",
+      "linked_video_id": "BHplXUcZqNU",
+      "external_url": "https://youtube.com/watch?v=BHplXUcZqNU",
+      "source_hash": null
+    },
+    {
+      "id": "video-9uPqQ5r583k",
+      "title": "หรือ TESLA จะมาฆ่า UBER แล้ว?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "UBER saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-17",
+      "linked_video_id": "9uPqQ5r583k",
+      "external_url": "https://youtube.com/watch?v=9uPqQ5r583k",
+      "source_hash": null
+    },
+    {
+      "id": "video-wEW4B_nu-0E",
+      "title": "เราต้องคุยกันเรื่อง ZETA",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "series": [
+        "ZETA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-14",
+      "linked_video_id": "wEW4B_nu-0E",
+      "external_url": "https://youtube.com/watch?v=wEW4B_nu-0E",
+      "source_hash": null
+    },
+    {
+      "id": "video-njHe37r4jc4",
+      "title": "ผมขายหุ้น + มาอัพเดทข่าวเต็มไปหมด - ลงทุน Diary EP13",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-10",
+      "linked_video_id": "njHe37r4jc4",
+      "external_url": "https://youtube.com/watch?v=njHe37r4jc4",
+      "source_hash": null
+    },
+    {
+      "id": "video-2-fcXKe9WII",
+      "title": "เรียนไปด้วยกัน (Financial Statement) - FUNDAMENTAL ANALYSIS EP1",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "series": [
+        "Fundamental Analysis"
+      ],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2025-12-07",
+      "linked_video_id": "2-fcXKe9WII",
+      "external_url": "https://youtube.com/watch?v=2-fcXKe9WII",
+      "source_hash": null
+    },
+    {
+      "id": "video-QDzvI2xoFQw",
+      "title": "พี่ๆ ต้องใจเย็นกับหุ้น GOOGLE กันหน่อยนะ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-06",
+      "linked_video_id": "QDzvI2xoFQw",
+      "external_url": "https://youtube.com/watch?v=QDzvI2xoFQw",
+      "source_hash": null
+    },
+    {
+      "id": "video-9SsFoxW5HB4",
+      "title": "ถ้าผมเลือกได้แค่ 1 ETF",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Passive Investing / ETF Strategy"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-12-03",
+      "linked_video_id": "9SsFoxW5HB4",
+      "external_url": "https://youtube.com/watch?v=9SsFoxW5HB4",
+      "source_hash": null
+    },
+    {
+      "id": "video-d2_Nj81b--g",
+      "title": "DCA หุ้นรายตัวไม่ได้ง่ายอย่างที่คิด - DCA Diary EP6",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-30",
+      "linked_video_id": "d2_Nj81b--g",
+      "external_url": "https://youtube.com/watch?v=d2_Nj81b--g",
+      "source_hash": null
+    },
+    {
+      "id": "video-Dx4Vlm0gVUw",
+      "title": "หุ้น NVIDIA มันยังไงซิ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "series": [
+        "NVDA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-27",
+      "linked_video_id": "Dx4Vlm0gVUw",
+      "external_url": "https://youtube.com/watch?v=Dx4Vlm0gVUw",
+      "source_hash": null
+    },
+    {
+      "id": "video-9tivBWHGQvU",
+      "title": "ผมใช้อะไร RESEARCH หุ้นบ้าง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-26",
+      "linked_video_id": "9tivBWHGQvU",
+      "external_url": "https://youtube.com/watch?v=9tivBWHGQvU",
+      "source_hash": null
+    },
+    {
+      "id": "video-3MF8pJL-DQY",
+      "title": "ถ้าผมต้องซื้อหุ้นตอนนี้ - EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-23",
+      "linked_video_id": "3MF8pJL-DQY",
+      "external_url": "https://youtube.com/watch?v=3MF8pJL-DQY",
+      "source_hash": null
+    },
+    {
+      "id": "video-hX-Kk-yStmg",
+      "title": "เจาะลึกหุ้น ALIBABA (Secret Investor) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-11-22",
+      "linked_video_id": "hX-Kk-yStmg",
+      "external_url": "https://youtube.com/watch?v=hX-Kk-yStmg",
+      "source_hash": null
+    },
+    {
+      "id": "video-2WqLvbMp6bE",
+      "title": "พอร์ตผมแดงหนัก - ขาดทุน Diary EP1",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ขาดทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-21",
+      "linked_video_id": "2WqLvbMp6bE",
+      "external_url": "https://youtube.com/watch?v=2WqLvbMp6bE",
+      "source_hash": null
+    },
+    {
+      "id": "video-gqJOl2Dcaks",
+      "title": "ส่องพอร์ตสุดโหดของผู้เขียน 7 Powers - Super Investor EP4.5",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework",
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-19",
+      "linked_video_id": "gqJOl2Dcaks",
+      "external_url": "https://youtube.com/watch?v=gqJOl2Dcaks",
+      "source_hash": null
+    },
+    {
+      "id": "video-p29wKnrfdrQ",
+      "title": "ส่องพอร์ต Super Investors EP4",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-16",
+      "linked_video_id": "p29wKnrfdrQ",
+      "external_url": "https://youtube.com/watch?v=p29wKnrfdrQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-o6yDdBm35O8",
+      "title": "คุยชิลๆ: PORTFOLIO STRUCTURE ของผมตอนนี้ | membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-11-15",
+      "linked_video_id": "o6yDdBm35O8",
+      "external_url": "https://youtube.com/watch?v=o6yDdBm35O8",
+      "source_hash": null
+    },
+    {
+      "id": "video-_2aZGu5VzUo",
+      "title": "ดูจุดเข้า+อัพเดทพอร์ตของผม - ลงทุน Diary EP12",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-13",
+      "linked_video_id": "_2aZGu5VzUo",
+      "external_url": "https://youtube.com/watch?v=_2aZGu5VzUo",
+      "source_hash": null
+    },
+    {
+      "id": "video-RGrKr2N7g_8",
+      "title": "ราคาจะขึ้นวันไหนครับพี่",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-11",
+      "linked_video_id": "RGrKr2N7g_8",
+      "external_url": "https://youtube.com/watch?v=RGrKr2N7g_8",
+      "source_hash": null
+    },
+    {
+      "id": "video-luGR7wMyxA4",
+      "title": "ส่องงบ UBER TOAST SHOPIFY | Q3 2025",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing",
+        "Toast / Vertical SaaS / Restaurant Technology"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "UBER saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-09",
+      "linked_video_id": "luGR7wMyxA4",
+      "external_url": "https://youtube.com/watch?v=luGR7wMyxA4",
+      "source_hash": null
+    },
+    {
+      "id": "video-UN0yh7-1hSM",
+      "title": "รอซื้อหรือขายหุ้นให้ได้ตังด้วย SELL OPTIONS",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Options"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-07",
+      "linked_video_id": "UN0yh7-1hSM",
+      "external_url": "https://youtube.com/watch?v=UN0yh7-1hSM",
+      "source_hash": null
+    },
+    {
+      "id": "video--L19IekBtlI",
+      "title": "สิ่งที่น่าสนใจจากงบ SOFI | Q3 2025",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "SOFI saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-11-05",
+      "linked_video_id": "-L19IekBtlI",
+      "external_url": "https://youtube.com/watch?v=-L19IekBtlI",
+      "source_hash": null
+    },
+    {
+      "id": "video-OpQ9h_SkOKc",
+      "title": "สิ่งที่น่าสนใจจากงบ AMAZON + GOOGLE | Q3 2025",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Google / Alphabet"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "AMZN saga",
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-31",
+      "linked_video_id": "OpQ9h_SkOKc",
+      "external_url": "https://youtube.com/watch?v=OpQ9h_SkOKc",
+      "source_hash": null
+    },
+    {
+      "id": "video-kHa5p4aXf1Y",
+      "title": "REACTION งบ GOOGLE + SOFI | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet",
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga",
+        "SOFI saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-10-30",
+      "linked_video_id": "kHa5p4aXf1Y",
+      "external_url": "https://youtube.com/watch?v=kHa5p4aXf1Y",
+      "source_hash": null
+    },
+    {
+      "id": "video-xXJj7ea_mhg",
+      "title": "ผมคิดน้อยไปหน่อย + ดูงบ NETFLIX - DCA DIARY EP5",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "DCA Diary",
+        "Earnings Reactions",
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-29",
+      "linked_video_id": "xXJj7ea_mhg",
+      "external_url": "https://youtube.com/watch?v=xXJj7ea_mhg",
+      "source_hash": null
+    },
+    {
+      "id": "video-yNnx9AOGbgc",
+      "title": "ส่องอนาคตหุ้น CLOUD",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-28",
+      "linked_video_id": "yNnx9AOGbgc",
+      "external_url": "https://youtube.com/watch?v=yNnx9AOGbgc",
+      "source_hash": null
+    },
+    {
+      "id": "video-08P21JcgI8A",
+      "title": "เป็น Member แต่ดูคลิปไม่ได้?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-26",
+      "linked_video_id": "08P21JcgI8A",
+      "external_url": "https://youtube.com/watch?v=08P21JcgI8A",
+      "source_hash": null
+    },
+    {
+      "id": "video-ZiU1wl6Xn3Q",
+      "title": "ทำไมผมชอบหุ้น RUBRIK",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience",
+        "Data Protection / Backup Recovery"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-26",
+      "linked_video_id": "ZiU1wl6Xn3Q",
+      "external_url": "https://youtube.com/watch?v=ZiU1wl6Xn3Q",
+      "source_hash": null
+    },
+    {
+      "id": "video-3hmyPC-Gqjk",
+      "title": "จดบันทึกคลิป AI Bubble BY COZIPLACE | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-10-23",
+      "linked_video_id": "3hmyPC-Gqjk",
+      "external_url": "https://youtube.com/watch?v=3hmyPC-Gqjk",
+      "source_hash": null
+    },
+    {
+      "id": "video-_KjagPTMiok",
+      "title": "ผมเกือบซื้อหุ้น MELI",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "MercadoLibre / MELI",
+        "E-commerce / Marketplace"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-22",
+      "linked_video_id": "_KjagPTMiok",
+      "external_url": "https://youtube.com/watch?v=_KjagPTMiok",
+      "source_hash": null
+    },
+    {
+      "id": "video-V3GGbgli1tw",
+      "title": "ทำความรู้จัก OPTIONS",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Options"
+      ],
+      "series": [],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2025-10-19",
+      "linked_video_id": "V3GGbgli1tw",
+      "external_url": "https://youtube.com/watch?v=V3GGbgli1tw",
+      "source_hash": null
+    },
+    {
+      "id": "video-TEHPOBHvWm4",
+      "title": "ส่องงบ TSMC + ASML (BUBBLE ยัง?)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "TSMC / Advanced Foundry / Semiconductor CapEx",
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "series": [
+        "Earnings Reactions"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-17",
+      "linked_video_id": "TEHPOBHvWm4",
+      "external_url": "https://youtube.com/watch?v=TEHPOBHvWm4",
+      "source_hash": null
+    },
+    {
+      "id": "video-9JCbpPK7nWg",
+      "title": "ลงทุนแบบ Sir Chris Hohn | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-10-15",
+      "linked_video_id": "9JCbpPK7nWg",
+      "external_url": "https://youtube.com/watch?v=9JCbpPK7nWg",
+      "source_hash": null
+    },
+    {
+      "id": "video-8y5rMzaxJdg",
+      "title": "ผมใช้ AI ยังไงบ้าง (Ver ลงทุน part2)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-12",
+      "linked_video_id": "8y5rMzaxJdg",
+      "external_url": "https://youtube.com/watch?v=8y5rMzaxJdg",
+      "source_hash": null
+    },
+    {
+      "id": "video-cb6oC_MHD-k",
+      "title": "การ DCA ดีจริงหรอ?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-09",
+      "linked_video_id": "cb6oC_MHD-k",
+      "external_url": "https://youtube.com/watch?v=cb6oC_MHD-k",
+      "source_hash": null
+    },
+    {
+      "id": "video-nH7uzYjtHLM",
+      "title": "ผมซื้อหุ้นใหม่เข้าพอร์ต - ลงทุน Diary EP11",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-07",
+      "linked_video_id": "nH7uzYjtHLM",
+      "external_url": "https://youtube.com/watch?v=nH7uzYjtHLM",
+      "source_hash": null
+    },
+    {
+      "id": "video-ClM69Z-Fjfg",
+      "title": "ผมเลิกดู Buffett Indicator แล้ว",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-10-05",
+      "linked_video_id": "ClM69Z-Fjfg",
+      "external_url": "https://youtube.com/watch?v=ClM69Z-Fjfg",
+      "source_hash": null
+    },
+    {
+      "id": "video-TFwqSgopF5g",
+      "title": "ลงทุนแบบพี่โจ๊ก COZIPLACE | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-10-03",
+      "linked_video_id": "TFwqSgopF5g",
+      "external_url": "https://youtube.com/watch?v=TFwqSgopF5g",
+      "source_hash": null
+    },
+    {
+      "id": "video-lKhauVuhNiI",
+      "title": "ผมว่า AI มันเพิ่งเริ่มต้น",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-30",
+      "linked_video_id": "lKhauVuhNiI",
+      "external_url": "https://youtube.com/watch?v=lKhauVuhNiI",
+      "source_hash": null
+    },
+    {
+      "id": "video-CuaPRcfbbFQ",
+      "title": "ผมอยากได้หุ้น AI เพิ่ม - DCA Diary EP4",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-27",
+      "linked_video_id": "CuaPRcfbbFQ",
+      "external_url": "https://youtube.com/watch?v=CuaPRcfbbFQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-Nfj6onNGzOo",
+      "title": "ทำไมผมคิดว่า AV จะมาช่วย UBER | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "UBER saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-09-25",
+      "linked_video_id": "Nfj6onNGzOo",
+      "external_url": "https://youtube.com/watch?v=Nfj6onNGzOo",
+      "source_hash": null
+    },
+    {
+      "id": "video-myWYn6CGXv0",
+      "title": "ผมมองอนาคตหุ้น SOFI ยังไง",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "SOFI saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-24",
+      "linked_video_id": "myWYn6CGXv0",
+      "external_url": "https://youtube.com/watch?v=myWYn6CGXv0",
+      "source_hash": null
+    },
+    {
+      "id": "video-N4yMsIHZJxw",
+      "title": "จัดอันดับหุ้นในพอร์ตผม",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-21",
+      "linked_video_id": "N4yMsIHZJxw",
+      "external_url": "https://youtube.com/watch?v=N4yMsIHZJxw",
+      "source_hash": null
+    },
+    {
+      "id": "video-lw9ifOhXTj4",
+      "title": "ส่องอนาคตจากงาน GOLDMAN SACHS COMMUNACOPIA | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "series": [
+        "Tech News Recap"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-09-18",
+      "linked_video_id": "lw9ifOhXTj4",
+      "external_url": "https://youtube.com/watch?v=lw9ifOhXTj4",
+      "source_hash": null
+    },
+    {
+      "id": "video-RMu0bLTZFp8",
+      "title": "หุ้น Synopsis ใน29นาที",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "EDA Software Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-16",
+      "linked_video_id": "RMu0bLTZFp8",
+      "external_url": "https://youtube.com/watch?v=RMu0bLTZFp8",
+      "source_hash": null
+    },
+    {
+      "id": "video-b6Cfy1fDuAk",
+      "title": "ทำไมผมสนใจหุ้น ZETA",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "MarTech / AdTech / Data Moats"
+      ],
+      "series": [
+        "ZETA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-13",
+      "linked_video_id": "b6Cfy1fDuAk",
+      "external_url": "https://youtube.com/watch?v=b6Cfy1fDuAk",
+      "source_hash": null
+    },
+    {
+      "id": "video-aO1WVBgbH4c",
+      "title": "Discord ลงทุน Diary ใช้ยังไง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-09-11",
+      "linked_video_id": "aO1WVBgbH4c",
+      "external_url": "https://youtube.com/watch?v=aO1WVBgbH4c",
+      "source_hash": null
+    },
+    {
+      "id": "video-7usJlghVRz0",
+      "title": "Amazon ลูกรักผมกลับมาแล้ว",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "AMZN saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-10",
+      "linked_video_id": "7usJlghVRz0",
+      "external_url": "https://youtube.com/watch?v=7usJlghVRz0",
+      "source_hash": null
+    },
+    {
+      "id": "video-D_unKB2zKbc",
+      "title": "ANTHROPIC จะมาช่วย AWS ได้ยังไง (สรุป SEMIANALYSIS) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Agentic AI / AI Infrastructure"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-09-08",
+      "linked_video_id": "D_unKB2zKbc",
+      "external_url": "https://youtube.com/watch?v=D_unKB2zKbc",
+      "source_hash": null
+    },
+    {
+      "id": "video-rCVmoB6HJLE",
+      "title": "ใช้ notebooklm กันเถอะ มันฟรีและดี 😂 เดี๋ยวนี้ research อะไรผมเอามาแปะๆ ไว้เป็น project ดีฝุดๆ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-06",
+      "linked_video_id": "rCVmoB6HJLE",
+      "external_url": "https://youtube.com/watch?v=rCVmoB6HJLE",
+      "source_hash": null
+    },
+    {
+      "id": "video-tMmvGjdpFig",
+      "title": "NVIDIA vs AMD ศึกเจ้าพ่อปะทะเจ้าแม่ (แบบภาษาคน)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "series": [
+        "NVDA saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-06",
+      "linked_video_id": "tMmvGjdpFig",
+      "external_url": "https://youtube.com/watch?v=tMmvGjdpFig",
+      "source_hash": null
+    },
+    {
+      "id": "video-Rrek4gsWAbk",
+      "title": "GOOGLE รอดยัง? มาดูข่าวตัดสิน MONOPOLY กัน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet",
+        "Regulatory Risk / Antitrust"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-09-03",
+      "linked_video_id": "Rrek4gsWAbk",
+      "external_url": "https://youtube.com/watch?v=Rrek4gsWAbk",
+      "source_hash": null
+    },
+    {
+      "id": "video-jK5AKCPGYF0",
+      "title": "แชร์วิธี Research ใหม่ของผม | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-09-02",
+      "linked_video_id": "jK5AKCPGYF0",
+      "external_url": "https://youtube.com/watch?v=jK5AKCPGYF0",
+      "source_hash": null
+    },
+    {
+      "id": "video-hG8Hgqbtt2M",
+      "title": "ทำไมผมมีหุ้น 7 นางฟ้า",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-31",
+      "linked_video_id": "hG8Hgqbtt2M",
+      "external_url": "https://youtube.com/watch?v=hG8Hgqbtt2M",
+      "source_hash": null
+    },
+    {
+      "id": "video-HrmvCfv_xos",
+      "title": "ผมมีหุ้นใหม่เข้าพอร์ต - DCA Diary EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-27",
+      "linked_video_id": "HrmvCfv_xos",
+      "external_url": "https://youtube.com/watch?v=HrmvCfv_xos",
+      "source_hash": null
+    },
+    {
+      "id": "video-J87MoS5X4SE",
+      "title": "เราผ่อนส้มตำกันทำไมผมงง - เล่าธุรกิจ BNPL",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "BNPL / Buy Now Pay Later"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-25",
+      "linked_video_id": "J87MoS5X4SE",
+      "external_url": "https://youtube.com/watch?v=J87MoS5X4SE",
+      "source_hash": null
+    },
+    {
+      "id": "video-YpkOo7C1Scc",
+      "title": "จดหมายรักจาก Bill Ackman | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-08-24",
+      "linked_video_id": "YpkOo7C1Scc",
+      "external_url": "https://youtube.com/watch?v=YpkOo7C1Scc",
+      "source_hash": null
+    },
+    {
+      "id": "video-VIot0HlfY90",
+      "title": "พลังที่ทุกธุรกิจควรมี - สรุป 7powers (member content)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2025-08-23",
+      "linked_video_id": "VIot0HlfY90",
+      "external_url": "https://youtube.com/watch?v=VIot0HlfY90",
+      "source_hash": null
+    },
+    {
+      "id": "video-iTyEMiQDu5k",
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน? - Super investors EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-19",
+      "linked_video_id": "iTyEMiQDu5k",
+      "external_url": "https://youtube.com/watch?v=iTyEMiQDu5k",
+      "source_hash": null
+    },
+    {
+      "id": "video-ins8j0rnwoo",
+      "title": "หุ้น LUXURY ยังดีอยู่มั้ย? (Secret Investors) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-08-18",
+      "linked_video_id": "ins8j0rnwoo",
+      "external_url": "https://youtube.com/watch?v=ins8j0rnwoo",
+      "source_hash": null
+    },
+    {
+      "id": "video-4t0odSvn5vM",
+      "title": "อัพเดทพอร์ตและงบ Q2 - ลงทุน Diary EP10",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-17",
+      "linked_video_id": "4t0odSvn5vM",
+      "external_url": "https://youtube.com/watch?v=4t0odSvn5vM",
+      "source_hash": null
+    },
+    {
+      "id": "video-N4lCPDhzhB8",
+      "title": "หุ้น FICO ขี้โกงกว่าที่ผมคิด",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "FICO / Credit Scoring"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-13",
+      "linked_video_id": "N4lCPDhzhB8",
+      "external_url": "https://youtube.com/watch?v=N4lCPDhzhB8",
+      "source_hash": null
+    },
+    {
+      "id": "video-4Z1TdjhMVgg",
+      "title": "GenAI จะเปลี่ยนโลกการลงทุนอย่างไร? - MS Research | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI",
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-08-10",
+      "linked_video_id": "4Z1TdjhMVgg",
+      "external_url": "https://youtube.com/watch?v=4Z1TdjhMVgg",
+      "source_hash": null
+    },
+    {
+      "id": "video-pyo-MQ8_XBk",
+      "title": "ถ้าผมต้องซื้อหุ้นตอนนี้",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-09",
+      "linked_video_id": "pyo-MQ8_XBk",
+      "external_url": "https://youtube.com/watch?v=pyo-MQ8_XBk",
+      "source_hash": null
+    },
+    {
+      "id": "video-Tvq5_f8gIoU",
+      "title": "หรือ AMAZON จะไม่ใช่ลูกรักของผมแล้ว",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "AMZN saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-08-04",
+      "linked_video_id": "Tvq5_f8gIoU",
+      "external_url": "https://youtube.com/watch?v=Tvq5_f8gIoU",
+      "source_hash": null
+    },
+    {
+      "id": "video-Q-hYF39cn38",
+      "title": "ดูงบ MSFT + META Q2 (Reaction)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-31",
+      "linked_video_id": "Q-hYF39cn38",
+      "external_url": "https://youtube.com/watch?v=Q-hYF39cn38",
+      "source_hash": null
+    },
+    {
+      "id": "video-faGT5YWidu8",
+      "title": "สรุปงบ GOOGLE Q2 ดีมั้ย",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-30",
+      "linked_video_id": "faGT5YWidu8",
+      "external_url": "https://youtube.com/watch?v=faGT5YWidu8",
+      "source_hash": null
+    },
+    {
+      "id": "video-y1VBdJG7VL4",
+      "title": "DCA เดือนละ 10,000 เดือนแรกก็ดอยแล้ว - DCA Diary EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-28",
+      "linked_video_id": "y1VBdJG7VL4",
+      "external_url": "https://youtube.com/watch?v=y1VBdJG7VL4",
+      "source_hash": null
+    },
+    {
+      "id": "video-nWZyTW0i-M4",
+      "title": "ดูงบ GOOGLE กัน (REACTION)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-24",
+      "linked_video_id": "nWZyTW0i-M4",
+      "external_url": "https://youtube.com/watch?v=nWZyTW0i-M4",
+      "source_hash": null
+    },
+    {
+      "id": "video-qlCM_cA-TRI",
+      "title": "เราต้องคุยกันเรื่อง NETFLIX  (งบและอนาคต)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-23",
+      "linked_video_id": "qlCM_cA-TRI",
+      "external_url": "https://youtube.com/watch?v=qlCM_cA-TRI",
+      "source_hash": null
+    },
+    {
+      "id": "video-0w2vXVeiyi4",
+      "title": "ลงทุนแบบ The Dam Investor | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-07-21",
+      "linked_video_id": "0w2vXVeiyi4",
+      "external_url": "https://youtube.com/watch?v=0w2vXVeiyi4",
+      "source_hash": null
+    },
+    {
+      "id": "video-VkTkQ0N5lPY",
+      "title": "เรียนนอกดีจริงหรอ? - ตอบ COMMENTS EP6 (ฉลอง 20k sub)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-07-20",
+      "linked_video_id": "VkTkQ0N5lPY",
+      "external_url": "https://youtube.com/watch?v=VkTkQ0N5lPY",
+      "source_hash": null
+    },
+    {
+      "id": "video-HCs2nNJc5t8",
+      "title": "หุ้นที่แพ้ตลาดดของผม (S&P500)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-15",
+      "linked_video_id": "HCs2nNJc5t8",
+      "external_url": "https://youtube.com/watch?v=HCs2nNJc5t8",
+      "source_hash": null
+    },
+    {
+      "id": "video-TzWyS__3pRM",
+      "title": "อัพเดทพอร์ตช่วง ATH และการจัดการเงินสด - ลงทุน DIARY EP9",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-11",
+      "linked_video_id": "TzWyS__3pRM",
+      "external_url": "https://youtube.com/watch?v=TzWyS__3pRM",
+      "source_hash": null
+    },
+    {
+      "id": "video-52wRWBhXVF0",
+      "title": "pe ของ s&p500 สูง แล้วไง? #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Valuation / Extreme Multiples"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-10",
+      "linked_video_id": "52wRWBhXVF0",
+      "external_url": "https://youtube.com/watch?v=52wRWBhXVF0",
+      "source_hash": null
+    },
+    {
+      "id": "video-Gh84SowzIhs",
+      "title": "ซื้อหุ้นที่ all time high ดีหรือปล่าว? #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-09",
+      "linked_video_id": "Gh84SowzIhs",
+      "external_url": "https://youtube.com/watch?v=Gh84SowzIhs",
+      "source_hash": null
+    },
+    {
+      "id": "video-2VjpoPV_iOE",
+      "title": "ผมสนใจหุ้น TOAST #TOST",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Toast / Vertical SaaS / Restaurant Technology"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-07-06",
+      "linked_video_id": "2VjpoPV_iOE",
+      "external_url": "https://youtube.com/watch?v=2VjpoPV_iOE",
+      "source_hash": null
+    },
+    {
+      "id": "video-3UWEBqHoL3M",
+      "title": "นักลงทุนเก่งๆ ลงทุนยังไงกัน EP0 - Joseph Carlson | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [
+        "ลงทุนแบบคนเก่งๆ"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-07-05",
+      "linked_video_id": "3UWEBqHoL3M",
+      "external_url": "https://youtube.com/watch?v=3UWEBqHoL3M",
+      "source_hash": null
+    },
+    {
+      "id": "video-Ek18v_8YmTw",
+      "title": "DCA เดือนละ 10000 ผมลงทุนอะไร? - DCA Diary EP1",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "DCA Diary"
+      ],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2025-06-30",
+      "linked_video_id": "Ek18v_8YmTw",
+      "external_url": "https://youtube.com/watch?v=Ek18v_8YmTw",
+      "source_hash": null
+    },
+    {
+      "id": "video-g8uuJ1PB8sE",
+      "title": "เพื่อนผมเคยทำงานที่ S&P Global | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-06-27",
+      "linked_video_id": "g8uuJ1PB8sE",
+      "external_url": "https://youtube.com/watch?v=g8uuJ1PB8sE",
+      "source_hash": null
+    },
+    {
+      "id": "video-3pwMht16rWU",
+      "title": "ผมซื้อหุ้นเพิ่มครับ - ลงทุน Diary ep8",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-26",
+      "linked_video_id": "3pwMht16rWU",
+      "external_url": "https://youtube.com/watch?v=3pwMht16rWU",
+      "source_hash": null
+    },
+    {
+      "id": "video-3q4umDYrrzA",
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep5 #ลงทุน #ลงทุนหุ้นอเมริกา",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-06-25",
+      "linked_video_id": "3q4umDYrrzA",
+      "external_url": "https://youtube.com/watch?v=3q4umDYrrzA",
+      "source_hash": null
+    },
+    {
+      "id": "video-kZc4KDvfWe4",
+      "title": "Stablecoin มาแล้ว visa ผมเอาไงดี?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stablecoin / Crypto Regulatory Environment",
+        "Consumer Finance / Payment Networks"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-23",
+      "linked_video_id": "kZc4KDvfWe4",
+      "external_url": "https://youtube.com/watch?v=kZc4KDvfWe4",
+      "source_hash": null
+    },
+    {
+      "id": "video-Ekj7flpaGbs",
+      "title": "Dev Kantesaria เลือกหุ้นยังไง? (AI Podcast) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "7 Powers / Investment Philosophy Framework"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-06-22",
+      "linked_video_id": "Ekj7flpaGbs",
+      "external_url": "https://youtube.com/watch?v=Ekj7flpaGbs",
+      "source_hash": null
+    },
+    {
+      "id": "video-tPOPKVD-Tbc",
+      "title": "อัพเดทงบ ctrip (secret investor)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-21",
+      "linked_video_id": "tPOPKVD-Tbc",
+      "external_url": "https://youtube.com/watch?v=tPOPKVD-Tbc",
+      "source_hash": null
+    },
+    {
+      "id": "video-TCjvGxuBsTc",
+      "title": "ลองให้ AI รีวิวพอร์ตผม (ดีกว่าที่คิดนะ)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-20",
+      "linked_video_id": "TCjvGxuBsTc",
+      "external_url": "https://youtube.com/watch?v=TCjvGxuBsTc",
+      "source_hash": null
+    },
+    {
+      "id": "video-U4qoJp6LwuI",
+      "title": "ซื้อประกันให้พอร์ต - OPTIONS | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Options"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-06-15",
+      "linked_video_id": "U4qoJp6LwuI",
+      "external_url": "https://youtube.com/watch?v=U4qoJp6LwuI",
+      "source_hash": null
+    },
+    {
+      "id": "video-nLulDjrg6Yc",
+      "title": "ซื้อหุ้นคืนทำไม #ลงทุน #ลงทุนหุ้นอเมริกา #asml #การเงิน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-06-14",
+      "linked_video_id": "nLulDjrg6Yc",
+      "external_url": "https://youtube.com/watch?v=nLulDjrg6Yc",
+      "source_hash": null
+    },
+    {
+      "id": "video-GOlt3XqVYmo",
+      "title": "หุ้นที่ผมอยากได้แต่ !! (ยังไม่กล้าซื้อ)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-13",
+      "linked_video_id": "GOlt3XqVYmo",
+      "external_url": "https://youtube.com/watch?v=GOlt3XqVYmo",
+      "source_hash": null
+    },
+    {
+      "id": "video-6gWE-kqRNhs",
+      "title": "ผมไม่ชอบหุ้นปันผล #ลงทุน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-06-12",
+      "linked_video_id": "6gWE-kqRNhs",
+      "external_url": "https://youtube.com/watch?v=6gWE-kqRNhs",
+      "source_hash": null
+    },
+    {
+      "id": "video--Mj95UPxyEk",
+      "title": "ผมไม่ชอบหุ้นปันผล - ตอบ COMMENTS EP5",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-06-10",
+      "linked_video_id": "-Mj95UPxyEk",
+      "external_url": "https://youtube.com/watch?v=-Mj95UPxyEk",
+      "source_hash": null
+    },
+    {
+      "id": "video-NOcxaHvxfsM",
+      "title": "ออมหุ้นหรือ btc ดีครับ? #ลงทุน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-08",
+      "linked_video_id": "NOcxaHvxfsM",
+      "external_url": "https://youtube.com/watch?v=NOcxaHvxfsM",
+      "source_hash": null
+    },
+    {
+      "id": "video-qd8sZQrJ4t8",
+      "title": "ทำไมผมถือ BTC",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-07",
+      "linked_video_id": "qd8sZQrJ4t8",
+      "external_url": "https://youtube.com/watch?v=qd8sZQrJ4t8",
+      "source_hash": null
+    },
+    {
+      "id": "video-_aXQ83EwjyA",
+      "title": "ถ้าต้องเลือก google กับ meta คุณจะเลือกอะไรกันครับ? #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-06",
+      "linked_video_id": "_aXQ83EwjyA",
+      "external_url": "https://youtube.com/watch?v=_aXQ83EwjyA",
+      "source_hash": null
+    },
+    {
+      "id": "video-dcL90qWIs5c",
+      "title": "Lidar vs Tesla (ใครจะเป็นผู้ชนะ?) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-06-06",
+      "linked_video_id": "dcL90qWIs5c",
+      "external_url": "https://youtube.com/watch?v=dcL90qWIs5c",
+      "source_hash": null
+    },
+    {
+      "id": "video-nheTlSTHKrw",
+      "title": "จัดอันดับหุ้น 7 นางฟ้าตามความชอบของผม (ขำๆ นะ)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-06-05",
+      "linked_video_id": "nheTlSTHKrw",
+      "external_url": "https://youtube.com/watch?v=nheTlSTHKrw",
+      "source_hash": null
+    },
+    {
+      "id": "video-IeUvyqTGggo",
+      "title": "หุ้นที่ผมคิดว่าขี้โกง Ep4",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-06-02",
+      "linked_video_id": "IeUvyqTGggo",
+      "external_url": "https://youtube.com/watch?v=IeUvyqTGggo",
+      "source_hash": null
+    },
+    {
+      "id": "video-Wv-8e2V-4Vg",
+      "title": "ผมว่าผมชอบ netflix มากกว่าเดิมอีกครับ เพราะ ai #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #nflx",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-30",
+      "linked_video_id": "Wv-8e2V-4Vg",
+      "external_url": "https://youtube.com/watch?v=Wv-8e2V-4Vg",
+      "source_hash": null
+    },
+    {
+      "id": "video-wqa_NBPAa0w",
+      "title": "รถขับเองได้ควรพาร์ทเนอร์กับ uber มั้ย #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #uber ￼",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi",
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "UBER saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-29",
+      "linked_video_id": "wqa_NBPAa0w",
+      "external_url": "https://youtube.com/watch?v=wqa_NBPAa0w",
+      "source_hash": null
+    },
+    {
+      "id": "video-AL5dB7q-gW0",
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep3 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-05-28",
+      "linked_video_id": "AL5dB7q-gW0",
+      "external_url": "https://youtube.com/watch?v=AL5dB7q-gW0",
+      "source_hash": null
+    },
+    {
+      "id": "video-tRLICyhU-jE",
+      "title": "Uber เนื้อหาต่อจากคลิปหลัก (CEO + Analyst) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "UBER saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-27",
+      "linked_video_id": "tRLICyhU-jE",
+      "external_url": "https://youtube.com/watch?v=tRLICyhU-jE",
+      "source_hash": null
+    },
+    {
+      "id": "video-SZAzcc7q53U",
+      "title": "หรือ UBER จะเป็นลูกรักคนใหม่ของผม #uber",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Uber / Platform Aggregator / Ride-Hailing"
+      ],
+      "series": [
+        "UBER saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-27",
+      "linked_video_id": "SZAzcc7q53U",
+      "external_url": "https://youtube.com/watch?v=SZAzcc7q53U",
+      "source_hash": null
+    },
+    {
+      "id": "video-6-OLq_U5PHk",
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep2 #asml #หุ้นต่างประเทศ #ลงทุน #การเงิน ไม่ใช่คำแนะนำการลงทุนนะ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-05-27",
+      "linked_video_id": "6-OLq_U5PHk",
+      "external_url": "https://youtube.com/watch?v=6-OLq_U5PHk",
+      "source_hash": null
+    },
+    {
+      "id": "video-xu5XF0zA5jM",
+      "title": "รอขายหุ้น ให้ได้ตัง - OPTIONS | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Options"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-26",
+      "linked_video_id": "xu5XF0zA5jM",
+      "external_url": "https://youtube.com/watch?v=xu5XF0zA5jM",
+      "source_hash": null
+    },
+    {
+      "id": "video-LTxv8d3OzMw",
+      "title": "ลงทุน diary RECAP Ep1-7 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-24",
+      "linked_video_id": "LTxv8d3OzMw",
+      "external_url": "https://youtube.com/watch?v=LTxv8d3OzMw",
+      "source_hash": null
+    },
+    {
+      "id": "video-RZbZWkWBgMU",
+      "title": "หุ้นที่ผมคิดว่าขี้โกง ep1 #ลงทุน #ลงทุนหุ้นอเมริกา #หุ้นต่างประเทศ #visa #หุ้นขี้โกง #ลงทุนdiary",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Payment Networks"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-23",
+      "linked_video_id": "RZbZWkWBgMU",
+      "external_url": "https://youtube.com/watch?v=RZbZWkWBgMU",
+      "source_hash": null
+    },
+    {
+      "id": "video-f56cYu22kq0",
+      "title": "Google กำลัง disrupt ตัวเองอยู่หรือปล่าว?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet",
+        "AI Search / Search Disruption"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-22",
+      "linked_video_id": "f56cYu22kq0",
+      "external_url": "https://youtube.com/watch?v=f56cYu22kq0",
+      "source_hash": null
+    },
+    {
+      "id": "video-kribrkcxt9M",
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน? - Super investors EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-20",
+      "linked_video_id": "kribrkcxt9M",
+      "external_url": "https://youtube.com/watch?v=kribrkcxt9M",
+      "source_hash": null
+    },
+    {
+      "id": "video-5CEx8b6jS70",
+      "title": "ผมใช้ Ai ยังไงบ้าง (Ver ลงทุน)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-18",
+      "linked_video_id": "5CEx8b6jS70",
+      "external_url": "https://youtube.com/watch?v=5CEx8b6jS70",
+      "source_hash": null
+    },
+    {
+      "id": "video-5j6yRQjEpes",
+      "title": "สิ่งที่รถขับเองขาดไม่ได้ - เจาะลึกหุ้น Robosense (Secret Investors) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-18",
+      "linked_video_id": "5j6yRQjEpes",
+      "external_url": "https://youtube.com/watch?v=5j6yRQjEpes",
+      "source_hash": null
+    },
+    {
+      "id": "video-gWop3Qe_YOE",
+      "title": "AI จะทำเงินยังไง  (AI podcast) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Investment Landscape / GenAI"
+      ],
+      "series": [
+        "How I AI"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-15",
+      "linked_video_id": "gWop3Qe_YOE",
+      "external_url": "https://youtube.com/watch?v=gWop3Qe_YOE",
+      "source_hash": null
+    },
+    {
+      "id": "video-xx3hIhbd9yk",
+      "title": "เกิดอะไรขึ้นกับ UNH ? - สรุปบทความ (Ai Podcast) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-12",
+      "linked_video_id": "xx3hIhbd9yk",
+      "external_url": "https://youtube.com/watch?v=xx3hIhbd9yk",
+      "source_hash": null
+    },
+    {
+      "id": "video-l5DHQf2FIgQ",
+      "title": "ผมปรับพอร์ต ขายหุ้น? - ลงทุน Diary EP7",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-11",
+      "linked_video_id": "l5DHQf2FIgQ",
+      "external_url": "https://youtube.com/watch?v=l5DHQf2FIgQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-Y77-zkss6t0",
+      "title": "ทำไมหุ้น Google ร่วง 7% สรุปประเด็นน่าสนใจ #google #aapl",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet",
+        "AI Search / Search Disruption"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-08",
+      "linked_video_id": "Y77-zkss6t0",
+      "external_url": "https://youtube.com/watch?v=Y77-zkss6t0",
+      "source_hash": null
+    },
+    {
+      "id": "video-fTZ5X0_sr-g",
+      "title": "Reaction งบ MSFT META AAPL | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure",
+        "Apple / AAPL"
+      ],
+      "series": [
+        "Earnings Reactions",
+        "MSFT saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-05-05",
+      "linked_video_id": "fTZ5X0_sr-g",
+      "external_url": "https://youtube.com/watch?v=fTZ5X0_sr-g",
+      "source_hash": null
+    },
+    {
+      "id": "video-zNFSu7ygmzc",
+      "title": "งบดีแต่ราคาไม่ไป ทำไมนะ?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-05-04",
+      "linked_video_id": "zNFSu7ygmzc",
+      "external_url": "https://youtube.com/watch?v=zNFSu7ygmzc",
+      "source_hash": null
+    },
+    {
+      "id": "video-QzrbUQA3c2s",
+      "title": "ทำความรู้จัก SEMICONDUCTOR / SEMICAP | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Semiconductor Capital Equipment / ASML / Semicap"
+      ],
+      "series": [],
+      "level": "Beginner",
+      "membership": true,
+      "date": "2025-05-04",
+      "linked_video_id": "QzrbUQA3c2s",
+      "external_url": "https://youtube.com/watch?v=QzrbUQA3c2s",
+      "source_hash": null
+    },
+    {
+      "id": "video-VglLxQbfOSw",
+      "title": "หุ้นถูกหรือแพง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Valuation / Extreme Multiples"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-30",
+      "linked_video_id": "VglLxQbfOSw",
+      "external_url": "https://youtube.com/watch?v=VglLxQbfOSw",
+      "source_hash": null
+    },
+    {
+      "id": "video-28sggpWnGBE",
+      "title": "ผมว่าหุ้น NETFLIX ดีกว่าที่คิด",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Streaming / Video Entertainment Platform"
+      ],
+      "series": [
+        "NFLX saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-24",
+      "linked_video_id": "28sggpWnGBE",
+      "external_url": "https://youtube.com/watch?v=28sggpWnGBE",
+      "source_hash": null
+    },
+    {
+      "id": "video-UCtWzkJXi18",
+      "title": "huawei vs nvidia | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "NVIDIA / GPU Ecosystem / CUDA Moat"
+      ],
+      "series": [
+        "NVDA saga"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-04-22",
+      "linked_video_id": "UCtWzkJXi18",
+      "external_url": "https://youtube.com/watch?v=UCtWzkJXi18",
+      "source_hash": null
+    },
+    {
+      "id": "video-HCy2-2Ysf64",
+      "title": "เจาะลึกหุ้น Xiaomi (secret investor) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-04-20",
+      "linked_video_id": "HCy2-2Ysf64",
+      "external_url": "https://youtube.com/watch?v=HCy2-2Ysf64",
+      "source_hash": null
+    },
+    {
+      "id": "video-6Bky9qzmRyo",
+      "title": "จัดอันดับหุ้นตายยาก (ขำๆ นะ)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-17",
+      "linked_video_id": "6Bky9qzmRyo",
+      "external_url": "https://youtube.com/watch?v=6Bky9qzmRyo",
+      "source_hash": null
+    },
+    {
+      "id": "video-YNMOhS_x3jY",
+      "title": "หุ้นที่ดี สำหรับผม",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-15",
+      "linked_video_id": "YNMOhS_x3jY",
+      "external_url": "https://youtube.com/watch?v=YNMOhS_x3jY",
+      "source_hash": null
+    },
+    {
+      "id": "video-nMPJidhIJC4",
+      "title": "เดาใจ Trump ต่อ 10/4/2025 #ลงทุน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-10",
+      "linked_video_id": "nMPJidhIJC4",
+      "external_url": "https://youtube.com/watch?v=nMPJidhIJC4",
+      "source_hash": null
+    },
+    {
+      "id": "video-e9bZLCC3DUg",
+      "title": "ข้อเสีย S&P Global #spgi",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-09",
+      "linked_video_id": "e9bZLCC3DUg",
+      "external_url": "https://youtube.com/watch?v=e9bZLCC3DUg",
+      "source_hash": null
+    },
+    {
+      "id": "video-l0ab-o0cA2w",
+      "title": "เดาใจ TRUMP - ลงทุน Diary EP 6.5 | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": null,
+      "membership": true,
+      "date": "2025-04-08",
+      "linked_video_id": "l0ab-o0cA2w",
+      "external_url": "https://youtube.com/watch?v=l0ab-o0cA2w",
+      "source_hash": null
+    },
+    {
+      "id": "video-SuylLe4mZ3Q",
+      "title": "เชื่อม discord กับ youtube for members",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-08",
+      "linked_video_id": "SuylLe4mZ3Q",
+      "external_url": "https://youtube.com/watch?v=SuylLe4mZ3Q",
+      "source_hash": null
+    },
+    {
+      "id": "video-0v0UCbyIMDU",
+      "title": "ผมว่านี่คือโอกาส - ลงทุน Diary EP6",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-04-07",
+      "linked_video_id": "0v0UCbyIMDU",
+      "external_url": "https://youtube.com/watch?v=0v0UCbyIMDU",
+      "source_hash": null
+    },
+    {
+      "id": "video-ISkYzIOXqNM",
+      "title": "เจาะลึกหุ้น Trip (Secret Investor) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-04-02",
+      "linked_video_id": "ISkYzIOXqNM",
+      "external_url": "https://youtube.com/watch?v=ISkYzIOXqNM",
+      "source_hash": null
+    },
+    {
+      "id": "video-zo8Fr9Jd1Ck",
+      "title": "ผมว่า Palantir เป็นหุ้นขี้โกง #pltr",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Palantir / PLTR",
+        "Enterprise AI Middleware"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-31",
+      "linked_video_id": "zo8Fr9Jd1Ck",
+      "external_url": "https://youtube.com/watch?v=zo8Fr9Jd1Ck",
+      "source_hash": null
+    },
+    {
+      "id": "video-imHLUgG2H-0",
+      "title": "หุ้น cloud อาจไม่ได้ดีอย่างที่คิด | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-03-26",
+      "linked_video_id": "imHLUgG2H-0",
+      "external_url": "https://youtube.com/watch?v=imHLUgG2H-0",
+      "source_hash": null
+    },
+    {
+      "id": "video-WTSm0TqI-XI",
+      "title": "ผมยังชอบหุ้น GOOGLE อยู่",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Google / Alphabet"
+      ],
+      "series": [
+        "GOOGL saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-25",
+      "linked_video_id": "WTSm0TqI-XI",
+      "external_url": "https://youtube.com/watch?v=WTSm0TqI-XI",
+      "source_hash": null
+    },
+    {
+      "id": "video-lYRXgIQVjec",
+      "title": "Hello MEMBER! - Update ตลาด + ข่าวนิดหน่อย (Membership)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": true,
+      "date": "2025-03-21",
+      "linked_video_id": "lYRXgIQVjec",
+      "external_url": "https://youtube.com/watch?v=lYRXgIQVjec",
+      "source_hash": null
+    },
+    {
+      "id": "video-IKCGoPFa4QE",
+      "title": "ถ้าเลือกหุ้นได้แค่ 5 ตัว ไปอีก 30ปี",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-20",
+      "linked_video_id": "IKCGoPFa4QE",
+      "external_url": "https://youtube.com/watch?v=IKCGoPFa4QE",
+      "source_hash": null
+    },
+    {
+      "id": "video-D10mf4Iy3Zg",
+      "title": "Member Intro short ver",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-19",
+      "linked_video_id": "D10mf4Iy3Zg",
+      "external_url": "https://youtube.com/watch?v=D10mf4Iy3Zg",
+      "source_hash": null
+    },
+    {
+      "id": "video-NnqMefoXFBw",
+      "title": "Member ช่องลงทุน Diary จะได้อะไรบ้าง?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Membership Content"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-19",
+      "linked_video_id": "NnqMefoXFBw",
+      "external_url": "https://youtube.com/watch?v=NnqMefoXFBw",
+      "source_hash": null
+    },
+    {
+      "id": "video-Hd1l3lnkfiY",
+      "title": "เจาะลึกหุ้น LUCKIN COFFEE (Secret Investor) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Emerging Markets / Digital Adoption"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-03-19",
+      "linked_video_id": "Hd1l3lnkfiY",
+      "external_url": "https://youtube.com/watch?v=Hd1l3lnkfiY",
+      "source_hash": null
+    },
+    {
+      "id": "video-Z-yt4hqmpoM",
+      "title": "เจาะลึกหุ้น TESLA (Secret investor) | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "series": [
+        "Secret Investor"
+      ],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-03-19",
+      "linked_video_id": "Z-yt4hqmpoM",
+      "external_url": "https://youtube.com/watch?v=Z-yt4hqmpoM",
+      "source_hash": null
+    },
+    {
+      "id": "video-SKOPD9UI3Fw",
+      "title": "กว่าจะเป็นคลิป Cyber Security | Membership",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "series": [],
+      "level": "Advanced",
+      "membership": true,
+      "date": "2025-03-19",
+      "linked_video_id": "SKOPD9UI3Fw",
+      "external_url": "https://youtube.com/watch?v=SKOPD9UI3Fw",
+      "source_hash": null
+    },
+    {
+      "id": "video-tUdJV8VPjks",
+      "title": "CRWD vs PANW - ผู้ชนะในโลก Cyber Security (PART2)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-17",
+      "linked_video_id": "tUdJV8VPjks",
+      "external_url": "https://youtube.com/watch?v=tUdJV8VPjks",
+      "source_hash": null
+    },
+    {
+      "id": "video-FZXEI7d3UMQ",
+      "title": "หุ้น Cyber Security ใกล้ตัวกว่าที่คิดนะ (PART1)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cyber Security / Cyber Resilience"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-16",
+      "linked_video_id": "FZXEI7d3UMQ",
+      "external_url": "https://youtube.com/watch?v=FZXEI7d3UMQ",
+      "source_hash": null
+    },
+    {
+      "id": "video--UNoMYxSF6g",
+      "title": "ผมขาดทุน แต่ผมดีใจนะ - ลงทุน Diary EP5",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-13",
+      "linked_video_id": "-UNoMYxSF6g",
+      "external_url": "https://youtube.com/watch?v=-UNoMYxSF6g",
+      "source_hash": null
+    },
+    {
+      "id": "video-NlLnfguiQXg",
+      "title": "ความเชื่อมั่นสำคัญมากต่อตลาดหุ้น #ลงทุน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-13",
+      "linked_video_id": "NlLnfguiQXg",
+      "external_url": "https://youtube.com/watch?v=NlLnfguiQXg",
+      "source_hash": null
+    },
+    {
+      "id": "video-sZ6KGeughS0",
+      "title": "Tariff กระทบมั้ย ไปหุ้นประเทศอื่นดีมั้ย - ตอบ COMMENTS EP4",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-12",
+      "linked_video_id": "sZ6KGeughS0",
+      "external_url": "https://youtube.com/watch?v=sZ6KGeughS0",
+      "source_hash": null
+    },
+    {
+      "id": "video-LDfE84pG4uU",
+      "title": "ผมสนใจหุ้น ARM",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "ARM Architecture / CSS Licensing / Royalty Model"
+      ],
+      "series": [
+        "ARM saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-09",
+      "linked_video_id": "LDfE84pG4uU",
+      "external_url": "https://youtube.com/watch?v=LDfE84pG4uU",
+      "source_hash": null
+    },
+    {
+      "id": "video-6DXC667qt2A",
+      "title": "ลงทุน Diary is live!",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-03-08",
+      "linked_video_id": "6DXC667qt2A",
+      "external_url": "https://youtube.com/watch?v=6DXC667qt2A",
+      "source_hash": null
+    },
+    {
+      "id": "video-KUr55rDFr54",
+      "title": "ผมรักหุ้นตัวนี้ AMAZON #amzn",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "AMZN saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-08",
+      "linked_video_id": "KUr55rDFr54",
+      "external_url": "https://youtube.com/watch?v=KUr55rDFr54",
+      "source_hash": null
+    },
+    {
+      "id": "video-emzcTl_pht0",
+      "title": "ทำไมหุ้นมากกว่าทอง btc #ลงทุน #ลงทุนหุ้นอเมริกา #ทอง",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Bitcoin / Store of Value / Monetary System"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-05",
+      "linked_video_id": "emzcTl_pht0",
+      "external_url": "https://youtube.com/watch?v=emzcTl_pht0",
+      "source_hash": null
+    },
+    {
+      "id": "video-g4q_Hi1us7A",
+      "title": "ผม research หุ้นยังไง (แบบคร่าวๆ) - ตอบ COMMENTS EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Stock Research Methodology / AI Research Tools"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-05",
+      "linked_video_id": "g4q_Hi1us7A",
+      "external_url": "https://youtube.com/watch?v=g4q_Hi1us7A",
+      "source_hash": null
+    },
+    {
+      "id": "video-3N5X54PdrRs",
+      "title": "COSTCO VS WALMART ผมเลือกตัวไหน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-03-03",
+      "linked_video_id": "3N5X54PdrRs",
+      "external_url": "https://youtube.com/watch?v=3N5X54PdrRs",
+      "source_hash": null
+    },
+    {
+      "id": "video-UN3IXriM0qg",
+      "title": "ผมหาหุ้นแบบไหน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-03",
+      "linked_video_id": "UN3IXriM0qg",
+      "external_url": "https://youtube.com/watch?v=UN3IXriM0qg",
+      "source_hash": null
+    },
+    {
+      "id": "video-OYjo6e06bxg",
+      "title": "ผมสนใจหุ้น SOFI",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Consumer Finance / Fintech"
+      ],
+      "series": [
+        "SOFI saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-03-01",
+      "linked_video_id": "OYjo6e06bxg",
+      "external_url": "https://youtube.com/watch?v=OYjo6e06bxg",
+      "source_hash": null
+    },
+    {
+      "id": "video-jf20Hz9ca5g",
+      "title": "ผมไม่สนใจ Tesla แล้วหรอ? - ตอบ Comments EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Autonomous Vehicles / AV / Robotaxi"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-28",
+      "linked_video_id": "jf20Hz9ca5g",
+      "external_url": "https://youtube.com/watch?v=jf20Hz9ca5g",
+      "source_hash": null
+    },
+    {
+      "id": "video-qXURbiKmPhM",
+      "title": "ผมรอซื้อหุ้นตัวไหนอยู่ - ลงทุน Diary EP4",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-27",
+      "linked_video_id": "qXURbiKmPhM",
+      "external_url": "https://youtube.com/watch?v=qXURbiKmPhM",
+      "source_hash": null
+    },
+    {
+      "id": "video-6ynPvetevCA",
+      "title": "ผมไม่ชอบหุ้นยา - ตอบ COMMENT EP1",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-02-25",
+      "linked_video_id": "6ynPvetevCA",
+      "external_url": "https://youtube.com/watch?v=6ynPvetevCA",
+      "source_hash": null
+    },
+    {
+      "id": "video-TyvYDH5nFpI",
+      "title": "Crypto โดน hack อีกละ #bybit",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-02-24",
+      "linked_video_id": "TyvYDH5nFpI",
+      "external_url": "https://youtube.com/watch?v=TyvYDH5nFpI",
+      "source_hash": null
+    },
+    {
+      "id": "video-LR33DTxpNGQ",
+      "title": "ผมซื้อ S&P Global ครับ #SPGI",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "S&P Global / Financial Data Moats"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-24",
+      "linked_video_id": "LR33DTxpNGQ",
+      "external_url": "https://youtube.com/watch?v=LR33DTxpNGQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-9WV2FPZ9VeU",
+      "title": "นักลงทุนระดับโลกซื้อหุ้นอะไรกัน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Super Investors / Institutional Selling"
+      ],
+      "series": [
+        "Super Investor"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-21",
+      "linked_video_id": "9WV2FPZ9VeU",
+      "external_url": "https://youtube.com/watch?v=9WV2FPZ9VeU",
+      "source_hash": null
+    },
+    {
+      "id": "video-Wfa7WPUwDfY",
+      "title": "Amazon เป็นหุ้น ai #amzn",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [
+        "AMZN saga"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-20",
+      "linked_video_id": "Wfa7WPUwDfY",
+      "external_url": "https://youtube.com/watch?v=Wfa7WPUwDfY",
+      "source_hash": null
+    },
+    {
+      "id": "video-ddm093DvzGU",
+      "title": "คําศัพท์การลงทุน แบบภาษาคน",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Financial Statement Analysis / Fundamental Analysis Education"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-20",
+      "linked_video_id": "ddm093DvzGU",
+      "external_url": "https://youtube.com/watch?v=ddm093DvzGU",
+      "source_hash": null
+    },
+    {
+      "id": "video-2bMZHF6QgwI",
+      "title": "ผมจะซื้อแต่หุ้นขี้โกง",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-19",
+      "linked_video_id": "2bMZHF6QgwI",
+      "external_url": "https://youtube.com/watch?v=2bMZHF6QgwI",
+      "source_hash": null
+    },
+    {
+      "id": "video-2nzmEBE8Idw",
+      "title": "ทำไมทุกคนกำลังขาย #apple",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Apple / AAPL"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-17",
+      "linked_video_id": "2nzmEBE8Idw",
+      "external_url": "https://youtube.com/watch?v=2nzmEBE8Idw",
+      "source_hash": null
+    },
+    {
+      "id": "video-RklYb4YxQmw",
+      "title": "ผมพลาดครับ #paypal - ลงทุน Diary EP3",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-15",
+      "linked_video_id": "RklYb4YxQmw",
+      "external_url": "https://youtube.com/watch?v=RklYb4YxQmw",
+      "source_hash": null
+    },
+    {
+      "id": "video-AjN9j9Zz3S8",
+      "title": "ผมถือทองยังไง (ให้มันทำงาน)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cash Management / Yield Optimization"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-14",
+      "linked_video_id": "AjN9j9Zz3S8",
+      "external_url": "https://youtube.com/watch?v=AjN9j9Zz3S8",
+      "source_hash": null
+    },
+    {
+      "id": "video-iEd3-NW2tK0",
+      "title": "เงินเฟ้อมันน่ากลัวกว่าที่คิด",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-12",
+      "linked_video_id": "iEd3-NW2tK0",
+      "external_url": "https://youtube.com/watch?v=iEd3-NW2tK0",
+      "source_hash": null
+    },
+    {
+      "id": "video-BaT8nv-3umI",
+      "title": "tariff อาจไม่ได้น่ากลัวอย่างที่คิด #investing #trading #tariff",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "AI Bubble / Market Risk / Macro"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-12",
+      "linked_video_id": "BaT8nv-3umI",
+      "external_url": "https://youtube.com/watch?v=BaT8nv-3umI",
+      "source_hash": null
+    },
+    {
+      "id": "video-cNTLdfKxCVs",
+      "title": "หุ้นเทค Cloud ร่วง แต่ผมชอบ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Hyperscaler CapEx / Cloud Infrastructure"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-08",
+      "linked_video_id": "cNTLdfKxCVs",
+      "external_url": "https://youtube.com/watch?v=cNTLdfKxCVs",
+      "source_hash": null
+    },
+    {
+      "id": "video-TgZDmHIhN64",
+      "title": "SET ลบ 100 กว่าจุดในสองอาทิตย์ ตัวไหนยังรอด?",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-02-06",
+      "linked_video_id": "TgZDmHIhN64",
+      "external_url": "https://youtube.com/watch?v=TgZDmHIhN64",
+      "source_hash": null
+    },
+    {
+      "id": "video-40UXptpPTik",
+      "title": "อย่าทิ้งหุ้นไทยนะ",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-02-04",
+      "linked_video_id": "40UXptpPTik",
+      "external_url": "https://youtube.com/watch?v=40UXptpPTik",
+      "source_hash": null
+    },
+    {
+      "id": "video-a1KdP-livpo",
+      "title": "ผมถืออะไรในพอร์ตอเมริกาบ้าง - ลงทุน Diary EP2",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "General",
+      "membership": false,
+      "date": "2025-02-02",
+      "linked_video_id": "a1KdP-livpo",
+      "external_url": "https://youtube.com/watch?v=a1KdP-livpo",
+      "source_hash": null
+    },
+    {
+      "id": "video-3cLavMdgPGc",
+      "title": "ดูก่อนเป็น trader",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-30",
+      "linked_video_id": "3cLavMdgPGc",
+      "external_url": "https://youtube.com/watch?v=3cLavMdgPGc",
+      "source_hash": null
+    },
+    {
+      "id": "video-eaz9lNSC7so",
+      "title": "จัดพอร์ตลงทุน กับแผนปี 2025 ของผม - ลงทุน Diary EP1",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Diary / Personal Investment Journal"
+      ],
+      "series": [
+        "ลงทุน Diary"
+      ],
+      "level": "Beginner",
+      "membership": false,
+      "date": "2025-01-27",
+      "linked_video_id": "eaz9lNSC7so",
+      "external_url": "https://youtube.com/watch?v=eaz9lNSC7so",
+      "source_hash": null
+    },
+    {
+      "id": "video-pRZeWwQyOSg",
+      "title": "ผมลงทุนหุ้นเมกายังไง",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Portfolio Strategy / Sell Discipline / Behavioral Finance"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-01-25",
+      "linked_video_id": "pRZeWwQyOSg",
+      "external_url": "https://youtube.com/watch?v=pRZeWwQyOSg",
+      "source_hash": null
+    },
+    {
+      "id": "video-Lsbo9k1g554",
+      "title": "กว่าจะตั้งท่าสวยๆ ได้ พี่รีบลงจังอะ - Diary S50H25 23Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-23",
+      "linked_video_id": "Lsbo9k1g554",
+      "external_url": "https://youtube.com/watch?v=Lsbo9k1g554",
+      "source_hash": null
+    },
+    {
+      "id": "video-BHz4hhThVCQ",
+      "title": "อาจจะเป็นจุดเปลี่ยนหรือปล่าว - Diary S50H25 22 Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-22",
+      "linked_video_id": "BHz4hhThVCQ",
+      "external_url": "https://youtube.com/watch?v=BHz4hhThVCQ",
+      "source_hash": null
+    },
+    {
+      "id": "video-skQEtoTs2fk",
+      "title": "หุ้นน่าสนใจ KBANK VGI - 22 Jan 2025",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-22",
+      "linked_video_id": "skQEtoTs2fk",
+      "external_url": "https://youtube.com/watch?v=skQEtoTs2fk",
+      "source_hash": null
+    },
+    {
+      "id": "video-3qAZ0zeK0pc",
+      "title": "ผมจะเริ่มลงทุนหุ้นอเมริกา ที่ยอดดอยนี้",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-01-22",
+      "linked_video_id": "3qAZ0zeK0pc",
+      "external_url": "https://youtube.com/watch?v=3qAZ0zeK0pc",
+      "source_hash": null
+    },
+    {
+      "id": "video-UKi-MVetP-Q",
+      "title": "เลิกหาหุ้นถูก #trading #set #เทรด",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-21",
+      "linked_video_id": "UKi-MVetP-Q",
+      "external_url": "https://youtube.com/watch?v=UKi-MVetP-Q",
+      "source_hash": null
+    },
+    {
+      "id": "video-qgIDKVt97vA",
+      "title": "ตลาดยังคงไม่ไปไหน - Diary trade S50H25 21 Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-21",
+      "linked_video_id": "qgIDKVt97vA",
+      "external_url": "https://youtube.com/watch?v=qgIDKVt97vA",
+      "source_hash": null
+    },
+    {
+      "id": "video-GhwSZMnNJi4",
+      "title": "SET รอทรัมป์กับเขาด้วยหรอ - Diary trade S50H25 16Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-20",
+      "linked_video_id": "GhwSZMnNJi4",
+      "external_url": "https://youtube.com/watch?v=GhwSZMnNJi4",
+      "source_hash": null
+    },
+    {
+      "id": "video-SZhYCsbhvTk",
+      "title": "ตลาดเริ่มมีทรง หรือปล่าว - Diary trade S50H25 16Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-16",
+      "linked_video_id": "SZhYCsbhvTk",
+      "external_url": "https://youtube.com/watch?v=SZhYCsbhvTk",
+      "source_hash": null
+    },
+    {
+      "id": "video-Jl2i0a4PTf0",
+      "title": "ผมถือเงินสดยังไง (ให้มันทำงาน)",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Cash Management / Yield Optimization"
+      ],
+      "series": [],
+      "level": "General",
+      "membership": false,
+      "date": "2025-01-16",
+      "linked_video_id": "Jl2i0a4PTf0",
+      "external_url": "https://youtube.com/watch?v=Jl2i0a4PTf0",
+      "source_hash": null
+    },
+    {
+      "id": "video-gwTtYflstXE",
+      "title": "ตลาดไทยไม่เคยง่าย - Diary trade S50H25 15Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-15",
+      "linked_video_id": "gwTtYflstXE",
+      "external_url": "https://youtube.com/watch?v=gwTtYflstXE",
+      "source_hash": null
+    },
+    {
+      "id": "video-dyWbtK7ZbH4",
+      "title": "คุณโทนี่หลอกผม - Diary trade S50H25 14Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-14",
+      "linked_video_id": "dyWbtK7ZbH4",
+      "external_url": "https://youtube.com/watch?v=dyWbtK7ZbH4",
+      "source_hash": null
+    },
+    {
+      "id": "video-VXRZDBZ7Qrw",
+      "title": "โวแรงพรีอย่างต่ำ - S50H25 13 Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-13",
+      "linked_video_id": "VXRZDBZ7Qrw",
+      "external_url": "https://youtube.com/watch?v=VXRZDBZ7Qrw",
+      "source_hash": null
+    },
+    {
+      "id": "video-FBeTNgS_D88",
+      "title": "เรื่มเทรด options series S50H25 1-10 Jan",
+      "summary_thai": "",
+      "type": "video",
+      "tickers": [],
+      "topics": [
+        "Options"
+      ],
+      "series": [],
+      "level": null,
+      "membership": false,
+      "date": "2025-01-13",
+      "linked_video_id": "FBeTNgS_D88",
+      "external_url": "https://youtube.com/watch?v=FBeTNgS_D88",
+      "source_hash": null
+    }
+  ],
+  "meta": {
+    "counts": {
+      "total": 304,
+      "insights": 22,
+      "theses": 22,
+      "xposts": 8,
+      "videos": 253
+    },
+    "top_tickers": [
+      "NVDA",
+      "GOOGL",
+      "AMZN",
+      "AVGO",
+      "INTC",
+      "AMD",
+      "TSM",
+      "MSFT",
+      "CDNS",
+      "ARM"
+    ],
+    "top_topics": [
+      "Portfolio Diary / Personal Investment Journal",
+      "Portfolio Strategy / Sell Discipline / Behavioral Finance",
+      "AI Infrastructure",
+      "Hyperscaler CapEx / Cloud Infrastructure",
+      "Custom Silicon",
+      "Semiconductor",
+      "Google / Alphabet",
+      "AI Bubble / Market Risk / Macro",
+      "Stock Research Methodology / AI Research Tools",
+      "7 Powers / Investment Philosophy Framework"
+    ]
+  }
+}

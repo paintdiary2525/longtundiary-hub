@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <title>My Diary — ลงทุน Diary</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="ไดอารี่ของผม — บันทึกความคิดเรื่องหุ้น. Search any concept, ticker, or theme to find Paint's take and which video covers it.">
+  <link rel="icon" href="assets/logo-circle.png">
+  <link rel="stylesheet" href="colors_and_type.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="page-styles.css">
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+<header class="hub-nav">
+  <a class="hub-brand" href="/">
+    <img src="assets/logo-circle.png" width="40" height="40" alt="">
+    <span class="hub-brand__name">ลงทุน Diary</span>
+  </a>
+  <nav class="hub-nav__links">
+    <a href="/">Home</a>
+    <a href="/#library">Library</a>
+    <a href="/#archive">Archive</a>
+  </nav>
+  <div class="hub-nav__cta">
+    <a class="hub-pagepill" href="/news">News</a>
+    <a class="hub-pagepill" href="/substack">Substack</a>
+    <a class="hub-pagepill" href="/diary" aria-current="page">Diary</a>
+    <a class="hub-iconlink hub-iconlink--icon-only" href="https://longtundiary.substack.com/" target="_blank" rel="noopener" aria-label="Open my Substack" title="My Substack">
+      <i data-lucide="newspaper"></i>
+    </a>
+    <a class="hub-iconlink hub-iconlink--icon-only" href="https://x.com/longtundiary" target="_blank" rel="noopener" aria-label="X" title="X">
+      <span class="hub-iconlink__x" aria-hidden="true">𝕏</span>
+    </a>
+    <a class="hub-btn hub-btn--sm hub-btn--primary" href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join</a>
+  </div>
+</header>
+
+<main class="hub-page">
+
+  <section class="hub-page-hero">
+    <span class="hub-eyebrow">members-only · search anything</span>
+    <h1 class="hub-page-hero__title">My <em>Diary.</em></h1>
+    <p class="hub-page-hero__sub" id="diary-meta">โหลดบันทึก …</p>
+    <p class="hub-page-hero__lede">
+      บันทึกสั้นๆ ของผมเรื่องหุ้น เปิด search หาว่าผมคิดยังไงกับ ticker / theme / concept ไหน — แล้วคลิกไปดูวิดีโอเต็มต่อใน YouTube
+    </p>
+  </section>
+
+  <section class="hub-section hub-section--first">
+    <div class="diary-search">
+      <div class="diary-search__inputwrap">
+        <i data-lucide="search" class="diary-search__icon"></i>
+        <input type="search" id="diary-q" class="diary-search__input" placeholder="พิมพ์ ticker หรือ concept (ASML · TPU · CPO · agentic …)" aria-label="Search the diary" autofocus>
+      </div>
+      <div class="diary-chips" id="type-chips" role="tablist" aria-label="Filter by type">
+        <!-- rendered by diary-app.js -->
+      </div>
+      <div class="diary-chips diary-chips--soft" id="filter-chips" aria-label="Active filters">
+        <!-- active ticker / topic chips with × to clear -->
+      </div>
+    </div>
+
+    <div class="diary-meta-line" id="diary-count"></div>
+
+    <div id="diary-empty" class="diary-empty" hidden>
+      <div class="diary-empty__col">
+        <h3 class="diary-empty__hd">เริ่มจาก ticker</h3>
+        <div class="diary-chips" id="empty-tickers"></div>
+      </div>
+      <div class="diary-empty__col">
+        <h3 class="diary-empty__hd">หรือเริ่มจากหัวข้อ</h3>
+        <div class="diary-chips" id="empty-topics"></div>
+      </div>
+    </div>
+
+    <ul class="diary-results" id="diary-results">
+      <li class="diary-loading">กำลังโหลด …</li>
+    </ul>
+
+    <div class="diary-more" hidden>
+      <button id="diary-show-more" class="hub-btn hub-btn--md">ดูเพิ่ม</button>
+    </div>
+  </section>
+
+  <section class="hub-section hub-section--quiet">
+    <div class="hub-section__head">
+      <h2 class="hub-section__title">เกี่ยวกับหน้านี้</h2>
+    </div>
+    <p class="hub-prose">
+      ทุก card คือ insights เล็กๆ ที่ผมเก็บไว้ใน Knowledge base และ YouTube video
+    </p>
+  </section>
+</main>
+
+<footer class="hub-foot">
+  <div class="hub-foot__cols">
+    <div>
+      <span class="hub-foot__brand handletter">ลงทุน Diary</span>
+      <p>A small notebook on a desk — kept honest, kept small.</p>
+    </div>
+    <div>
+      <span class="hub-foot__hd">watch</span>
+      <a href="https://youtube.com/@longtundiary" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join membership</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">read</span>
+      <a href="https://longtundiary.substack.com/" target="_blank" rel="noopener">Substack</a>
+      <a href="/news">Daily news</a>
+    </div>
+    <div>
+      <span class="hub-foot__hd">listen</span>
+      <a href="/#library">Podcast</a>
+    </div>
+  </div>
+  <div class="hub-foot__bar">
+    <img src="assets/logo-circle.png" alt="">
+    <span>© 2026 · a small notebook on a desk.</span>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/minisearch@7.1.0/dist/umd/index.min.js"></script>
+<script src="diary-app.js"></script>
+<script>lucide.createIcons();</script>
+</body>
+</html>

@@ -401,12 +401,26 @@ img { max-width: 100%; display: block; }
   transform: translate(-2px,-2px);
   box-shadow: 6px 8px 0 var(--sage-500), 10px 14px 0 var(--forest-900);
 }
+.hub-membergrid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 18px;
+}
+@media (max-width: 720px) {
+  .hub-membergrid { grid-template-columns: 1fr; gap: 14px; }
+}
+.hub-memberperk {
+  display: flex; align-items: center; gap: 8px;
+  margin: 18px 0 0;
+  font-family: var(--font-mono); font-size: 12px; color: var(--fg-3);
+}
+.hub-memberperk svg { width: 14px; height: 14px; color: var(--sage-500); }
+.hub-memberperk a { color: var(--forest-900); }
 .hub-membercard__icon {
   width: 80px; height: 80px;
   display: grid; place-items: center;
   border: 2px solid var(--forest-900); border-radius: 999px;
   background: var(--accent-tomato); color: var(--cream-50);
 }
+.hub-membercard__icon--sage { background: var(--sage-400); }
 .hub-membercard__icon svg { width: 32px; height: 32px; }
 .hub-membercard__body h3 { font-family: var(--font-display); font-weight: 600; font-size: 24px; margin: 0 0 6px; }
 .hub-membercard__body p { margin: 0 0 10px; color: var(--fg-2); font-size: 15px; }

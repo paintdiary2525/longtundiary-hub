@@ -26,6 +26,7 @@
   <div class="hub-nav__cta">
     <a class="hub-pagepill" href="/news">News</a>
     <a class="hub-pagepill" href="/substack">Substack</a>
+    <a class="hub-pagepill" href="/diary">Diary</a>
     <a class="hub-iconlink hub-iconlink--icon-only" href="https://longtundiary.substack.com/" target="_blank" rel="noopener" aria-label="Open my Substack" title="My Substack">
       <i data-lucide="newspaper"></i>
     </a>
@@ -43,7 +44,7 @@
     <div class="hub-hero__copy">
       <h1 class="hub-hero__title">My investing <em>journal</em>.</h1>
       <div class="hub-hero__cta">
-        <a class="hub-btn hub-btn--lg hub-btn--primary" href="#library" data-flip="#library">Open the diary →</a>
+        <a class="hub-btn hub-btn--lg hub-btn--primary" href="/diary">Open the diary →</a>
         <a class="hub-btn hub-btn--lg hub-btn--ghost" href="/news">Daily Digest</a>
       </div>
       <div class="hub-hero__meta">
@@ -111,14 +112,28 @@
       <h2 class="hub-section__title">For members</h2>
       <span class="hub-section__sub">members-only pages</span>
     </div>
-    <a id="member-card" class="hub-membercard" href="https://www.youtube.com/playlist?list=PL5jKtKOOoyxH-iZYs0M4cL59whXMtUrkC" target="_blank" rel="noopener">
-      <div class="hub-membercard__icon"><i data-lucide="lock"></i></div>
-      <div class="hub-membercard__body">
-        <h3>All member-only entries</h3>
-        <p>Every Membership-tagged video in one playlist — open it on YouTube to scroll the full members-only library.</p>
-        <span class="hub-membercard__cta">Open the playlist <i data-lucide="arrow-up-right"></i></span>
-      </div>
-    </a>
+    <div class="hub-membergrid">
+      <a class="hub-membercard" href="/diary">
+        <div class="hub-membercard__icon hub-membercard__icon--sage"><i data-lucide="book-open"></i></div>
+        <div class="hub-membercard__body">
+          <h3>My Diary — searchable index</h3>
+          <p>พิมพ์ ticker หรือ concept ใดก็ได้ — ดึง summary ของผมมาพร้อม link ไปวิดีโอเต็ม. มี ~270 entries (insights + theses + videos)</p>
+          <span class="hub-membercard__cta">Open the diary <i data-lucide="arrow-right"></i></span>
+        </div>
+      </a>
+      <a class="hub-membercard" href="https://www.youtube.com/playlist?list=PL5jKtKOOoyxH-iZYs0M4cL59whXMtUrkC" target="_blank" rel="noopener">
+        <div class="hub-membercard__icon"><i data-lucide="lock"></i></div>
+        <div class="hub-membercard__body">
+          <h3>All member-only entries</h3>
+          <p>Every Membership-tagged video in one playlist — open it on YouTube to scroll the full members-only library.</p>
+          <span class="hub-membercard__cta">Open the playlist <i data-lucide="arrow-up-right"></i></span>
+        </div>
+      </a>
+    </div>
+    <p class="hub-memberperk">
+      <i data-lucide="info"></i>
+      Members get the diary + every Membership-tagged video. <a href="https://www.youtube.com/channel/UCELVTxN2RQM-JnKs6uG_5xg/join" target="_blank" rel="noopener">Join channel membership →</a>
+    </p>
   </section>
 
   <!-- =================== ARCHIVE: ALL ENTRIES =================== -->
