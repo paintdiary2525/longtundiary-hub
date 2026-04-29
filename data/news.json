@@ -1,7 +1,53 @@
 {
-  "updated": "2026-04-28T16:31:00+07:00",
+  "updated": "2026-04-29T10:33:33+07:00",
   "feed": "tech-news-daily",
   "days": [
+    {
+      "date": "2026-04-28",
+      "thai_date": "28 เมษายน 2026",
+      "headlines": [
+        {
+          "emoji": "⚖️",
+          "ticker": "$OPENAI",
+          "blurb": "คดี Musk vs Altman เปิดพิจารณาวันแรกที่ศาลรัฐบาลกลาง Oakland — Musk ขึ้นให้การ 2 ชั่วโมง เรียกคืน nonprofit structure ไล่ Altman ออกจากบอร์ด และเรียกค่าเสียหายหมื่นล้านดอลลาร์จากการแปลง OpenAI ($852B) เป็น for-profit — MSFT CEO Satya Nadella อยู่ในรายชื่อพยาน",
+          "category": "C"
+        },
+        {
+          "emoji": "📉",
+          "ticker": "$ORCL",
+          "blurb": "WSJ รายงาน OpenAI พลาด revenue target ตัวเอง CFO Sarah Friar เตือนว่ารายได้อาจไม่พอจ่าย compute contracts ท่ามกลาง AI capex อุตสาหกรรมที่รวม $660B — $ORCL -5%, CoreWeave -7%, SoftBank Tokyo -10%",
+          "category": "B"
+        },
+        {
+          "emoji": "🚀",
+          "ticker": "$STX",
+          "blurb": "Seagate Q3 FY2026 ทุบ record ทุก metric: revenue $3.11B (+44% YoY), non-GAAP EPS $4.10 (beat consensus $0.60), free cash flow $953M, Q4 guide $3.45B — AI-driven storage demand หนุน gross margin 47% (+1,080bps YoY) หุ้น +16%",
+          "category": "A"
+        },
+        {
+          "emoji": "🔬",
+          "ticker": "$NXPI",
+          "blurb": "NXP Semiconductors Q1 2026 เกินคาด: revenue $3.18B (+12.2% YoY), EPS $3.05 vs estimate $2.98, operating margin ~33% (+120bps YoY), Q2 guide $3.45B (+18% YoY) — auto/industrial chip demand ฟื้นตัวแข็งแกร่ง หุ้น +11.4% AH",
+          "category": "A"
+        },
+        {
+          "emoji": "☁️",
+          "ticker": "$META / $GOOGL / $MSFT / $AMZN",
+          "blurb": "ทั้ง 4 hyperscaler รายงาน Q1 earnings หลัง market close วันนี้ — นักลงทุนจับตา AI capex รวม ~$500B (Meta $125B, Alphabet $180B, Amazon $200B) ว่า translate เป็น revenue จริงหรือไม่ — AWS growth >20% คือ key signal ที่ตลาดรอ",
+          "category": "A"
+        }
+      ],
+      "sources": [
+        "NPR",
+        "CNBC",
+        "Fortune",
+        "WSJ",
+        "BusinessWire",
+        "FinancialContent",
+        "TipRanks",
+        "Morningstar"
+      ]
+    },
     {
       "date": "2026-04-27",
       "thai_date": "27 เมษายน 2026",
