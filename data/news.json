@@ -1,7 +1,59 @@
 {
-  "updated": "2026-04-29T10:33:33+07:00",
+  "updated": "2026-04-30T13:06:09+07:00",
   "feed": "tech-news-daily",
   "days": [
+    {
+      "date": "2026-04-29",
+      "thai_date": "29 เมษายน 2026",
+      "headlines": [
+        {
+          "emoji": "🚀",
+          "ticker": "$GOOGL",
+          "blurb": "Q1 revenue $109.9B (+22% YoY) เหนือ estimate $107.1B; Google Cloud +63% YoY ถึง $20B, net income +81% — หุ้น +6% AH เป็น hyperscaler เดียวที่ตลาดให้รางวัลจากงาน Big Tech earnings วันนี้ (+6% AH)",
+          "category": "A"
+        },
+        {
+          "emoji": "📊",
+          "ticker": "$MSFT",
+          "blurb": "Q3 FY2026: Azure +40% YoY, revenue $82.9B beat $81.4B คาด, EPS $4.27 vs $4.06 estimate — capex guidance $190B จากต้นทุน memory พุ่ง กดหุ้น -3% AH แม้ beat ทุก metric (-3% AH)",
+          "category": "A"
+        },
+        {
+          "emoji": "☁️",
+          "ticker": "$AMZN",
+          "blurb": "Q1: AWS +28% fastest growth ใน 3 ปี ถึง $37.6B; EPS $2.78 ทุบ estimate $1.64 (+69%); revenue $181.5B beat — ตลาดกดหุ้น -3% AH สะท้อน expectation สูงเกิน (-3% AH)",
+          "category": "A"
+        },
+        {
+          "emoji": "🧠",
+          "ticker": "Anthropic",
+          "blurb": "Claude Mythos model สามารถ exploit zero-day vulnerabilities ใน OS และ browser ทุกตัวได้สำเร็จ 99% — restrict access เฉพาะ NVIDIA, Apple, AWS, Google, Microsoft ผ่าน Project Glasswing ไม่ release สู่สาธารณะ",
+          "category": "B"
+        },
+        {
+          "emoji": "☁️",
+          "ticker": "AWS",
+          "blurb": "Amazon Bedrock เพิ่ม OpenAI GPT-5.5 และ GPT-5.4 (limited preview); Amazon Quick ออก desktop app สำหรับ agentic workflows — multi-model strategy ชัดขึ้นหลัง Microsoft-OpenAI สิ้นสุด exclusivity deal",
+          "category": "B"
+        },
+        {
+          "emoji": "⚖️",
+          "ticker": "$AMAT $LRCX $KLA",
+          "blurb": "US สั่งระงับส่งออก chip equipment ไปยัง Hua Hong (No.2 chipmaker จีน) กระทบ fab 28/22nm ใน Shanghai — AMAT -5.8%, KLA -4.7%, LRCX -3.1% สะท้อน China revenue exposure สูง",
+          "category": "C"
+        }
+      ],
+      "sources": [
+        "CNBC",
+        "9to5Google",
+        "Microsoft IR",
+        "NBC News",
+        "The National News",
+        "AWS Blog",
+        "Japan Times",
+        "ChinaTechNews"
+      ]
+    },
     {
       "date": "2026-04-28",
       "thai_date": "28 เมษายน 2026",
