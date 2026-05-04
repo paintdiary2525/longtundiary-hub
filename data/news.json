@@ -1,7 +1,42 @@
 {
-  "updated": "2026-04-30T13:06:09+07:00",
+  "updated": "2026-05-04T09:55:00+07:00",
   "feed": "tech-news-daily",
   "days": [
+    {
+      "date": "2026-05-03",
+      "thai_date": "3 พฤษภาคม 2026",
+      "headlines": [
+        {
+          "emoji": "🌍",
+          "ticker": "",
+          "blurb": "Morgan Stanley คาด เม็ดเงิน $1B+ กำลังจะไหลเข้า Hang Seng Tech Index หลัง Zhipu AI (Knowledge Atlas) และ MiniMax เข้าดัชนี — ส่งสัญญาณ AI จีนเริ่มดึง institutional flow จากกองทุน passive ที่ track HST เป็นครั้งแรก",
+          "category": "C"
+        },
+        {
+          "emoji": "📉",
+          "ticker": "$META / $GOOGL",
+          "blurb": "Bloomberg วิเคราะห์ผล Big Tech earnings season แสดงความแตกแยกชัด: Alphabet best performer กลุ่ม Magnificent 7 (+23% YTD) ขับเคลื่อนด้วย Google Cloud +63% Q1, ขณะ Meta ดิ่ง 8.5% หลังขึ้น capex guidance เป็น $125-145B — เป็น earnings cycle แรกที่ AI สร้าง winner/loser ชัดเจนใน Mag7",
+          "category": "A"
+        },
+        {
+          "emoji": "📊",
+          "ticker": "$GOOGL",
+          "blurb": "Truist ขึ้น price target $385→$415, Guggenheim พุ่ง $375→$450 (+20%) เมื่อ 2 พ.ค. 2569 — อิง Google Cloud beat +63% YoY สะท้อน consensus ว่า GOOGL คือ AI cloud play แข็งแกร่งที่สุดใน Mag7",
+          "category": "A"
+        },
+        {
+          "emoji": "🔬",
+          "ticker": "$PLTR / $AMD",
+          "blurb": "สัปดาห์หน้า earnings season รอบ 2 เปิด: Palantir รายงาน 4 พ.ค. (consensus revenue +74% YoY → $1.54B), AMD รายงาน 5 พ.ค. (consensus +32% YoY → $9.84B, gross margin ~55%) — ทั้งคู่มี perfect beat streak 8 ครั้งติดต่อกัน options ชี้ volatility สูง",
+          "category": "A"
+        }
+      ],
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "The Daily Political"
+      ]
+    },
     {
       "date": "2026-04-29",
       "thai_date": "29 เมษายน 2026",

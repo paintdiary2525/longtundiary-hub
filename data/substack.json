@@ -1,7 +1,47 @@
 {
-  "updated": "2026-04-28T16:31:00+07:00",
+  "updated": "2026-05-04T09:55:00+07:00",
   "feed": "substack-weekly",
   "weeks": [
+    {
+      "week_label": "Research Digest — สัปดาห์ 27 เม.ย. - 3 พ.ค. 2026",
+      "papers": [
+        {
+          "title": "7 Bonding Equipment Companies Behind HBM4 and CPO: AI's Real Bottleneck Lives in Assembly",
+          "author": "Photon Cap",
+          "author_url": "https://photoncap.substack.com",
+          "core_thesis": "Computing cycles always break at assembly—ยุค 1990s DRAM ชนะที่ wire bonder, ยุค mobile SoC ชนะที่ flip chip, ยุค AI กำลังเปลี่ยนไปหา hybrid bonding (Cu-Cu direct contact) และ TCB (thermo-compression bonding) บทความ map 7 bonding equipment companies ใน 5 domains พร้อม identification table และ differentiation table เพื่อระบุว่าแต่ละบริษัทอยู่ตรงไหนของ HBM4 และ CPO supply chain",
+          "key_takeaway": "มี 2 บริษัท pure-play bonding (รายได้จาก bonding เกือบ 100%), 2 บริษัทที่รับ TCB cash flow รอบนี้, 2 บริษัทที่มี photonic/W2W option value, และ 1 บริษัทที่กำลัง transition จาก wire bonder—bonding equipment คือ AI infrastructure bottleneck ที่ตลาดยังให้ premium ไม่เต็มที่ และเป็น angle ที่ NVDA/TSMC stories ไม่ได้ cover"
+        },
+        {
+          "title": "The CPU Bottleneck Trade: Who Actually Gets Paid in the Agentic AI Era?",
+          "author": "Damnang",
+          "author_url": "https://damnang.substack.com",
+          "core_thesis": "หลัง Intel CEO พูดว่า CPU กลับมาเป็น \"orchestration layer\" ของ AI stack ราคาหุ้น Intel +23.6% ใน session เดียว บทความวิเคราะห์ ISA architecture (x86/ARM/RISC-V) และ monetization model ของ Intel, AMD, NVIDIA, ARM, Qualcomm ผ่าน 6 investment scenarios เพื่อตอบว่าบริษัทไหนจะ \"ได้เงิน\" จาก CPU cycle จริง ๆ",
+          "key_takeaway": "ผู้ชนะ CPU cycle ไม่ใช่บริษัทที่ขาย CPU มากที่สุด—Intel ได้จาก foundry optionality + packaging, AMD จาก full-stack bundling (CPU+GPU+DPU), ARM เป็น share winner แต่ capture revenue ได้น้อย, Qualcomm มี asymmetry สูงสุดถ้า agentic AI inference explodes เพราะ forward P/E 15x ในขณะที่ตลาดยังมองแค่ handset business"
+        },
+        {
+          "title": "The One Sentence That Made Me Look at Qualcomm Again",
+          "author": "Damnang",
+          "author_url": "https://damnang.substack.com",
+          "core_thesis": "ประโยคเดียวใน earnings call ของ Qualcomm—\"a leading hyperscaler custom silicon engagement is on track for initial shipments later this calendar year\"—เปลี่ยน narrative จาก handset modem maker เป็น potential data center ASIC vendor บทความวิเคราะห์ว่าทำไม LPDDR (ไม่ใช่ HBM) คือ strategic choice ที่ถูกต้องสำหรับ inference, การซื้อ Alphawave + Ventana คือ skeleton ของ custom ASIC business, และพยายาม identify anonymous hyperscaler โดย Meta มีโอกาสสูงสุด",
+          "key_takeaway": "สิ่งที่สำคัญกว่าชื่อ hyperscaler คือ structure ของ engagement—ถ้าเป็น custom ASIC platform ไม่ใช่แค่ rack purchase, Qualcomm จะ rerate จาก handset multiple เป็น ASIC supply chain multiple ได้ catalyst สำคัญคือ Investor Day 24 มิถุนายน 2026 และ December quarter shipments"
+        },
+        {
+          "title": "Deep|DeepSeek V4: The First Model Custom-Built for Non-NVIDIA Chips, Optimized for Cost",
+          "author": "FundaAI",
+          "author_url": "https://fundaai.substack.com",
+          "core_thesis": "สิ่งที่น่าสนใจกว่า benchmark ของ DeepSeek V4 คือ architecture ที่ถูก design มาเพื่อ non-NVIDIA hardware—attention mechanism ใหม่ (CSA/HCA/SWA), MegaMoE kernel, และ inference path ที่เหมาะกับ Huawei Ascend และ optical scale-up supernodes ล้วนเป็นการ optimize สำหรับ hardware ที่ไม่มี CUDA ecosystem",
+          "key_takeaway": "Chinese AI กำลัง transition จาก \"models running on Chinese chips\" ไปเป็น \"models designed for Chinese chips\"—เหมือน co-optimization ระหว่าง Google Gemini กับ TPU ระยะยาว CUDA absolute lock-in จะค่อย ๆ อ่อนแอลง และ Chinese AI compute stack (Huawei Ascend, ByteDance ASICs) มีโอกาสกลายเป็น viable ecosystem ไม่ใช่แค่ NVIDIA substitute"
+        },
+        {
+          "title": "Amazon, Google, Microsoft, Meta Q1 earnings: AI profits are here, custom silicon is winning",
+          "author": "UncoverAlpha",
+          "author_url": "https://uncoveralpha.substack.com",
+          "core_thesis": "ผล Q1 2026 จาก 4 hyperscalers พิสูจน์ว่า bear case เรื่อง \"AI workloads มี margin ต่ำ\" ผิด—Google Cloud operating margin ขึ้นจาก 17.8% เป็น 32.9% YoY, AWS ขึ้นจาก 31.4% เป็น 37.7%, Microsoft บอก AI margins \"better than early cloud\", Amazon บอก Trainium ให้ \"several hundred bps\" ของ margin advantage versus NVIDIA chips",
+          "key_takeaway": "custom silicon (TPU, Trainium, Meta ASIC กับ Broadcom) คือ structural reason ที่ทำให้ AI workloads margin-accretive—hyperscalers กำลัง vertically integrate เข้าไปใน chip layer เพื่อไม่ให้ NVIDIA control margin บน most valuable workloads ตลอดทศวรรษหน้า GitHub Copilot เปลี่ยนจาก per-seat เป็น consumption pricing คือสัญญาณว่า \"subsidized compute era\" กำลังสิ้นสุด"
+        }
+      ]
+    },
     {
       "week_label": "Research Digest — สัปดาห์ 19–26 เมษายน 2026",
       "papers": [
