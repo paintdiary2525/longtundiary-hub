@@ -1,0 +1,38 @@
+{
+  "ai-101": {
+    "id": "ai-101",
+    "label": "AI 101",
+    "subtitle": "ตั้งต้นจากศูนย์",
+    "blurb": "Foundation — install, skills, tokens, sub-agents, and the system I actually use.",
+    "entries": [
+      { "type": "coming-soon", "title": "Claude Code สำหรับคนเพิ่งเริ่ม — ตั้งแต่ติดตั้งจนพิมพ์คำสั่งแรกเป็น", "subtitle": "~45–60min", "card_slug": "ultimate-beginner" },
+      { "type": "coming-soon", "title": "Skill, NotebookLM, CLAUDE.md, GitHub, Connectors — ทำให้ Claude จำคุณได้", "subtitle": "~45–60min", "card_slug": "skills-and-notebooklm" },
+      { "type": "coming-soon", "title": "ประหยัด Token — ใช้ Claude ให้ค่าจ่ายน้อยลงโดยที่ผลงานเท่าเดิม", "subtitle": "~25–45min", "card_slug": "save-tokens" },
+      { "type": "coming-soon", "title": "Sub-agent + Automation — สร้างทีม AI ตัวเล็กที่ทำงานแทนคุณ", "subtitle": "~45–60min", "card_slug": "subagents-and-automations" },
+      { "type": "coming-soon", "title": "ClaudyOS — ภาพรวมระบบที่ผมใช้จริงทั้งหมด", "subtitle": "~45–60min", "card_slug": "claudy-os-summary" }
+    ]
+  },
+  "ai-workflows": {
+    "id": "ai-workflows",
+    "label": "AI for Workflows",
+    "subtitle": "ใช้จริงทุกวัน",
+    "blurb": "Hands-on pipelines — content production and stock research, end-to-end.",
+    "entries": [
+      { "type": "section-header", "label": "AI for Content" },
+      { "type": "coming-soon", "title": "ทำให้ AI เขียนแล้วไม่กลิ่น AI — voice profile + anti-AI pipeline ของผม", "subtitle": "~45–60min", "card_slug": "voice-anti-ai-content-pipeline" },
+      { "type": "section-header", "label": "AI for Investment" },
+      { "type": "coming-soon", "title": "research หุ้นให้เร็วขึ้นด้วย AI — SEC EDGAR + NotebookLM + Deep Research + database ของพอร์ต", "subtitle": "~45–60min", "card_slug": "research-faster-with-ai" }
+    ]
+  },
+  "ai-advanced": {
+    "id": "ai-advanced",
+    "label": "AI Advanced",
+    "subtitle": "ลึกขึ้นอีกขั้น",
+    "blurb": "Power-user territory — personal LLM wikis, your own micro-apps, and beyond.",
+    "entries": [
+      { "type": "coming-soon", "title": "Karpathy LLM Wiki — โน้ตของคุณคือ \"สมองที่ 2\" ที่ถาม AI ได้", "subtitle": "~25–45min", "card_slug": "karpathy-llm-wiki" },
+      { "type": "coming-soon", "title": "Build Hyperspecific App — สร้าง app เล็กๆ ของตัวเองแทน subscribe SaaS", "subtitle": "~25–45min", "card_slug": "hyperspecific-app" },
+      { "type": "coming-soon", "title": "Other Specific — TBD (Paint จะเลือกจาก 3 candidates)", "subtitle": "~25–45min", "card_slug": "other-specific" }
+    ]
+  }
+}

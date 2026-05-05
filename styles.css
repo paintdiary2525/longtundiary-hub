@@ -263,6 +263,59 @@ img { max-width: 100%; display: block; }
 .hub-path__item-icon { color: var(--sage-500); }
 .hub-path__item-icon svg { width: 16px; height: 16px; }
 
+/* coming-soon state — non-clickable, muted, with a small "เร็วๆ นี้" badge */
+.hub-path__item.is-coming-soon {
+  cursor: default;
+  opacity: 0.78;
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent 0 6px,
+    rgba(0,0,0,0.025) 6px 12px
+  );
+}
+.hub-path__item.is-coming-soon:hover {
+  background: repeating-linear-gradient(
+    -45deg,
+    transparent 0 6px,
+    rgba(0,0,0,0.025) 6px 12px
+  );
+  border-color: transparent;
+}
+.hub-path__item.is-coming-soon .hub-path__num {
+  background: var(--cream-200);
+  color: var(--fg-2);
+  border-color: var(--fg-2);
+}
+.hub-path__badge {
+  flex: none;
+  display: inline-flex; align-items: center;
+  background: var(--cream-200);
+  color: var(--forest-900);
+  border: 1.5px solid var(--forest-900);
+  border-radius: 999px;
+  padding: 3px 9px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* section sub-heading inside a hub-path column (used by middle AI tab) */
+.hub-path__section {
+  list-style: none;
+  margin: 12px 0 2px;
+  padding: 0 4px 4px;
+  border-bottom: 1.5px dashed var(--sage-500);
+}
+.hub-path__section:first-child { margin-top: 4px; }
+.hub-path__section span {
+  font-family: var(--font-hand);
+  font-size: 16px;
+  color: var(--sage-500);
+  letter-spacing: 0.02em;
+}
+
 /* member stamp on path items */
 .hub-stamp {
   display: inline-flex; align-items: center;
