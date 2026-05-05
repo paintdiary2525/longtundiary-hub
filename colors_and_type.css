@@ -89,16 +89,16 @@
   /* ---------- Type scale ---------- */
   /* The diary mixes a hand-lettered script for headers with a
      practical Thai sans for body. Sizes step in a relaxed ratio. */
-  --fs-hero:     clamp(48px, 6vw, 88px);   /* hand-lettered hero */
-  --fs-display:  clamp(36px, 4vw, 56px);
-  --fs-h1:       40px;
-  --fs-h2:       32px;
-  --fs-h3:       24px;
-  --fs-h4:       20px;
-  --fs-body-lg:  18px;
-  --fs-body:     16px;
-  --fs-caption:  14px;
-  --fs-tiny:     12px;
+  --fs-hero:     clamp(54px, 6vw, 99px);   /* hand-lettered hero */
+  --fs-display:  clamp(41px, 4vw, 63px);
+  --fs-h1:       45px;
+  --fs-h2:       36px;
+  --fs-h3:       27px;
+  --fs-h4:       23px;
+  --fs-body-lg:  20px;
+  --fs-body:     18px;
+  --fs-caption:  16px;
+  --fs-tiny:     14px;
 
   --lh-tight:   1.15;
   --lh-snug:    1.3;
