@@ -61,6 +61,31 @@ img { max-width: 100%; display: block; }
   text-decoration-thickness: 2px; text-underline-offset: 4px;
 }
 
+/* Wrapper around nav links + cta cluster.
+   Desktop: contents pass-through so flex layout is unchanged.
+   Mobile (≤600px, see responsive block): becomes a drawer toggled by .is-open. */
+.hub-nav__menu { display: contents; }
+
+/* Hamburger button — hidden on desktop, shown ≤600px. */
+.hub-nav__burger {
+  display: none;
+  align-items: center; justify-content: center;
+  width: 40px; height: 40px; padding: 0;
+  border: 2px solid var(--forest-900); border-radius: 999px;
+  background: var(--cream-50);
+  cursor: pointer;
+  flex-direction: column; gap: 4px;
+}
+.hub-nav__burger span {
+  display: block; width: 18px; height: 2px;
+  background: var(--forest-900); border-radius: 2px;
+  transition: transform var(--dur-fast) var(--ease-paper),
+              opacity var(--dur-fast) var(--ease-paper);
+}
+.hub-nav.is-open .hub-nav__burger span:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+.hub-nav.is-open .hub-nav__burger span:nth-child(2) { opacity: 0; }
+.hub-nav.is-open .hub-nav__burger span:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
 /* Right-side cluster: News/Substack page pills · social icons · Join */
 .hub-nav__cta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; row-gap: 6px; }
 
@@ -544,14 +569,15 @@ img { max-width: 100%; display: block; }
 .hub-foot__cols div { display: flex; flex-direction: column; gap: 6px; }
 .hub-foot__cols a { color: var(--cream-50); opacity: 0.82; text-decoration: none; font-size: 14px; }
 .hub-foot__cols a:hover { opacity: 1; text-decoration: underline; }
-.hub-foot__cols p { opacity: 0.82; font-size: 14px; max-width: 36ch; margin: 6px 0 0; }
+.hub-foot__cols p { opacity: 1; font-size: 14px; max-width: 36ch; margin: 6px 0 0; color: var(--cream-50); }
 .hub-foot__brand { font-family: var(--font-script); font-size: 28px; }
 .hub-foot__hd { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; margin-bottom: 4px; }
 .hub-foot__bar {
   max-width: 1180px; margin: 32px auto 0; padding-top: 18px;
   border-top: 1px solid rgba(240, 240, 224, 0.15);
   display: flex; align-items: center; justify-content: space-between;
-  font-family: var(--font-mono); font-size: 12px; opacity: 0.82;
+  font-family: var(--font-mono); font-size: 12px;
+  color: var(--cream-50);
 }
 .hub-foot__bar img { width: 36px; height: 36px; border-radius: 999px; border: 2px solid var(--cream-50); }
 
@@ -596,13 +622,30 @@ img { max-width: 100%; display: block; }
 @media (max-width: 600px) {
   .hub-page { padding: 0 18px; }
   .hub-nav { padding: 12px 14px; gap: 8px; }
-  .hub-nav__links { display: none; }
-  .hub-nav__cta { gap: 5px; }
-  .hub-pagepill { padding: 5px 11px; font-size: 12px; }
-  /* On mobile, social links collapse to icon-only and shrink */
-  .hub-iconlink { padding: 5px 8px; }
-  .hub-iconlink .hub-iconlink__text:not(.hub-iconlink__text--sr) { display: none; }
-  .hub-btn--sm { padding: 5px 11px; font-size: 12px; }
   .hub-brand__name { font-size: 22px; }
+
+  /* Show hamburger; hide drawer by default; reveal it on .is-open. */
+  .hub-nav__burger { display: inline-flex; }
+  .hub-nav__menu {
+    display: none;
+    position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: column; gap: 14px;
+    padding: 16px;
+    background: rgba(240, 240, 224, 0.98);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--cream-300);
+    box-shadow: 0 8px 16px rgba(48, 72, 40, 0.08);
+  }
+  .hub-nav.is-open .hub-nav__menu { display: flex; }
+  .hub-nav__links { display: flex; flex-direction: column; gap: 12px; font-size: 16px; }
+  .hub-nav__cta { flex-direction: column; align-items: stretch; gap: 8px; }
+  .hub-nav__cta .hub-pagepill,
+  .hub-nav__cta .hub-iconlink,
+  .hub-nav__cta .hub-btn { justify-content: center; }
+  .hub-pagepill { padding: 8px 14px; font-size: 14px; }
+  .hub-iconlink { padding: 8px 12px; }
+  .hub-iconlink .hub-iconlink__text:not(.hub-iconlink__text--sr) { display: none; }
+  .hub-btn--sm { padding: 8px 14px; font-size: 14px; }
+
   .hub-foot__cols { grid-template-columns: 1fr; }
 }
