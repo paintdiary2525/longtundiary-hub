@@ -20,8 +20,13 @@
     "entries": [
       { "type": "section-header", "label": "AI for Content" },
       { "type": "coming-soon", "title": "ทำให้ AI เขียนแล้วไม่กลิ่น AI — voice profile + anti-AI pipeline ของผม", "subtitle": "~45–60min", "card_slug": "voice-anti-ai-content-pipeline" },
+      { "type": "coming-soon", "title": "ผมใช้ Claude design ยังไง — ทำเว็บ + thumbnail + diagram โดยที่ผม code ไม่เป็น", "subtitle": "~45–60min", "card_slug": "claude-design-workflow" },
+      { "type": "coming-soon", "title": "ผมทำสไลด์ยังไง — Marp default + frontend-slides ตอน animate ที่ทำให้คลิปไม่กลิ่น AI", "subtitle": "~45–60min", "card_slug": "make-slides" },
       { "type": "section-header", "label": "AI for Investment" },
-      { "type": "coming-soon", "title": "research หุ้นให้เร็วขึ้นด้วย AI — SEC EDGAR + NotebookLM + Deep Research + database ของพอร์ต", "subtitle": "~45–60min", "card_slug": "research-faster-with-ai" }
+      { "type": "coming-soon", "title": "research หุ้นให้เร็วขึ้นด้วย AI — SEC EDGAR + NotebookLM + Deep Research + database ของพอร์ต", "subtitle": "~45–60min", "card_slug": "research-faster-with-ai" },
+      { "type": "coming-soon", "title": "ทำ portfolio dashboard ของตัวเองจาก PDF broker — drop ไฟล์ รัน 1 คำสั่ง ได้หน้า dashboard", "subtitle": "~25–45min", "card_slug": "dashboard-from-broker-pdf" },
+      { "type": "coming-soon", "title": "ทำ thesis tracker ของตัวเอง — atom → insight → thesis ที่ compound ทุกอาทิตย์", "subtitle": "~45–60min", "card_slug": "thesis-tracker" },
+      { "type": "coming-soon", "title": "ทำไมผมตั้ง Nick — AI ที่ run paper portfolio โดยไม่เห็นพอร์ตจริงของผม", "subtitle": "~25–45min", "card_slug": "nick-blind-portfolio-explained" }
     ]
   },
   "ai-advanced": {
