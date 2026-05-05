@@ -20,10 +20,10 @@
     card.innerHTML = `
       <span class="hub-path__tab">Vol ${idx + 1}</span>
       <div>
-        <h3 class="hub-path__title">${p.label}</h3>
-        <span class="hub-path__subtitle">${p.subtitle}</span>
+        <h3 class="hub-path__title">${escapeHtml(p.label)}</h3>
+        <span class="hub-path__subtitle">${escapeHtml(p.subtitle)}</span>
       </div>
-      <ol class="hub-path__list" id="ai-list-${p.id}"></ol>
+      <ol class="hub-path__list" id="ai-list-${escapeHtml(p.id)}"></ol>
     `;
     grid.appendChild(card);
 
@@ -57,9 +57,9 @@
 
       // Future shape: published video. Same as app.js path rendering.
       if (entry.type === "video" && entry.video_id) {
-        const href = `https://youtube.com/watch?v=${entry.video_id}`;
+        const href = `https://youtube.com/watch?v=${encodeURIComponent(entry.video_id)}`;
         li.innerHTML = `
-          <a class="hub-path__item" href="${href}" target="_blank" rel="noopener">
+          <a class="hub-path__item" href="${escapeHtml(href)}" target="_blank" rel="noopener">
             <span class="hub-path__num">${n}</span>
             <span class="hub-path__txt">${escapeHtml(entry.title || entry.video_id)}${entry.subtitle ? `<small>${escapeHtml(entry.subtitle)}</small>` : ""}</span>
             <span class="hub-path__item-icon"><i data-lucide="play"></i></span>

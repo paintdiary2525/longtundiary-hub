@@ -45,10 +45,10 @@
     card.innerHTML = `
       <span class="hub-path__tab">Vol ${idx + 1}</span>
       <div>
-        <h3 class="hub-path__title">${p.label}</h3>
-        <span class="hub-path__subtitle">${p.subtitle}</span>
+        <h3 class="hub-path__title">${escapeHtml(p.label)}</h3>
+        <span class="hub-path__subtitle">${escapeHtml(p.subtitle)}</span>
       </div>
-      <ol class="hub-path__list" id="path-list-${p.id}"></ol>
+      <ol class="hub-path__list" id="path-list-${escapeHtml(p.id)}"></ol>
     `;
     pathsGrid.appendChild(card);
     const list = $(`#path-list-${p.id}`, card);
@@ -92,7 +92,7 @@
           : `<span class="hub-path__item-icon"><i data-lucide="play"></i></span>`;
       const memberStamp = isMember ? `<span class="hub-stamp">MEMBER</span>` : "";
       li.innerHTML = `
-        <a class="${itemClasses.join(" ")}" href="${href}" ${linkAttrs}>
+        <a class="${itemClasses.join(" ")}" href="${escapeHtml(href)}" ${linkAttrs}>
           <span class="hub-path__num">${i + 1}</span>
           <span class="hub-path__txt">${escapeHtml(title)}${sub ? `<small>${escapeHtml(sub)}</small>` : ""}</span>
           ${memberStamp || trailingIcon}
@@ -108,14 +108,14 @@
   if (latest) {
     const el = $("#latest-card");
     el.innerHTML = `
-      <a class="hub-latest__thumb" href="${latest.url}" target="_blank" rel="noopener">
-        <img src="${ytThumb(latest.video_id)}" alt="" loading="lazy">
+      <a class="hub-latest__thumb" href="${escapeHtml(latest.url)}" target="_blank" rel="noopener">
+        <img src="${escapeHtml(ytThumb(latest.video_id))}" alt="" loading="lazy">
       </a>
       <div class="hub-latest__body">
         ${latest.membership ? `<span class="hub-stamp hub-stamp--lg">MEMBER</span> ` : ""}
         <h3>${escapeHtml(latest.title)}</h3>
         ${latest.series.length ? `<p>Series · ${latest.series.map(escapeHtml).join(" · ")}</p>` : ""}
-        <a class="hub-membercard__cta" href="${latest.url}" target="_blank" rel="noopener">Open on YouTube <i data-lucide="arrow-up-right"></i></a>
+        <a class="hub-membercard__cta" href="${escapeHtml(latest.url)}" target="_blank" rel="noopener">Open on YouTube <i data-lucide="arrow-up-right"></i></a>
         <div class="meta">
           <span><i data-lucide="calendar"></i> ${fmtDate(latest.date)}</span>
           ${latest.level ? `<span><i data-lucide="layers"></i> ${latest.level}</span>` : ""}
@@ -138,7 +138,7 @@
     a.dataset.series = s.name;
     a.innerHTML = `
       <span class="hub-book__stub">${s.playlist ? "playlist" : "auto-list"}</span>
-      <span class="hub-book__icon"><i data-lucide="${s.icon}"></i></span>
+      <span class="hub-book__icon"><i data-lucide="${escapeHtml(s.icon)}"></i></span>
       <span class="hub-book__name">${escapeHtml(s.name)}</span>
       <span class="hub-book__sub">${escapeHtml(s.subtitle)}</span>
       <span class="hub-book__count">${count} entr${count === 1 ? "y" : "ies"}</span>
@@ -177,7 +177,7 @@
   aiSemiChip.href = aiSemi.playlist;
   aiSemiChip.target = "_blank";
   aiSemiChip.rel = "noopener";
-  aiSemiChip.innerHTML = `<i data-lucide="cpu" style="width:14px;height:14px"></i> ${aiSemi.label} <span class="hub-chip__count">playlist</span>`;
+  aiSemiChip.innerHTML = `<i data-lucide="cpu" style="width:14px;height:14px"></i> ${escapeHtml(aiSemi.label)} <span class="hub-chip__count">playlist</span>`;
   chipBox.appendChild(aiSemiChip);
   // Then the rest from data
   topicAggregates.forEach(([topic, count]) => {
@@ -233,7 +233,7 @@
     visible.forEach(e => {
       const li = document.createElement("li");
       li.innerHTML = `
-        <a class="hub-archive__row" href="${e.url || "#"}" ${e.url ? 'target="_blank" rel="noopener"' : ""}>
+        <a class="hub-archive__row" href="${escapeHtml(e.url || "#")}" ${e.url ? 'target="_blank" rel="noopener"' : ""}>
           <span class="hub-archive__date">${fmtDate(e.date)}</span>
           <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">MEMBER</span>' : ""}${escapeHtml(e.title)}</span>
           <span class="hub-archive__series">${e.series.map(s => `<span>${escapeHtml(s)}</span>`).join(" · ")}</span>
@@ -274,7 +274,7 @@
       filtered.slice(0, pageSize).forEach(e => {
         const li = document.createElement("li");
         li.innerHTML = `
-          <a class="hub-archive__row" href="${e.url || "#"}" target="_blank" rel="noopener">
+          <a class="hub-archive__row" href="${escapeHtml(e.url || "#")}" target="_blank" rel="noopener">
             <span class="hub-archive__date">${fmtDate(e.date)}</span>
             <span class="hub-archive__title">${e.membership ? '<span class="hub-stamp" style="margin-right:8px">MEMBER</span>' : ""}${escapeHtml(e.title)}</span>
             <span class="hub-archive__series">${e.series.map(s => `<span>${escapeHtml(s)}</span>`).join(" · ")}</span>

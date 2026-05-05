@@ -2,10 +2,12 @@
   const $ = (s) => document.querySelector(s);
   const $$ = (s) => Array.from(document.querySelectorAll(s));
 
+  const escapeHtml = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
+
   function fail(msg, err) {
     console.error("[diary]", msg, err);
     const list = $("#diary-results");
-    if (list) list.innerHTML = `<li class="diary-empty__msg">⚠ ${msg}<br><code style="font-size:11px;color:var(--accent-tomato)">${(err && err.message) || err || "unknown"}</code></li>`;
+    if (list) list.innerHTML = `<li class="diary-empty__msg">⚠ ${escapeHtml(msg)}<br><code style="font-size:11px;color:var(--accent-tomato)">${escapeHtml(String((err && err.message) || err || "unknown"))}</code></li>`;
   }
   window.addEventListener("error", e => fail("page error", e.error || e.message));
 
@@ -24,8 +26,6 @@
     xpost:    { label: "X post", icon: "𝕏" },
     substack: { label: "Substack", icon: "📰" },
   };
-
-  const escapeHtml = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
 
   function fmtDate(iso) {
     if (!iso) return "";
