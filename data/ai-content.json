@@ -32,7 +32,7 @@
     "entries": [
       { "type": "coming-soon", "title": "Karpathy LLM Wiki — โน้ตของคุณคือ \"สมองที่ 2\" ที่ถาม AI ได้", "subtitle": "~25–45min", "card_slug": "karpathy-llm-wiki" },
       { "type": "coming-soon", "title": "Build Hyperspecific App — สร้าง app เล็กๆ ของตัวเองแทน subscribe SaaS", "subtitle": "~25–45min", "card_slug": "hyperspecific-app" },
-      { "type": "coming-soon", "title": "Other Specific — TBD (Paint จะเลือกจาก 3 candidates)", "subtitle": "~25–45min", "card_slug": "other-specific" }
+      { "type": "coming-soon", "title": "Other Specific — TBD", "subtitle": "~25–45min", "card_slug": "other-specific" }
     ]
   }
 }
