@@ -23,7 +23,6 @@
         <h3 class="hub-path__title">${p.label}</h3>
         <span class="hub-path__subtitle">${p.subtitle}</span>
       </div>
-      <p class="hub-path__blurb">${p.blurb}</p>
       <ol class="hub-path__list" id="ai-list-${p.id}"></ol>
     `;
     grid.appendChild(card);
