@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-04T09:55:00+07:00",
+  "updated": "2026-05-05T10:35:00+07:00",
   "feed": "tech-news-daily",
   "days": [
+    {
+      "date": "2026-05-04",
+      "thai_date": "4 พฤษภาคม 2026",
+      "headlines": [
+        {
+          "emoji": "🚀",
+          "ticker": "$PLTR",
+          "blurb": "Palantir รายงาน Q1 revenue $1.63B โต 85% Y/Y เกิน consensus ทุก metric (EPS $0.33 vs $0.28 คาด) ปรับ guidance FY2026 เป็น $7.65B (+71% Y/Y) — growth เร็วที่สุดตั้งแต่ IPO หุ้นขึ้น AH",
+          "category": "A"
+        },
+        {
+          "emoji": "📉",
+          "ticker": "$AMD",
+          "blurb": "HSBC ลด rating จาก Buy เป็น Hold ก่อน earnings พรุ่งนี้ ตัด 2026 AI GPU revenue estimate เหลือ $14.6B จาก $18.5B เหตุ TSMC capacity ถึงขีดจำกัดสำหรับ MI450 และ valuation ที่ stretch หลัง rally 77% หุ้นร่วง 5%",
+          "category": "A"
+        },
+        {
+          "emoji": "🔬",
+          "ticker": "$LSCC",
+          "blurb": "Lattice Semiconductor Q1 revenue $170.9M โต 42% Y/Y เกิน forecast พร้อมกันนั้น announce ซื้อ AMI (platform firmware ชั้นนำสำหรับ cloud/AI) มูลค่า $1.65B SAM รวมเพิ่มเป็น $12B หุ้นขึ้น +3.8% AH",
+          "category": "A"
+        },
+        {
+          "emoji": "🤝",
+          "ticker": "AI",
+          "blurb": "Anthropic และ OpenAI ประกาศ enterprise AI JV ในวันเดียวกัน: Anthropic จับมือ Blackstone, Goldman Sachs, H&F ตั้ง $1.5B venture ส่ง Claude เข้า PE portfolio — OpenAI เปิด \"The Development Company\" เล็ง $4B จาก 19 นักลงทุน valuation $10B",
+          "category": "B"
+        },
+        {
+          "emoji": "🌍",
+          "ticker": "Semis",
+          "blurb": "SIA รายงาน global chip sales Q1/2026 ที่ $298.5B โต 25% จาก Q4/2025 (+79% Y/Y ในเดือน มี.ค.) อุตสาหกรรม semiconductor มุ่งสู่ $1 trillion ภายในปี 2026 ยืนยัน AI demand cycle ยังแข็งแกร่ง",
+          "category": "C"
+        }
+      ],
+      "sources": [
+        "CNBC",
+        "Yahoo Finance",
+        "BusinessWire",
+        "TechCrunch",
+        "Bloomberg",
+        "Semiconductor Industry Association"
+      ]
+    },
     {
       "date": "2026-05-03",
       "thai_date": "3 พฤษภาคม 2026",
