@@ -153,8 +153,11 @@
     a.className = "hub-book hub-book--sage hub-book--no-playlist";
     a.href = `#archive?series=${encodeURIComponent(s.name)}`;
     a.dataset.series = s.name;
+    const logoInner = (window.TickerLogo
+      ? window.TickerLogo.tickerLogoInner(s.ticker)
+      : `<i data-lucide="trending-up"></i>`);
     a.innerHTML = `
-      <span class="hub-book__icon"><i data-lucide="trending-up"></i></span>
+      <span class="hub-book__icon">${logoInner}</span>
       <span class="hub-book__name">$${escapeHtml(s.ticker)}</span>
       <span class="hub-book__sub">${s.count} entries</span>
     `;

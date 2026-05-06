@@ -39,13 +39,29 @@
   $("#news-meta").textContent = `${fmtLastEdited(data.updated)} · ${days.length} day${days.length === 1 ? "" : "s"}`;
 
   const html = days.map(day => {
-    const headlines = (day.headlines || []).map(h => `
+    const headlines = (day.headlines || []).map(h => {
+      const tickers = (window.TickerLogo ? window.TickerLogo.parseTickers(h.ticker || "") : []);
+      let tickerCell;
+      if (tickers.length > 0) {
+        const logos = tickers.map(t => window.TickerLogo.tickerLogoHTML(t)).join("");
+        const text = tickers.map(t => `$${t}`).join(" · ");
+        tickerCell = `
+          <span class="news-headline__ticker-stack">
+            <span class="news-headline__logos">${logos}</span>
+            <span class="news-headline__ticker-text">${escapeHtml(text)}</span>
+          </span>
+        `;
+      } else {
+        tickerCell = `<span class="news-headline__ticker">${escapeHtml(h.ticker || "—")}</span>`;
+      }
+      return `
       <li class="news-headline">
         <span class="news-headline__emoji">${escapeHtml(h.emoji || "🗞️")}</span>
-        <span class="news-headline__ticker">${escapeHtml(h.ticker || "—")}</span>
+        ${tickerCell}
         <span class="news-headline__blurb">${escapeHtml(h.blurb || "")}</span>
       </li>
-    `).join("");
+    `;
+    }).join("");
     const sources = (day.sources && day.sources.length)
       ? `<p class="news-day__sources"><strong>ที่มา:</strong> ${day.sources.map(escapeHtml).join(" · ")}</p>`
       : "";

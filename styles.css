@@ -438,9 +438,41 @@ img { max-width: 100%; display: block; }
   width: 36px; height: 36px;
   border: 2px solid var(--forest-900); border-radius: 999px;
   background: var(--cream-100);
+  overflow: hidden;
 }
 .hub-book--sage .hub-book__icon { background: var(--cream-50); }
 .hub-book__icon svg { width: 18px; height: 18px; }
+.hub-book__icon img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.hub-book__icon .ticker-logo__fallback {
+  font-family: var(--font-mono); font-weight: 700;
+  font-size: 13px; color: var(--forest-900);
+  line-height: 1;
+}
+
+/* ---------- Reusable ticker logo (logo.dev backed) ---------- */
+.ticker-logo {
+  display: inline-grid; place-items: center;
+  width: 36px; height: 36px;
+  border: 2px solid var(--forest-900); border-radius: 999px;
+  background: var(--cream-50);
+  box-shadow: 1px 2px 0 var(--forest-900);
+  overflow: hidden;
+  flex: 0 0 auto;
+}
+.ticker-logo img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.ticker-logo__fallback {
+  font-family: var(--font-mono); font-weight: 700;
+  font-size: 14px; color: var(--forest-900);
+  line-height: 1;
+}
 .hub-book__name { font-family: var(--font-display); font-weight: 600; font-size: 20px; line-height: 1.25; margin: 4px 0 0; }
 .hub-book__sub { font-family: var(--font-hand); font-size: 17px; color: var(--sage-500); }
 .hub-book__count { font-family: var(--font-mono); font-size: 12px; color: var(--fg-3); margin-top: 6px; }
@@ -586,6 +618,12 @@ img { max-width: 100%; display: block; }
   color: var(--cream-50);
 }
 .hub-foot__bar img { width: 36px; height: 36px; border-radius: 999px; border: 2px solid var(--cream-50); }
+.hub-foot__attrib {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--cream-100); opacity: 0.6;
+  text-decoration: none;
+}
+.hub-foot__attrib:hover { opacity: 0.9; text-decoration: underline; }
 
 /* ---------- Page-flip transition (fires on hero "Open the diary" CTA) ---------- */
 .page-flip {
