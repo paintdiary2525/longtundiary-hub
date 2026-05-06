@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-05T10:35:00+07:00",
+  "updated": "2026-05-06T17:00:00+07:00",
   "feed": "tech-news-daily",
   "days": [
+    {
+      "date": "2026-05-05",
+      "thai_date": "5 พฤษภาคม 2026",
+      "headlines": [
+        {
+          "emoji": "🚀",
+          "ticker": "$AMD",
+          "blurb": "Q1 2026: data center revenue พุ่ง 57% YoY แตะ $5.78B ดัน revenue รวม $10.3B (est $9.84B) EPS $1.37 (est $1.29) Q2 guidance $11.2B เหนือ consensus — ส่งสัญญาณ AI infrastructure demand ยังแข็งแกร่ง (+12% AH)",
+          "category": "A"
+        },
+        {
+          "emoji": "📊",
+          "ticker": "$SMCI",
+          "blurb": "Q3 FY26: revenue พลาด $10.2B จาก $12.4B คาด เหตุ customer readiness ล่าช้า แต่ EPS $0.84 beat $0.62 est gross margin ฟื้น 10.1% Q4 guidance $11-12.5B เหนือ consensus — หุ้นพุ่ง AH",
+          "category": "A"
+        },
+        {
+          "emoji": "🏭",
+          "ticker": "$INTC",
+          "blurb": "Bloomberg รายงาน Apple กำลัง explore Intel และ Samsung ผลิต chip หลักใน US เพื่อลด dependence จาก TSMC ท่ามกลางความเสี่ยง Taiwan — Intel พุ่ง all-time high +14%",
+          "category": "B"
+        },
+        {
+          "emoji": "🧠",
+          "ticker": "Anthropic",
+          "blurb": "เปิดตัว 10 finance AI agents สำเร็จรูป (pitch builder, KYC screener, month-end closer) พร้อม Claude integration ครบ Microsoft 365 และ Moody's/Verisk partnerships — Claude Opus 4.7 นำ Finance Agent benchmark 64.37%",
+          "category": "B"
+        },
+        {
+          "emoji": "🤝",
+          "ticker": "OpenAI",
+          "blurb": "จับมือ PwC สร้าง AI-native finance function แบบ agentic ครอบคลุม planning, forecasting, procurement, treasury และ accounting close — PwC กลายเป็น ChatGPT enterprise customer รายใหญ่ที่สุด",
+          "category": "B"
+        },
+        {
+          "emoji": "🌍",
+          "ticker": "Semis",
+          "blurb": "SIA รายงาน Q1 2026 global semiconductor sales แตะ $298.5B โต 25% QoQ March monthly สถิติใหม่ $99.5B (+79% YoY) — อุตสาหกรรมยัง on track แตะ $1 trillion ในปีนี้",
+          "category": "C"
+        }
+      ],
+      "sources": [
+        "Bloomberg",
+        "Shacknews",
+        "anthropic.com",
+        "PRNewswire",
+        "SIA",
+        "Evertiq"
+      ]
+    },
     {
       "date": "2026-05-04",
       "thai_date": "4 พฤษภาคม 2026",

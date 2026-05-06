@@ -54,6 +54,12 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-script); font-size: 29px;
   color: var(--forest-900); font-weight: 600;
 }
+.hub-brand__name .th,
+.hub-foot__brand .th {
+  font-family: var(--font-display); /* Mitr — supports Thai properly */
+  font-weight: 500;
+  letter-spacing: 0;
+}
 .hub-nav__links { display: flex; gap: 22px; font-size: 16px; }
 .hub-nav__links a { color: var(--forest-900); text-decoration: none; padding: 4px 0; }
 .hub-nav__links a:hover {
